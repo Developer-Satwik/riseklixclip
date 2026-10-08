@@ -72,7 +72,7 @@
   document.addEventListener('keydown',event=>{if((event.metaKey||event.ctrlKey)&&!event.altKey&&event.key.toLowerCase()==='k'){event.preventDefault();openSearch();}});
  }
  if(search){const params=new URLSearchParams(location.search);search.value=(params.get('q')||'').slice(0,120);const wanted=params.get('category');if(category&&Array.from(category.options).some(option=>option.value===wanted))category.value=wanted;if(search.value||wanted)filter();}
- const enquiry=document.querySelector('#campaign-enquiry');if(enquiry)import('/campaign-enquiry.js?v=campaign-1').then(module=>module.setup(enquiry)).catch(()=>{});
+ const enquiry=document.querySelector('#campaign-enquiry');if(enquiry)import('/campaign-enquiry.js?v=button-1').then(module=>module.setup(enquiry)).catch(()=>{});
  const money=n=>new Intl.NumberFormat('en-IN',{style:'currency',currency:'INR',maximumFractionDigits:2}).format(n);
  const number=n=>new Intl.NumberFormat('en-IN',{maximumFractionDigits:2}).format(n);
  function result(output,items){output.replaceChildren();const grid=document.createElement('div');grid.className='result-grid';for(const [label,value] of items){const cell=document.createElement('div'),caption=document.createElement('span'),valueNode=document.createElement('strong');caption.textContent=label;valueNode.textContent=value;cell.append(caption,valueNode);grid.append(cell);}output.append(grid);}

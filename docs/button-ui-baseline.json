@@ -1,0 +1,1548 @@
+[
+  {
+    "url": "/",
+    "width": 320,
+    "ui": {
+      "overflow": false,
+      "header": [
+        {
+          "tag": "A",
+          "cls": "brand",
+          "r": {
+            "x": 14,
+            "y": 14.71875,
+            "width": 88.28125,
+            "height": 40,
+            "top": 14.71875,
+            "right": 102.28125,
+            "bottom": 54.71875,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "menu-toggle",
+          "r": {
+            "x": 119.03125,
+            "y": 12,
+            "width": 83.96875,
+            "height": 45.4375,
+            "top": 12,
+            "right": 203,
+            "bottom": 57.4375,
+            "left": 119.03125
+          }
+        },
+        {
+          "tag": "NAV",
+          "cls": "",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "A",
+          "cls": "clipper-nav discord-button",
+          "r": {
+            "x": 14,
+            "y": 67.4375,
+            "width": 292,
+            "height": 44,
+            "top": 67.4375,
+            "right": 306,
+            "bottom": 111.4375,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "search-trigger",
+          "r": {
+            "x": 208,
+            "y": 12.71875,
+            "width": 32,
+            "height": 44,
+            "top": 12.71875,
+            "right": 240,
+            "bottom": 56.71875,
+            "left": 208
+          }
+        },
+        {
+          "tag": "LABEL",
+          "cls": "theme-label",
+          "r": {
+            "x": 245,
+            "y": 16.71875,
+            "width": 61,
+            "height": 36,
+            "top": 16.71875,
+            "right": 306,
+            "bottom": 52.71875,
+            "left": 245
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Menu \uff0b",
+          "cls": "menu-toggle",
+          "h": 45.4375,
+          "w": 83.96875,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "nav-cta",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "100px"
+        },
+        {
+          "text": "Join Discord\u2197",
+          "cls": "clipper-nav discord-button",
+          "h": 44,
+          "w": 292,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Search",
+          "cls": "search-trigger",
+          "h": 44,
+          "w": 32,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "button white",
+          "h": 48,
+          "w": 280,
+          "bg": "rgb(243, 243, 243)",
+          "color": "rgb(27, 27, 27)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord & start clipping \u2197 (also opens Discord in a new tab)",
+          "cls": "button discord-button",
+          "h": 48,
+          "w": 280,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 280,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "01Podcast",
+          "cls": "",
+          "h": 43,
+          "w": 89.953125,
+          "bg": "rgb(238, 238, 238)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "02Live stream",
+          "cls": "",
+          "h": 43,
+          "w": 107.734375,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 238, 238)",
+          "radius": "2px"
+        },
+        {
+          "text": "03Founder story",
+          "cls": "",
+          "h": 43,
+          "w": 120.109375,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 238, 238)",
+          "radius": "2px"
+        },
+        {
+          "text": "Landscape16:9",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "2px"
+        },
+        {
+          "text": "Portrait9:16",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "Square1:1",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "Caption guide \u2713",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Reset frame \u2197",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 70,
+          "w": 224,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "Build your campaign \u2197",
+          "cls": "button primary",
+          "h": 50,
+          "w": 174,
+          "bg": "rgb(238, 238, 238)",
+          "color": "rgb(27, 27, 27)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 280,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 241,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\u00d7",
+          "cls": "search-close",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Retry search",
+          "cls": "search-retry",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        }
+      ]
+    }
+  },
+  {
+    "url": "/",
+    "width": 390,
+    "ui": {
+      "overflow": false,
+      "header": [
+        {
+          "tag": "A",
+          "cls": "brand",
+          "r": {
+            "x": 14,
+            "y": 14.71875,
+            "width": 88.28125,
+            "height": 40,
+            "top": 14.71875,
+            "right": 102.28125,
+            "bottom": 54.71875,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "menu-toggle",
+          "r": {
+            "x": 189.03125,
+            "y": 12,
+            "width": 83.96875,
+            "height": 45.4375,
+            "top": 12,
+            "right": 273,
+            "bottom": 57.4375,
+            "left": 189.03125
+          }
+        },
+        {
+          "tag": "NAV",
+          "cls": "",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "A",
+          "cls": "clipper-nav discord-button",
+          "r": {
+            "x": 14,
+            "y": 67.4375,
+            "width": 362,
+            "height": 44,
+            "top": 67.4375,
+            "right": 376,
+            "bottom": 111.4375,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "search-trigger",
+          "r": {
+            "x": 278,
+            "y": 12.71875,
+            "width": 32,
+            "height": 44,
+            "top": 12.71875,
+            "right": 310,
+            "bottom": 56.71875,
+            "left": 278
+          }
+        },
+        {
+          "tag": "LABEL",
+          "cls": "theme-label",
+          "r": {
+            "x": 315,
+            "y": 16.71875,
+            "width": 61,
+            "height": 36,
+            "top": 16.71875,
+            "right": 376,
+            "bottom": 52.71875,
+            "left": 315
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Menu \uff0b",
+          "cls": "menu-toggle",
+          "h": 45.4375,
+          "w": 83.96875,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "nav-cta",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "100px"
+        },
+        {
+          "text": "Join Discord\u2197",
+          "cls": "clipper-nav discord-button",
+          "h": 44,
+          "w": 362,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Search",
+          "cls": "search-trigger",
+          "h": 44,
+          "w": 32,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "button white",
+          "h": 48,
+          "w": 350,
+          "bg": "rgb(243, 243, 243)",
+          "color": "rgb(27, 27, 27)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord & start clipping \u2197 (also opens Discord in a new tab)",
+          "cls": "button discord-button",
+          "h": 48,
+          "w": 350,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 350,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "01Podcast",
+          "cls": "",
+          "h": 43,
+          "w": 89.953125,
+          "bg": "rgb(238, 238, 238)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "02Live stream",
+          "cls": "",
+          "h": 43,
+          "w": 107.734375,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 238, 238)",
+          "radius": "2px"
+        },
+        {
+          "text": "03Founder story",
+          "cls": "",
+          "h": 43,
+          "w": 120.109375,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 238, 238)",
+          "radius": "2px"
+        },
+        {
+          "text": "Landscape16:9",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "2px"
+        },
+        {
+          "text": "Portrait9:16",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "Square1:1",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "Caption guide \u2713",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Reset frame \u2197",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 287.609375,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "Build your campaign \u2197",
+          "cls": "button primary",
+          "h": 50,
+          "w": 174,
+          "bg": "rgb(238, 238, 238)",
+          "color": "rgb(27, 27, 27)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 350,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 241,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\u00d7",
+          "cls": "search-close",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Retry search",
+          "cls": "search-retry",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        }
+      ]
+    }
+  },
+  {
+    "url": "/",
+    "width": 1440,
+    "ui": {
+      "overflow": false,
+      "header": [
+        {
+          "tag": "A",
+          "cls": "brand",
+          "r": {
+            "x": 48,
+            "y": 20.5,
+            "width": 96.765625,
+            "height": 44,
+            "top": 20.5,
+            "right": 144.765625,
+            "bottom": 64.5,
+            "left": 48
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "menu-toggle",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "NAV",
+          "cls": "",
+          "r": {
+            "x": 613.71875,
+            "y": 20.78125,
+            "width": 447.625,
+            "height": 43.4375,
+            "top": 20.78125,
+            "right": 1061.34375,
+            "bottom": 64.21875,
+            "left": 613.71875
+          }
+        },
+        {
+          "tag": "A",
+          "cls": "clipper-nav discord-button",
+          "r": {
+            "x": 1081.34375,
+            "y": 20.5,
+            "width": 161.65625,
+            "height": 44,
+            "top": 20.5,
+            "right": 1243,
+            "bottom": 64.5,
+            "left": 1081.34375
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "search-trigger",
+          "r": {
+            "x": 1263,
+            "y": 20.5,
+            "width": 44,
+            "height": 44,
+            "top": 20.5,
+            "right": 1307,
+            "bottom": 64.5,
+            "left": 1263
+          }
+        },
+        {
+          "tag": "LABEL",
+          "cls": "theme-label",
+          "r": {
+            "x": 1327,
+            "y": 24,
+            "width": 65,
+            "height": 37,
+            "top": 24,
+            "right": 1392,
+            "bottom": 61,
+            "left": 1327
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Menu \uff0b",
+          "cls": "menu-toggle",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(239, 239, 239)",
+          "color": "rgb(0, 0, 0)",
+          "radius": "0px"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "nav-cta",
+          "h": 43.4375,
+          "w": 172.578125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "100px"
+        },
+        {
+          "text": "Join Discord\u2197",
+          "cls": "clipper-nav discord-button",
+          "h": 44,
+          "w": 161.65625,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "100px"
+        },
+        {
+          "text": "Search",
+          "cls": "search-trigger",
+          "h": 44,
+          "w": 44,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "button white",
+          "h": 50,
+          "w": 195.78125,
+          "bg": "rgb(243, 243, 243)",
+          "color": "rgb(27, 27, 27)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord & start clipping \u2197 (also opens Discord in a new tab)",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 270.765625,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 287.609375,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "01Podcast",
+          "cls": "",
+          "h": 48,
+          "w": 122.9375,
+          "bg": "rgb(238, 238, 238)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "02Live stream",
+          "cls": "",
+          "h": 48,
+          "w": 143.953125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 238, 238)",
+          "radius": "2px"
+        },
+        {
+          "text": "03Founder story",
+          "cls": "",
+          "h": 48,
+          "w": 158.578125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 238, 238)",
+          "radius": "2px"
+        },
+        {
+          "text": "Landscape16:9",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "2px"
+        },
+        {
+          "text": "Portrait9:16",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "Square1:1",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "2px"
+        },
+        {
+          "text": "Caption guide \u2713",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Reset frame \u2197",
+          "cls": "",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 287.609375,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 47.78125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 47.78125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 47.78125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "Build your campaign \u2197",
+          "cls": "button primary",
+          "h": 50,
+          "w": 219.328125,
+          "bg": "rgb(238, 238, 238)",
+          "color": "rgb(27, 27, 27)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 287.609375,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 241,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\u00d7",
+          "cls": "search-close",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Retry search",
+          "cls": "search-retry",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        }
+      ]
+    }
+  },
+  {
+    "url": "/resources/",
+    "width": 390,
+    "ui": {
+      "overflow": false,
+      "header": [
+        {
+          "tag": "A",
+          "cls": "brand",
+          "r": {
+            "x": 14,
+            "y": 14.71875,
+            "width": 88.28125,
+            "height": 40,
+            "top": 14.71875,
+            "right": 102.28125,
+            "bottom": 54.71875,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "menu-toggle",
+          "r": {
+            "x": 189.03125,
+            "y": 12,
+            "width": 83.96875,
+            "height": 45.4375,
+            "top": 12,
+            "right": 273,
+            "bottom": 57.4375,
+            "left": 189.03125
+          }
+        },
+        {
+          "tag": "NAV",
+          "cls": "",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "A",
+          "cls": "clipper-nav discord-button",
+          "r": {
+            "x": 14,
+            "y": 67.4375,
+            "width": 362,
+            "height": 44,
+            "top": 67.4375,
+            "right": 376,
+            "bottom": 111.4375,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "search-trigger",
+          "r": {
+            "x": 278,
+            "y": 12.71875,
+            "width": 32,
+            "height": 44,
+            "top": 12.71875,
+            "right": 310,
+            "bottom": 56.71875,
+            "left": 278
+          }
+        },
+        {
+          "tag": "LABEL",
+          "cls": "theme-label",
+          "r": {
+            "x": 315,
+            "y": 16.71875,
+            "width": 61,
+            "height": 36,
+            "top": 16.71875,
+            "right": 376,
+            "bottom": 52.71875,
+            "left": 315
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Menu \uff0b",
+          "cls": "menu-toggle",
+          "h": 45.4375,
+          "w": 83.96875,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "nav-cta",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "100px"
+        },
+        {
+          "text": "Join Discord\u2197",
+          "cls": "clipper-nav discord-button",
+          "h": 44,
+          "w": 362,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Search",
+          "cls": "search-trigger",
+          "h": 44,
+          "w": 32,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Gallery",
+          "cls": "",
+          "h": 42,
+          "w": 62.625,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "0px"
+        },
+        {
+          "text": "Index",
+          "cls": "",
+          "h": 42,
+          "w": 54.359375,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Saved 0",
+          "cls": "",
+          "h": 42,
+          "w": 78.6875,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "3px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        },
+        {
+          "text": "\uff0bSave",
+          "cls": "save-resource",
+          "h": 34,
+          "w": 45.453125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "0px"
+        }
+      ]
+    }
+  },
+  {
+    "url": "/contact/",
+    "width": 390,
+    "ui": {
+      "overflow": false,
+      "header": [
+        {
+          "tag": "A",
+          "cls": "brand",
+          "r": {
+            "x": 14,
+            "y": 14.71875,
+            "width": 88.28125,
+            "height": 40,
+            "top": 14.71875,
+            "right": 102.28125,
+            "bottom": 54.71875,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "menu-toggle",
+          "r": {
+            "x": 189.03125,
+            "y": 12,
+            "width": 83.96875,
+            "height": 45.4375,
+            "top": 12,
+            "right": 273,
+            "bottom": 57.4375,
+            "left": 189.03125
+          }
+        },
+        {
+          "tag": "NAV",
+          "cls": "",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "A",
+          "cls": "clipper-nav discord-button",
+          "r": {
+            "x": 14,
+            "y": 67.4375,
+            "width": 362,
+            "height": 44,
+            "top": 67.4375,
+            "right": 376,
+            "bottom": 111.4375,
+            "left": 14
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "search-trigger",
+          "r": {
+            "x": 278,
+            "y": 12.71875,
+            "width": 32,
+            "height": 44,
+            "top": 12.71875,
+            "right": 310,
+            "bottom": 56.71875,
+            "left": 278
+          }
+        },
+        {
+          "tag": "LABEL",
+          "cls": "theme-label",
+          "r": {
+            "x": 315,
+            "y": 16.71875,
+            "width": 61,
+            "height": 36,
+            "top": 16.71875,
+            "right": 376,
+            "bottom": 52.71875,
+            "left": 315
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Menu \uff0b",
+          "cls": "menu-toggle",
+          "h": 45.4375,
+          "w": 83.96875,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        },
+        {
+          "text": "Start a campaign \u2197",
+          "cls": "nav-cta",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "100px"
+        },
+        {
+          "text": "Join Discord\u2197",
+          "cls": "clipper-nav discord-button",
+          "h": 44,
+          "w": 362,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Search",
+          "cls": "search-trigger",
+          "h": 44,
+          "w": 32,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Read the campaign guide \u2197",
+          "cls": "button outline",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "4px"
+        },
+        {
+          "text": "Start another enquiry",
+          "cls": "button quiet",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "4px"
+        },
+        {
+          "text": "Send campaign enquiry \u2197",
+          "cls": "button primary",
+          "h": 50,
+          "w": 310,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "4px"
+        },
+        {
+          "text": "Copy my enquiry",
+          "cls": "button outline",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "4px"
+        },
+        {
+          "text": "Create draft \u2197",
+          "cls": "button primary",
+          "h": 44,
+          "w": 110.015625,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "4px"
+        },
+        {
+          "text": "Copy draft",
+          "cls": "button outline",
+          "h": 44,
+          "w": 81.90625,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "4px"
+        },
+        {
+          "text": "Download .txt",
+          "cls": "button outline",
+          "h": 44,
+          "w": 99.78125,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "4px"
+        },
+        {
+          "text": "Clear saved draft",
+          "cls": "button quiet",
+          "h": 44,
+          "w": 115.921875,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(98, 98, 98)",
+          "radius": "4px"
+        },
+        {
+          "text": "I want to clip \u2197 (also opens Discord in a new tab)",
+          "cls": "button primary",
+          "h": 44,
+          "w": 350,
+          "bg": "rgb(25, 25, 25)",
+          "color": "rgb(248, 248, 248)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper \u2197",
+          "cls": "button discord-button",
+          "h": 44,
+          "w": 350,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "Join Discord as a clipper\u2197",
+          "cls": "button discord-button",
+          "h": 50,
+          "w": 241,
+          "bg": "rgb(96, 53, 180)",
+          "color": "rgb(255, 255, 255)",
+          "radius": "4px"
+        },
+        {
+          "text": "\u00d7",
+          "cls": "search-close",
+          "h": 0,
+          "w": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "50%"
+        },
+        {
+          "text": "Retry search",
+          "cls": "search-retry",
+          "h": 0,
+          "w": 0,
+          "bg": "rgb(255, 255, 255)",
+          "color": "rgb(25, 25, 25)",
+          "radius": "0px"
+        }
+      ]
+    }
+  }
+]

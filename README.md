@@ -44,6 +44,7 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 
 ## What changed
 
+- Buttons now share consistent shapes, clearer neutral/violet emphasis, tonal hover surfaces, immediate press feedback and contained arrow details. Search, save and reader utilities have larger targets; keyboard focus, selected, sending, disabled, reduced-motion and forced-color states are refined. The change adds a small shared CSS file and preserves native navigation and the guide-plus-Discord flow. See `docs/button-design-research-2026-10-08.md` and `docs/button-ui-verification.json`.
 - Native scroll interactions now connect the homepage's four chapters, with an active chapter index, a scroll cue and restrained artwork/process motion. All 119 articles have a compact sticky section picker, scroll-position feedback and return-to-top control. Keyboard jumps, deep links, changing FAQ heights, reduced motion and static fallbacks are checked. See `docs/scroll-design-research-2026-10-08.md` and `docs/scroll-ui-verification.json`.
 - Clippers now have a visible “Join Discord” action outside the collapsed menu on every page, a filled hero action, an early three-step entry section, a prominent beginner-guide invitation, contextual invitations on 20 clipper articles, and a direct footer button. The hero retains the guide-plus-Discord behavior with a visible new-tab explanation; ordinary Discord links work without JavaScript or popups. See `docs/clipper-entry-research-2026-10-08.md` for research and verification limits.
 - The owner-supplied official RiseKlix logo now appears in the navbar, footer, browser icons, campaign response pages and Organization metadata across all 130 pages. The original artwork is preserved; compact assets only trim padding and resize it. The full footer lockup is transparent; its lettering turns white in dark mode while the ribbon retains its original colors. See `docs/brand/official-logo-2026-10-08.md`.
@@ -70,6 +71,7 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 ## Source
 
 - `src/build.cjs`: the shared templates and 130-page generator.
+- `src/button-ui.css`: shared button hierarchy, pointer hover, pressed, keyboard focus, selected and disabled styling.
 - `src/clipper-entry.cjs`, `src/clipper-entry.css`: clipper entry sections and page-specific styling.
 - `src/scroll-ui.cjs`, `src/scroll-ui.css`, `public/scroll-ui.js`: homepage chapter navigation and article reading controls, loaded only on those pages.
 - `docs/scroll-ui-baseline.json`, `docs/scroll-ui-layout-verification.json`, `docs/scroll-ui-verification.json`, `docs/scroll-ui-preservation.json`: observed scroll gaps, completed responsive checks, enhancement/fallback checks and content preservation.
@@ -121,6 +123,7 @@ The included verification scripts use the Codex-bundled Playwright installation 
 npm run verify
 npm run verify:clippers
 npm run verify:scroll
+npm run verify:buttons
 node scripts/audit-editorial.cjs
 node scripts/audit-researched.cjs
 node scripts/audit-researched.cjs 2
@@ -138,6 +141,8 @@ node scripts/screenshots-interactive.mjs
 ```
 
 The all-page check covers 1440, 390 and 320 pixel widths, metadata, H1s, canonical URLs, structured data, internal links, fragments, image loading and control labels. It also verifies every article’s rendered section and FAQ questions against the authored source and confirms every authored body paragraph appears on the page. Interaction checks cover navigation, themes, reduced motion, search, both calculators, empty drafts, saved draft restoration, downloads and clearing. Long-form checks cover contents navigation on a 600-pixel-high laptop viewport, keyboard access to the final contents link, named scrollable tables at 320 pixels, light/dark reading and native FAQs. The guide-plus-Discord action is rechecked with the external request intercepted. Test inputs are explicitly labelled demonstrations and only exist in an isolated browser context.
+
+`verify:buttons` checks representative action families in light/dark states, text contrast, stationary hover targets, minimum action heights, native keyboard activation, a trusted emulated touch tap, reduced motion, forced colors and an isolated mocked sending/recovery flow. The touch inspection cancels its campaign destination so the painted feedback can be captured. Scroll checks focus the native section picker before choosing an option, matching user interaction; state snapshots wait for scrolling to settle before comparing geometry.
 
 To reproduce the paired performance comparison, run `python3 scripts/prepare-design-comparison.py /path/to/the/prior-local-package.zip`, then `node scripts/measure-paired-design.mjs` (fourfold CPU slowdown) or `node scripts/measure-paired-design.mjs 1` (no additional CPU slowdown). It uses the prepared snapshot and current public files, serves both from memory on temporary localhost ports, and closes those servers after sampling. The timing report includes conditions and limitations. The final timing evidence is mixed: the home had severe stalls, while library and article median loads improved. The smaller payload is verified; a uniform speed improvement is not established. See the design report for every median and range.
 

@@ -1,0 +1,105 @@
+/* Shared action language: stable targets, clear hierarchy, immediate feedback. */
+html {
+  --action-hover: color-mix(in srgb, var(--ink) 84%, var(--bg));
+  --action-press: color-mix(in srgb, var(--ink) 72%, var(--bg));
+  --action-shadow: inset 0 1px 0 #ffffff20, 0 1px 2px #00000012;
+}
+button, .button, .clipper-nav, .site-header .nav-cta {
+  cursor: pointer;
+  transition: background-color .16s ease, color .16s ease, border-color .16s ease, box-shadow .16s ease;
+}
+.button, .clipper-nav, .site-header .nav-cta {
+  border-radius: 10px;
+  text-decoration: none;
+  transform: none;
+}
+.button { padding: 12px 20px; gap: 16px; }
+.button:hover, .button:active { transform: none; }
+.resource-card:hover { transform: none; }
+.button.primary, .button.white, .button.discord-button, .clipper-nav { box-shadow: var(--action-shadow); }
+.button.outline, .site-header nav .nav-cta { border-color: var(--control-line); background: transparent; color: var(--ink); }
+.site-header nav .nav-cta { display: inline-flex; align-items: center; justify-content: center; gap: 12px; min-height: 44px; padding: 9px 15px; }
+.button.discord-button, .button.discord-button:hover, .clipper-nav, .clipper-nav:hover {
+  background: #6035b4; border-color: #9874cb; color: #fff;
+}
+.button > span[aria-hidden="true"], .clipper-nav > span[aria-hidden="true"], .nav-cta > span[aria-hidden="true"] {
+  display: inline-flex; align-items: center; justify-content: center;
+  flex: 0 0 24px; width: 24px; height: 24px; margin: 0;
+  border-radius: 6px; background: color-mix(in srgb, currentColor 10%, transparent);
+  line-height: 1; transition: transform .16s ease;
+}
+.clipper-nav > span[aria-hidden="true"], .nav-cta > span[aria-hidden="true"] { flex-basis: 20px; width: 20px; height: 20px; border-radius: 5px; }
+.library-views { border-radius: 10px; padding: 3px; gap: 3px; background: var(--surface); }
+.library-tools button, .cut-switcher button, .frame-formats button { border-radius: 7px; min-height: 44px; }
+.library-tools button[aria-pressed="true"], .frame-formats button[aria-pressed="true"] {
+  box-shadow: inset 0 -3px 0 color-mix(in srgb, var(--bg) 55%, transparent);
+}
+.cut-switcher button[aria-pressed="true"] { box-shadow: inset 0 -3px 0 #727272; }
+.reader-tools button, .save-resource, .frame-actions button, .search-retry, .reading-jump button {
+  min-height: 44px; border-radius: 7px; padding: 8px 10px;
+}
+.reader-tools button, .save-resource, .frame-actions button { color: var(--ink); }
+.reader-tools button, .save-resource, .frame-actions button, .search-retry { font-size: 12px; }
+.reader-tools button[aria-pressed="true"], .save-resource[aria-pressed="true"] { color: var(--blue); }
+.save-resource:hover { text-decoration: none; }
+.search-trigger, .search-close { width: 44px; height: 44px; flex: 0 0 44px; border-radius: 10px; }
+.search-trigger:hover { background: transparent; }
+.menu-toggle { min-height: 44px; border-radius: 7px; }
+.theme-select { min-height: 44px; border-radius: 7px; }
+.toc-menu summary { min-height: 44px; }
+.faq-list summary, .toc-menu summary, .enquiry-context summary, .campaign-workbook > summary {
+  border-radius: 7px; transition: background-color .16s ease;
+}
+:is(button, .button, .clipper-nav, .nav-cta):focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
+.library-views button:focus-visible { outline-offset: -3px; }
+
+/* Hover is an enhancement for a mouse or trackpad, never a touch prerequisite. */
+@media (hover: hover) and (pointer: fine) {
+  .button.primary:not(:disabled):hover { background: var(--action-hover); }
+  .button.white:hover { background: #dedede; }
+  .button.discord-button:hover, .clipper-nav:hover { background: #4d278f; border-color: #9874cb; }
+  .button.outline:not(:disabled):hover, .site-header nav .nav-cta:hover { background: var(--soft); border-color: var(--ink); color: var(--ink); }
+  .button.quiet:not(:disabled):hover { color: var(--ink); background: var(--soft); }
+  :is(.button, .clipper-nav, .nav-cta):not(:disabled):hover > span[aria-hidden="true"] { transform: translate(2px, -2px); }
+  .library-tools button:not([aria-pressed="true"]):hover, .frame-formats button:not([aria-pressed="true"]):hover,
+  .reader-tools button:hover, .save-resource:hover, .frame-actions button:hover, .search-retry:hover, .reading-jump button:hover,
+  .search-trigger:hover, .search-close:hover, .menu-toggle:hover, .theme-select:hover { background: var(--soft); }
+  .library-tools button[aria-pressed="true"]:hover, .frame-formats button[aria-pressed="true"]:hover { background: var(--action-hover); }
+  .cut-switcher button:not([aria-pressed="true"]):hover { background: #303030; border-color: #b2b2b2; }
+  .cut-switcher button[aria-pressed="true"]:hover { background: #d6d6d6; }
+  .faq-list summary:hover, .toc-menu summary:hover, .enquiry-context summary:hover, .campaign-workbook > summary:hover { background: var(--soft); }
+}
+
+/* Press feedback changes the surface, keeping the complete hit area stationary. */
+.button.primary:not(:disabled):active { background: var(--action-press); }
+.button.white:active { background: #cccccc; }
+.button.discord-button:active, .clipper-nav:active { background: #402077; }
+.button.outline:not(:disabled):active, .button.quiet:not(:disabled):active, .site-header nav .nav-cta:active,
+.reader-tools button:active, .save-resource:active, .frame-actions button:active, .search-retry:active, .reading-jump button:active,
+.search-trigger:active, .search-close:active, .menu-toggle:active { background: var(--soft); box-shadow: inset 0 0 0 1px var(--control-line); }
+.button:not(:disabled):active, .clipper-nav:active { box-shadow: inset 0 2px 3px #00000030; transition-duration: .06s; }
+.library-tools button:active, .frame-formats button:active { box-shadow: inset 0 0 0 2px var(--blue); }
+.cut-switcher button:active { box-shadow: inset 0 0 0 2px #b3c3ec; }
+:is(.button, .clipper-nav, .nav-cta):not(:disabled):active > span[aria-hidden="true"] { transform: none; }
+button.button:disabled, button.button:disabled:hover, button.button:disabled:active {
+  color: var(--muted); background: var(--soft); border-color: var(--control-line);
+  opacity: 1; cursor: not-allowed; box-shadow: none; transform: none; transition: none;
+}
+.button:disabled > span[aria-hidden="true"] { transform: none; }
+#campaign-enquiry[aria-busy="true"] .button:disabled { cursor: wait; }
+
+@media (max-width: 560px) {
+  .menu-toggle { padding: 10px 6px; gap: 9px; }
+  .site-header .clipper-nav { border-radius: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  button, .button, .clipper-nav, .site-header .nav-cta, .faq-list summary, .toc-menu summary,
+  .enquiry-context summary, .campaign-workbook > summary { transition: none; }
+  :is(.button, .clipper-nav, .nav-cta):not(:disabled):hover > span[aria-hidden="true"] { transform: none; transition: none; }
+}
+@media (forced-colors: active) {
+  .button, .clipper-nav, .site-header .nav-cta, .library-tools button, .frame-formats button,
+  .reader-tools button, .save-resource, .frame-actions button, .search-trigger, .search-close { border: 1px solid ButtonText; }
+  [aria-pressed="true"] { outline: 2px solid Highlight; outline-offset: -4px; }
+  :is(button, .button, .clipper-nav, .nav-cta):focus-visible { outline-color: Highlight; }
+}

@@ -8,6 +8,7 @@
     "verify": "node scripts/verify.mjs",
     "verify:clippers": "node scripts/verify-clipper-entry.mjs",
     "verify:scroll": "node scripts/verify-scroll-ui.mjs",
+    "verify:buttons": "node scripts/verify-button-ui.mjs",
     "verify:campaign": "node scripts/verify-campaign-api.mjs && node scripts/verify-campaign-browser.mjs"
   },
   "engines": {

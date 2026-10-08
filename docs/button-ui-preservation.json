@@ -1,0 +1,665 @@
+{
+  "date": "2026-10-08",
+  "baselineCommit": "2590eb5252cee1b4fc312b600e2fba45eccf31ce",
+  "generatedPages": 130,
+  "pageCheck": "Every generated HTML file matches the baseline byte-for-byte after removing the new stylesheet link and replacing the shared-script cache version. All content, labels, destinations, semantics, metadata and schema are preserved.",
+  "protectedFiles": [
+    {
+      "file": "netlify.toml",
+      "sha256": "82f003f5611193f01d3c5ddff5ea88851713b84f1af6062b1c895fc9a10dc03c"
+    },
+    {
+      "file": "netlify/functions/campaign-enquiry.mjs",
+      "sha256": "259614a61a0e5048735f5c0007d08cf2308008e0e1a8bcbe2d48428d3ae86c9a"
+    },
+    {
+      "file": "netlify/functions/instagram-callback.mjs",
+      "sha256": "b0940e30fc410f5874afd260e6736a39e502d7f283d2df361da923b1fda8052c"
+    },
+    {
+      "file": "netlify/functions/instagram-deauthorize.mjs",
+      "sha256": "bd1c1af88bf91b3ee983be340a89f54c8497649ee2118f99fe4e80560853bbd2"
+    },
+    {
+      "file": "public/assets/atelier-1536.webp",
+      "sha256": "917bc3a35fdc74d10961082784806a9906d5ecf1a2c35294909304c06da2374a"
+    },
+    {
+      "file": "public/assets/atelier-640.webp",
+      "sha256": "230f7f4cd182d2237a7473f8e1488be238d45e72393133a81a11e9d21fb5c578"
+    },
+    {
+      "file": "public/assets/atelier-960.webp",
+      "sha256": "50fad3e6461f8c9981e474cae1611fb6b436be1961b0022661fd8a0c160f2789"
+    },
+    {
+      "file": "public/assets/campaign-brief-template.txt",
+      "sha256": "90c693dab405a01611d7bab40e6ca706dd2013a08922bb15c951ffc756b89194"
+    },
+    {
+      "file": "public/assets/clip-mark.svg",
+      "sha256": "115264846ed9cbf53e9f11926580a850635eced2107face1a85fb5599d895178"
+    },
+    {
+      "file": "public/assets/fonts/Inter-LICENSE.txt",
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "file": "public/assets/fonts/Inter-cyrillic-ext-variable.woff2",
+      "sha256": "e3a8d2d7497a325b85c2e0c9d931ba1741415d23d1f828ebc5ce8c116dab44e8"
+    },
+    {
+      "file": "public/assets/fonts/Inter-cyrillic-variable.woff2",
+      "sha256": "e1dea13a93c69f52837e370541ffe132508352666e9288ab910f2c422f4b9b50"
+    },
+    {
+      "file": "public/assets/fonts/Inter-greek-ext-variable.woff2",
+      "sha256": "e0f32d9ee75a83f4031e1a7bc8926f962278e282d3535be7d8dbeb3bd62914b5"
+    },
+    {
+      "file": "public/assets/fonts/Inter-greek-variable.woff2",
+      "sha256": "93c5ac80e25cda1cf289206c724027eeb187c9d398106f0079a912cbe80616ce"
+    },
+    {
+      "file": "public/assets/fonts/Inter-latin-ext-variable.woff2",
+      "sha256": "5e6d4fe9d9f4bff8b2a2469d25ab19576bb85331e22c6ed51398e16f95d56a9c"
+    },
+    {
+      "file": "public/assets/fonts/Inter-latin-variable.woff2",
+      "sha256": "2c295d99e26dcf357d4d01bcf270fd6924b600c9a13dd8c363ef114f4c6976fa"
+    },
+    {
+      "file": "public/assets/fonts/Inter-subsets-LICENSE.txt",
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "file": "public/assets/fonts/Inter-symbols-variable.woff2",
+      "sha256": "13870b362a243b5518ceca97d7f01bcad74e6412682ef4e977bdb38afaeaac00"
+    },
+    {
+      "file": "public/assets/fonts/Inter-vietnamese-variable.woff2",
+      "sha256": "935ab355938e6cd9b5fa39f2c3250ee16f3b08807c65dc4162356b50dbc8c7a2"
+    },
+    {
+      "file": "public/assets/fonts/InterVariable.woff2",
+      "sha256": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3"
+    },
+    {
+      "file": "public/assets/riseklix-icon-180.png",
+      "sha256": "bf949c7c5056e953da98d0eca6ea84bd3b8f963324c2c2266c99ca0434bbde4d"
+    },
+    {
+      "file": "public/assets/riseklix-icon-32.png",
+      "sha256": "e3385c36c36d36f6e1caba4255c33d924a08349e42ad60e2710629bf7ddfcc17"
+    },
+    {
+      "file": "public/assets/riseklix-icon-48.png",
+      "sha256": "7cac05fad3a0cae47b27129014b49192d2ed08cea466009fd6ea4aa9913244dd"
+    },
+    {
+      "file": "public/assets/riseklix-logo-2026.png",
+      "sha256": "7528166246ef8648f8daf5593d00f644fadd4469cb2b8657bc82e3c94d2d9e77"
+    },
+    {
+      "file": "public/assets/riseklix-logo-compact.png",
+      "sha256": "7528166246ef8648f8daf5593d00f644fadd4469cb2b8657bc82e3c94d2d9e77"
+    },
+    {
+      "file": "public/assets/riseklix-logo.png",
+      "sha256": "f02f3ff8a716347811a97fc56109cc953bdd589ffa32ebefca9d2a52be5f23cc"
+    },
+    {
+      "file": "public/assets/riseklix-mark.png",
+      "sha256": "cd26a74995faf6cc11695859a2c78ec89117dda11747d5c4903d1715c4d620a1"
+    },
+    {
+      "file": "public/assets/story-collage-v2-1536.webp",
+      "sha256": "ca59bbaebb9612a01004c5cc23110774a523a22459949063317a71353feb25e8"
+    },
+    {
+      "file": "public/assets/story-collage-v2-640.webp",
+      "sha256": "0c7683385ef5adbc5f769b47b3a85dd92490ecb683d7261d712e374de18438cc"
+    },
+    {
+      "file": "public/assets/story-collage-v2-960.webp",
+      "sha256": "374c3857a510abfeb6fb25e5fe8e968527cac3310bc110563a7104b4de635a0d"
+    },
+    {
+      "file": "public/assets/story-collage-v3-1536.webp",
+      "sha256": "69391deb12a1797a2718bdf490467ae4b03e0a1974281e47750f1bcdc6a2f50e"
+    },
+    {
+      "file": "public/assets/story-collage-v3-640.webp",
+      "sha256": "e7390c4371c8a9144086aff7773cc5c295e0c5c127e9631f7ce4a74bcf690e01"
+    },
+    {
+      "file": "public/assets/story-collage-v3-960.webp",
+      "sha256": "8838497198682a947f63c8894e85aee14ddb178bf4497d9f8b34b08cf5efff36"
+    },
+    {
+      "file": "public/brand-entity.json",
+      "sha256": "139fce2d308e81a92128f9955b76c4743c62dab265b847137e71b66492ae578a"
+    },
+    {
+      "file": "public/robots.txt",
+      "sha256": "0d85f9e6928606b85d4ba713d02ab5e37095d257078c061055f63527906d7150"
+    },
+    {
+      "file": "public/scroll-ui.css",
+      "sha256": "f40216727d85d1596982018441baa98aa53b5df3b3b7c4b41a19ab0b5ef950d0"
+    },
+    {
+      "file": "public/scroll-ui.js",
+      "sha256": "169ae7466b5775cbc15c72047f4d44509b4d41eb1141029744f6d063652ca831"
+    },
+    {
+      "file": "public/search-index.json",
+      "sha256": "ea61ce5ecef5b395b6068d0b05f8767247c8fbba74b4465556ad2200559f05f7"
+    },
+    {
+      "file": "public/sitemap.xml",
+      "sha256": "f7a063b86c46d679a77c7e759ae3a43c077ac84c06fbd860c93edaa772c2fc86"
+    },
+    {
+      "file": "public/styles.css",
+      "sha256": "94cdb9d1866f985b1799f721a90fcbfc4590bd8f29a89f484e5bf134f29e9002"
+    },
+    {
+      "file": "server/campaign-enquiry.mjs",
+      "sha256": "7e1a5c1ec468f7de15e9622c6a7d25d7ed8b5878976e18bcb78ba9452b09db23"
+    },
+    {
+      "file": "src/articles-original.json",
+      "sha256": "fd3dad6aa59c5bae4b1deaa7a0f055a2b68df9e69505168b681588e054248c20"
+    },
+    {
+      "file": "src/content.cjs",
+      "sha256": "74e94cd9f237666262dc11f0fd87f9209e1a097ce6051d62677889aa6e39d186"
+    },
+    {
+      "file": "src/editorial/01-comparisons.cjs",
+      "sha256": "88fa080da117d4d94405f1c30a1d1d82ef9c62d42221d218306e5d29c3519193"
+    },
+    {
+      "file": "src/editorial/02-guides.cjs",
+      "sha256": "2180aca03450c702a8df0efdbcb10006341e848ba64144be989ef3eab4dbb932"
+    },
+    {
+      "file": "src/editorial/03-platforms.cjs",
+      "sha256": "e475713b2d8d063e1e299785ecea9ebc015b05bc889858f27217a120dc881e96"
+    },
+    {
+      "file": "src/editorial/04-operations.cjs",
+      "sha256": "aa9791515c4f89fea89540c428fdabc419aed47f616268575ec6a58adde59cff"
+    },
+    {
+      "file": "src/editorial/05-measurement.cjs",
+      "sha256": "c90120ab5f10ad01c43792ac96fae22dfcdafd6bb9d198eb739e8da624005b26"
+    },
+    {
+      "file": "src/editorial/06-niche-campaigns.cjs",
+      "sha256": "1c1c562dc2f998893c090402f68d50a1521cfe2b040130d1957ace4bbbe4a06a"
+    },
+    {
+      "file": "src/editorial/07-fundamentals.cjs",
+      "sha256": "33e3dbebf6cd90805d97b4f09788459c6672a10315bd9f0bfd04563b0ec75482"
+    },
+    {
+      "file": "src/editorial/08-networks-and-alternatives.cjs",
+      "sha256": "ea4a19a5f33cd4fdf47d6e630a63fcb2b0626c70d7ef27f0342d687fc5e57fe2"
+    },
+    {
+      "file": "src/editorial/09-launch-and-payments.cjs",
+      "sha256": "1e3fba05e02c5359f038dbde12435d8eef92b33c5e7b5fd8183cf6f07372b876"
+    },
+    {
+      "file": "src/editorial/10-story-craft.cjs",
+      "sha256": "44fe95b5fce9d4ab10235f64feb428ca56d8e197b03a093ea269f01cd3c607c4"
+    },
+    {
+      "file": "src/editorial/11-language-and-tools.cjs",
+      "sha256": "26ed2c9a39f822a071a826960e343ec1a9ad9fec313e5ed15f718c0a1fade652"
+    },
+    {
+      "file": "src/editorial/12-team-and-safety.cjs",
+      "sha256": "3b20b9cf21ac57813f8156bc0f411e4e855b9120d3aa78da4791164bbea31f8b"
+    },
+    {
+      "file": "src/editorial/13-distribution-craft.cjs",
+      "sha256": "87eaebd399b1d1a3ef05b3b0176171337b312156ab22cab754efcd081a061036"
+    },
+    {
+      "file": "src/editorial/14-measurement-and-outlook.cjs",
+      "sha256": "48f3897f76de891d5ae10021cc5c6c1a908bceec02e4fd6486e4e424c6d843d2"
+    },
+    {
+      "file": "src/editorial/depth/01-provider-decisions.cjs",
+      "sha256": "7e553ff0d22a618f83c663e8ad4c4e113cda09ae7ac49cae752f8679dbde7adf"
+    },
+    {
+      "file": "src/editorial/depth/02-provider-shortlists.cjs",
+      "sha256": "7bf7aa765166c6ae17fed94a8b03c95843ebf65d08671e88fa808d39d7575a40"
+    },
+    {
+      "file": "src/editorial/depth/03-model-worksheets.cjs",
+      "sha256": "4f4b63379b6e609cdc0b646c2db9fb7570c59538eb033eb4c0685416a22c58e5"
+    },
+    {
+      "file": "src/editorial/depth/04-agency-scope-and-first-edit.cjs",
+      "sha256": "ed763ec58d6a4e7a9479b305e3fef1b89342de333a65f20bfb25c60fcbe50108"
+    },
+    {
+      "file": "src/editorial/depth/05-earnings-and-freelance.cjs",
+      "sha256": "80c409a908c88d8f72c3d71dfbbedf800cf689b84f773aa11c98b26f372ac606"
+    },
+    {
+      "file": "src/editorial/depth/06-guide-exercises.cjs",
+      "sha256": "a7272c45b53d7d832261768e714af02db212f0e2e50a2931a5c31bd36830ac87"
+    },
+    {
+      "file": "src/editorial/depth/07-platform-production.cjs",
+      "sha256": "74613d6d7a782c02afdd45dea362a979afee7787f881b1eb24e20dec35a2c7c5"
+    },
+    {
+      "file": "src/editorial/depth/08-conversation-and-live-edits.cjs",
+      "sha256": "b05fa1a8c87f39df9a075e050b7caf0856a2ef23b9c4f43992dd5317c2cef08a"
+    },
+    {
+      "file": "src/editorial/depth/09-operation-workbooks.cjs",
+      "sha256": "910d07d4ec21bc333f202da81e36615d08dd307d8a075f2e047dfcfb62460ef0"
+    },
+    {
+      "file": "src/editorial/depth/10-review-and-permissions.cjs",
+      "sha256": "f41e0feb99c4b4eb57db900616b689ab72d62216294960d3eb79ae489ad8c14b"
+    },
+    {
+      "file": "src/editorial/depth/11-campaign-evaluation.cjs",
+      "sha256": "b22d4e4820883873dc7b3890b4ec16db5dac67981e31d7d0294c6a37370e0c10"
+    },
+    {
+      "file": "src/editorial/depth/12-policy-and-analytics.cjs",
+      "sha256": "5ae4451890cbff6590025cb8b0a4efffed443b0eaf5852106669c9db249424dc"
+    },
+    {
+      "file": "src/editorial/depth/13-podcast-finance-education-campaigns.cjs",
+      "sha256": "e8dc7b6f2fe85b39c32c02a656145bfd6c33a6af8631c9395a97b27ecfccdadc"
+    },
+    {
+      "file": "src/editorial/depth/14-product-and-release-campaigns.cjs",
+      "sha256": "cccf80c017a18fa509490e7a15f2ac9cdc1212a7122a06bea86001b27334ef8d"
+    },
+    {
+      "file": "src/editorial/depth/15-events-gaming-and-campaign-definition.cjs",
+      "sha256": "3f0ad8eb99b4732bc12c9a487cbb8ccb21f503804b9414b3939681032c422d6a"
+    },
+    {
+      "file": "src/editorial/depth/16-roles-rewards-and-review.cjs",
+      "sha256": "bac3d1fa1b2d3378e1a15a15bec544840ef4b781d479d694de9f2929e77be943"
+    },
+    {
+      "file": "src/editorial/depth/17-duration-network-and-positioning.cjs",
+      "sha256": "c8d2f5c60900a1e44112dfb67da66337107d79064c7982e466698e462b064879"
+    },
+    {
+      "file": "src/editorial/depth/18-alternative-migration-workbooks.cjs",
+      "sha256": "0b932978b37717fc0ccf05e652d59409e0dfa8d4da5f89f8565b11ac77ff530d"
+    },
+    {
+      "file": "src/editorial/depth/19-planning-payments-and-onboarding.cjs",
+      "sha256": "938dfe63edac02d36325d677d82c35235599ecd036cdb2dd1801c6452f3bfc0f"
+    },
+    {
+      "file": "src/editorial/depth/20-hands-on-creator-editing.cjs",
+      "sha256": "be5dfee559052b6070b22467e5a74da814404b080603dd4dc4ffe27f4d9a0d56"
+    },
+    {
+      "file": "src/editorial/depth/21-hooks-language-and-portfolios.cjs",
+      "sha256": "69d13af7f1d25f3c4fbaf4c44499ff41efd6b34eaabb4b1ba15b9cdba356e06d"
+    },
+    {
+      "file": "src/editorial/depth/22-tool-trials-and-ai-boundaries.cjs",
+      "sha256": "f599cd103cea0c1281bcb17d24a86b8a5aca8f2fac89bda8ee537bd1211bd9d1"
+    },
+    {
+      "file": "src/editorial/depth/23-evidence-disclosure-and-safety.cjs",
+      "sha256": "d572e219a303d3aa0e724701aa3d9e4a511166783d8208bf55bb97db371761da"
+    },
+    {
+      "file": "src/editorial/depth/24-cohort-recognition-and-scope.cjs",
+      "sha256": "d7684938f1fdd2b0d3fb2683cf1b0da7054cefb30d8039ce179a6ae2192949da"
+    },
+    {
+      "file": "src/editorial/depth/25-business-channel-storyboards.cjs",
+      "sha256": "8ee76aa36d84c88e681f7d8edde738bf05ce445f5f97bf386b2f12cc4a723ca5"
+    },
+    {
+      "file": "src/editorial/depth/26-roi-experiments-and-scenarios.cjs",
+      "sha256": "20b466127ab75f29ae5d8fdd88aede6f2804fe1366305473e44c0961649f8472"
+    },
+    {
+      "file": "src/editorial/depth/index.cjs",
+      "sha256": "e2760be670fd1ae52ea80dd5c13a0320087b997812c3424bda356fe3e24f1ab8"
+    },
+    {
+      "file": "src/editorial/helpers.cjs",
+      "sha256": "4296636af50dd0dc3afc73e009f73b4e4e44e7166b98c1dbc9894dc02d91d3f0"
+    },
+    {
+      "file": "src/editorial/index.cjs",
+      "sha256": "ca838d3c42f7ad04c5221fce81271baf70dea0be0956158fc32c24816bac74a7"
+    },
+    {
+      "file": "src/editorial/introductions.cjs",
+      "sha256": "da26e16666acac5bc16ff5a0373d42e2b7c662638b48a810140ad4115eae48ad"
+    },
+    {
+      "file": "src/editorial/researched/01-india-feasibility.cjs",
+      "sha256": "baceb5a125d307d6d270a028915fd7d6f7dacfb6e5763431db5402bcc54b92ad"
+    },
+    {
+      "file": "src/editorial/researched/02-budget.cjs",
+      "sha256": "e0488c55b507f6a5f2ba0f6f2cc202f33cdeab36b9b915c637f5266f942b80ae"
+    },
+    {
+      "file": "src/editorial/researched/03-rights.cjs",
+      "sha256": "06e7ee720f90aa18a9f79394880d6813f14de5b73dfb689e4f9b595c46efd263"
+    },
+    {
+      "file": "src/editorial/researched/04-legitimacy.cjs",
+      "sha256": "5f68a95bd0618ee3f1bef4efffd383a690a1b636d37c5fabc3f2275d90c647c9"
+    },
+    {
+      "file": "src/editorial/researched/05-agency.cjs",
+      "sha256": "5bac096a629473c0479419fe23205e5a7589cc578528640e7ab98c8bbecab719"
+    },
+    {
+      "file": "src/editorial/researched/06-tool-marketplace.cjs",
+      "sha256": "f65d5829030ef42a07b56f6e16001e8deea9f92b39fe61d26de3aeac734d6025"
+    },
+    {
+      "file": "src/editorial/researched/07-youtube-reuse.cjs",
+      "sha256": "c2aa080acdfc4471fa2686f5d5bf168da23b53c55e71ff0a50a84311506e2cc8"
+    },
+    {
+      "file": "src/editorial/researched/08-tracking.cjs",
+      "sha256": "5420638cae27c2997abcc243c1a90be70b603c0a38ec63911bc2d871aff78084"
+    },
+    {
+      "file": "src/editorial/researched/09-captions.cjs",
+      "sha256": "ccb8e7ce22718f0f61949728eb576751bf289b2d13455f891db56b51f4a5feae"
+    },
+    {
+      "file": "src/editorial/researched/10-case-study.cjs",
+      "sha256": "e2e8e976c765e21ac7976434d4870cfd3f155aee5b4f921c5212094d64847f40"
+    },
+    {
+      "file": "src/editorial/researched/backlinks.cjs",
+      "sha256": "6b20c891760b5cf2eaeee5813ddd049002a57b0afbb7ee2730619327e10f8ed4"
+    },
+    {
+      "file": "src/editorial/researched/helpers.cjs",
+      "sha256": "9830cd68820371356eceb48e521936c5e5098954a1de0c05e27675fa2996c134"
+    },
+    {
+      "file": "src/editorial/researched/index.cjs",
+      "sha256": "aa7a497c2a66094699eacd3c90cd5723b03187c0e6206dea771ee46153dae54b"
+    },
+    {
+      "file": "src/editorial/researched/round-three/01-youtube-tutorials.cjs",
+      "sha256": "938986c0a6c9d5be9f512354831627c4667281c6412f7bf89083617df02b914f"
+    },
+    {
+      "file": "src/editorial/researched/round-three/02-b2b-webinars.cjs",
+      "sha256": "664a243706e26da9e7a41741848ab2f34b7c5edcdeccb4ac5f0e04e62bd72c9a"
+    },
+    {
+      "file": "src/editorial/researched/round-three/03-influencer-sponsorships.cjs",
+      "sha256": "e79ceb281c1b290e47a931956ec7d9b17288858bc4971df9c8501551200f18fe"
+    },
+    {
+      "file": "src/editorial/researched/round-three/04-restaurants.cjs",
+      "sha256": "e2928782b6cb85431c82d73b5dd569e0900857feeb6fbe273b4c77985ed5298c"
+    },
+    {
+      "file": "src/editorial/researched/round-three/05-real-estate.cjs",
+      "sha256": "61905d2fec3b7bf970c0c2e5732a6821651c5453faf64c0857f540a705415d9a"
+    },
+    {
+      "file": "src/editorial/researched/round-three/06-fashion.cjs",
+      "sha256": "22b2ab0fa70db82118d2bb814d48966eb2e34908a2c4152e2db052dd1a774549"
+    },
+    {
+      "file": "src/editorial/researched/round-three/backlinks.cjs",
+      "sha256": "9aa3a1ee112cab9964c2cb991c9df83ad2cf967a24478d5165d9e4625cde2ee9"
+    },
+    {
+      "file": "src/editorial/researched/round-three/helpers.cjs",
+      "sha256": "1b07190d4bc05d28d6b107d236d7ac3c301b993d6add26204b63c72c761a9c5a"
+    },
+    {
+      "file": "src/editorial/researched/round-three/index.cjs",
+      "sha256": "5bfa00cd6cfdd852c13e195647ab7adecaa571aee61a2543bf9e4c57466cb217"
+    },
+    {
+      "file": "src/editorial/researched/round-three/plan.cjs",
+      "sha256": "be7b8686e0c16da6315cce806a8407cecf10f79a790e36bdad934ebee1302c2d"
+    },
+    {
+      "file": "src/editorial/researched/round-two/01-clipping-editing-ugc.cjs",
+      "sha256": "88f02c9640ce7c432f827c9f7ac5276339800a4238befe7e74a20951b8102adc"
+    },
+    {
+      "file": "src/editorial/researched/round-two/02-reels-shorts.cjs",
+      "sha256": "7bdc44a71f08800e67180802e13db120742e54fa22f9ea5b59689eb3ed915173"
+    },
+    {
+      "file": "src/editorial/researched/round-two/03-account-ownership.cjs",
+      "sha256": "554fc219b4aa727276afd5418e0dbd2cd2b8c0baab3b3083491443bbe11ca753"
+    },
+    {
+      "file": "src/editorial/researched/round-two/04-attribution-methods.cjs",
+      "sha256": "4ecfcb2b5614c8d83563e0346e39be08b424c1f95c5492ebfa85a4d13245d102"
+    },
+    {
+      "file": "src/editorial/researched/round-two/05-rejected-submissions.cjs",
+      "sha256": "06d6ff313014afc93120d7536bf7af61409ad7112a8d97c824cb14fab98d73da"
+    },
+    {
+      "file": "src/editorial/researched/round-two/06-paid-assignment.cjs",
+      "sha256": "49a927e253cc6fb18ec121b7c43e50c0518ce9af1089028ebd37baa7ad971144"
+    },
+    {
+      "file": "src/editorial/researched/round-two/07-landing-pages.cjs",
+      "sha256": "96f3f413d698527e2aac1a9d66161955021b049c70c8c91e463e17399980dd32"
+    },
+    {
+      "file": "src/editorial/researched/round-two/08-facebook.cjs",
+      "sha256": "523dbb0b499b14a85ac2dbe6d456d826699336f5a64a06b5b9dba0ee3fe32bec"
+    },
+    {
+      "file": "src/editorial/researched/round-two/09-twitch.cjs",
+      "sha256": "cc99d657248bf6f3f807a954547e7a5f98c0bc668b642e3860732240175db054"
+    },
+    {
+      "file": "src/editorial/researched/round-two/10-audience-continuity.cjs",
+      "sha256": "8340e583ca76e08deb32576f6a83635ab376ecc7cd367dc24a05b8fb6a445c49"
+    },
+    {
+      "file": "src/editorial/researched/round-two/backlinks.cjs",
+      "sha256": "e799d98aaea226d039efb928ca997421857fd5bac5ad33fa58e8f2aed8f0afcd"
+    },
+    {
+      "file": "src/editorial/researched/round-two/helpers.cjs",
+      "sha256": "3631b4fde8620f06d3fdcd7d45da5d5928596e42d53d8a01822d045da6fa5c8e"
+    },
+    {
+      "file": "src/editorial/researched/round-two/index.cjs",
+      "sha256": "5bfa00cd6cfdd852c13e195647ab7adecaa571aee61a2543bf9e4c57466cb217"
+    },
+    {
+      "file": "src/editorial/researched/round-two/plan.cjs",
+      "sha256": "28277240db6069bf4a1f08361d66e33bb9619033003db9e8925b7aeaad90b76d"
+    },
+    {
+      "file": "src/editorial/researched/round-two/worked-scenarios.cjs",
+      "sha256": "22a94d99aff06db22c06e7100509592751d3f6285eef5eaae0bae0f33ca5d59b"
+    },
+    {
+      "file": "src/scroll-ui.css",
+      "sha256": "94f076560bfccd186d0318c8790ca17681d960b160738511f0bd3c8fc993812c"
+    },
+    {
+      "file": "src/styles.css",
+      "sha256": "9c766b86309045fd537d2c0b0abe995a8a153115b5ca129958e7f2c1d9eeedef"
+    },
+    {
+      "file": "src/utility-original.json",
+      "sha256": "92792a3469305209b1b65ab94ab692caf1c2a866e07fe6bd59d8923fe83bc735"
+    }
+  ],
+  "changedExistingFiles": [
+    "README.md",
+    "docs/campaign-browser-verification.json",
+    "docs/change-summary.json",
+    "docs/scroll-ui-layout-verification.json",
+    "docs/scroll-ui-verification.json",
+    "docs/studio-verification.json",
+    "docs/verification.json",
+    "package.json",
+    "public/blog/ai-tools-for-clipping-workflows.html",
+    "public/blog/asci-disclosure-guide-paid-creator-clips-india.html",
+    "public/blog/best-clipping-platforms-for-indian-creators.html",
+    "public/blog/best-free-tools-for-clippers-india.html",
+    "public/blog/brand-safety-checklist-for-clippers.html",
+    "public/blog/capcut-vs-vn-vs-premiere-for-clippers.html",
+    "public/blog/clipper-portfolio-guide-india.html",
+    "public/blog/clipper-recognition-ideas.html",
+    "public/blog/clipper-rules-template-india.html",
+    "public/blog/clipper-verification-checklist-india.html",
+    "public/blog/clipping-campaign-case-study-evidence-template.html",
+    "public/blog/clipping-campaign-fraud-prevention.html",
+    "public/blog/clipping-campaigns-course-creators-coaches.html",
+    "public/blog/clipping-campaigns-d2c-brands-creator-content.html",
+    "public/blog/clipping-campaigns-events-summits-webinars.html",
+    "public/blog/clipping-campaigns-finance-creators-india.html",
+    "public/blog/clipping-campaigns-for-indian-podcasters.html",
+    "public/blog/clipping-campaigns-gaming-streamers-india.html",
+    "public/blog/clipping-campaigns-music-artists-drops.html",
+    "public/blog/clipping-campaigns-saas-founders-india.html",
+    "public/blog/clipping-for-d2c-brands-india.html",
+    "public/blog/clipping-for-linkedin-creators-india.html",
+    "public/blog/clipping-for-saas-founders-india.html",
+    "public/blog/clipping-for-webinars-india.html",
+    "public/blog/clipping-for-youtube-channels-india.html",
+    "public/blog/clipping-net-alternative-india.html",
+    "public/blog/course-creator-clipping-campaigns.html",
+    "public/blog/creator-clipping-brief-template-india.html",
+    "public/blog/creator-clipping-campaign-roi-calculator-india.html",
+    "public/blog/creator-clipping-india-operating-manual-2026.html",
+    "public/blog/creator-clipping-vs-influencer-marketing-india.html",
+    "public/blog/creator-clipping-vs-paid-ads-india.html",
+    "public/blog/disclosure-rules-for-paid-clips-india.html",
+    "public/blog/discord-clipping-server-setup-advanced-operator-guide.html",
+    "public/blog/discord-server-setup-for-clipping.html",
+    "public/blog/does-clipping-work-in-india.html",
+    "public/blog/event-clipping-guide-india.html",
+    "public/blog/fashion-product-demo-clipping-size-fit-india.html",
+    "public/blog/first-campaign-scope-checklist-india.html",
+    "public/blog/founder-led-brand-clipping-guide.html",
+    "public/blog/future-of-creator-distribution-india.html",
+    "public/blog/good-clip-submission-format.html",
+    "public/blog/hinglish-clipping-guide.html",
+    "public/blog/how-do-clipping-campaigns-pay-talent.html",
+    "public/blog/how-long-should-short-form-clip-be-india.html",
+    "public/blog/how-many-clips-should-a-creator-campaign-start-with.html",
+    "public/blog/how-much-do-indian-clippers-earn.html",
+    "public/blog/how-riseklix-is-building-indias-clipper-layer.html",
+    "public/blog/how-riseklix-verifies-clip-views-public-links.html",
+    "public/blog/how-to-brief-50-clippers.html",
+    "public/blog/how-to-plan-a-creator-clipping-campaign-india.html",
+    "public/blog/how-to-track-clipping-roi.html",
+    "public/blog/index.html",
+    "public/blog/influencer-sponsored-content-clipping-india.html",
+    "public/blog/instagram-insights-clipping-campaigns-india.html",
+    "public/blog/instagram-reels-clipping-for-coaches.html",
+    "public/blog/makeclout-alternative-india.html",
+    "public/blog/music-artist-clipping-campaigns-india.html",
+    "public/blog/podcast-clip-hooks-that-work-in-india.html",
+    "public/blog/prevent-fake-views-clipping-campaigns.html",
+    "public/blog/regional-language-clipping-india.html",
+    "public/blog/restaurant-cafe-reels-clipping-campaign-india.html",
+    "public/blog/upi-payouts-for-clipper-campaigns.html",
+    "public/blog/vyro-alternative-indian-campaigns.html",
+    "public/blog/what-counts-as-an-approved-clip.html",
+    "public/blog/what-is-a-clipper.html",
+    "public/blog/what-is-a-clipping-campaign.html",
+    "public/blog/what-is-a-clipping-network-india.html",
+    "public/blog/what-is-a-creator-performance-network.html",
+    "public/blog/what-makes-a-clip-go-viral-india.html",
+    "public/blog/whop-clips-alternative-india.html",
+    "public/blog/why-india-needs-clipping-networks.html",
+    "public/blog/why-viral-clips-dont-build-creator-audience.html",
+    "public/blog/youtube-shorts-analytics-clipping-campaigns-india.html",
+    "public/blog/youtube-shorts-clipping-for-podcasts.html",
+    "public/campaign-enquiry.js",
+    "public/compare/ai-clipping-tools-vs-clipping-marketplaces.html",
+    "public/compare/best-clipping-platforms-india.html",
+    "public/compare/clipconnect-india-alternative.html",
+    "public/compare/creator-clipping-agency-vs-clipping-marketplace.html",
+    "public/compare/creator-owned-vs-participant-accounts-clipping.html",
+    "public/compare/discord-clipping-network-vs-saas-clipping-platform.html",
+    "public/compare/index.html",
+    "public/compare/instagram-reels-vs-youtube-shorts-clipping-india.html",
+    "public/compare/managed-clipping-campaign-vs-hiring-freelance-editors.html",
+    "public/compare/riseklix-vs-clipping-net-india.html",
+    "public/compare/riseklix-vs-influencer-marketing-agency-india.html",
+    "public/compare/riseklix-vs-makeclout-india.html",
+    "public/compare/riseklix-vs-traditional-social-media-agency.html",
+    "public/compare/riseklix-vs-vyro-india.html",
+    "public/compare/riseklix-vs-whop-clips-india.html",
+    "public/compare/utm-links-vs-coupon-codes-clipping-attribution.html",
+    "public/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+    "public/contact/index.html",
+    "public/data-deletion/index.html",
+    "public/docs/index.html",
+    "public/guides/accessible-captions-short-form-clips-india.html",
+    "public/guides/b2b-webinar-clipping-qualified-leads-india.html",
+    "public/guides/best-editing-tools-for-clippers-india.html",
+    "public/guides/clipping-campaign-landing-page-checklist.html",
+    "public/guides/clipping-campaign-pricing-budget-india.html",
+    "public/guides/clipping-side-hustle-india.html",
+    "public/guides/clipping-submission-rejected-fix-appeal.html",
+    "public/guides/creator-clipping-campaign-guide-india.html",
+    "public/guides/creator-content-library-guide-india.html",
+    "public/guides/freelance-clipper-guide-india.html",
+    "public/guides/how-much-do-clippers-make-india.html",
+    "public/guides/how-to-become-a-clipper-india.html",
+    "public/guides/how-to-check-clipping-campaign-legit-india.html",
+    "public/guides/how-to-choose-clipping-agency-india.html",
+    "public/guides/index.html",
+    "public/guides/is-video-clipping-legal-in-india.html",
+    "public/guides/paid-clipper-test-assignment-scorecard.html",
+    "public/guides/real-estate-walkthrough-clipping-india.html",
+    "public/guides/remote-clipping-jobs-india.html",
+    "public/guides/utm-tracking-clipping-campaigns-india.html",
+    "public/guides/youtube-tutorial-clipping-shorts-india.html",
+    "public/index.html",
+    "public/platforms/facebook-reels-original-content-clipping-india.html",
+    "public/platforms/index.html",
+    "public/platforms/instagram-reels-clipper-guide-india.html",
+    "public/platforms/podcast-clipping-guide-india.html",
+    "public/platforms/stream-clipper-guide-india.html",
+    "public/platforms/tiktok-clipper-guide-india.html",
+    "public/platforms/twitch-clips-permissions-campaign-guide.html",
+    "public/platforms/x-twitter-clipper-guide-india.html",
+    "public/platforms/youtube-reused-content-rules-indian-clippers.html",
+    "public/platforms/youtube-shorts-clipper-guide-india.html",
+    "public/privacy/index.html",
+    "public/resources/index.html",
+    "public/script.js",
+    "public/terms/index.html",
+    "scripts/verify-scroll-ui.mjs",
+    "src/build.cjs"
+  ],
+  "limits": "The shared loader cache version and enquiry button DOM restoration are intentional JS changes. This record does not compare live hosting."
+}

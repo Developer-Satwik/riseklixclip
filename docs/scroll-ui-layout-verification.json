@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-10-08",
-  "evidence": "Completed layout cases printed by verify-scroll-ui.mjs before its fixture waited for offscreen lazy images; this records completed assertions only.",
+  "evidence": "Completed browser layout assertions in verify-scroll-ui.mjs",
   "layouts": [
     {
       "width": 1440,

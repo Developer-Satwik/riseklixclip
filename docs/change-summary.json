@@ -361,5 +361,45 @@
     "measuredFieldPerformanceOrConversionLift": false,
     "measuredSearchOrCitationGains": false,
     "hostedDeploymentVerified": false
+  },
+  "buttonDesignRevision": {
+    "date": "2026-10-08",
+    "research": "docs/button-design-research-2026-10-08.md",
+    "baseline": "docs/button-ui-baseline.json",
+    "verification": "docs/button-ui-verification.json",
+    "preservation": "docs/button-ui-preservation.json",
+    "routes": 130,
+    "authoredArticlesPreserved": 119,
+    "responsiveThemeLayouts": 40,
+    "buttonStateComparisons": 48,
+    "minimumSampledEnabledTextContrast": 5.479631801336062,
+    "minimumActionHeight": 44,
+    "nativeTouchTap": true,
+    "keyboardActions": true,
+    "reducedMotion": true,
+    "forcedColors": true,
+    "busyAndRecovery": true,
+    "noJavaScriptLinksPreserved": true,
+    "newStyle": {
+      "bytes": 6391,
+      "gzip": 1571
+    },
+    "existingAssetDelta": {
+      "script.js": {
+        "beforeBytes": 14576,
+        "afterBytes": 14574,
+        "beforeGzip": 4805,
+        "afterGzip": 4805
+      },
+      "campaign-enquiry.js": {
+        "beforeBytes": 5485,
+        "afterBytes": 5586,
+        "beforeGzip": 2204,
+        "afterGzip": 2237
+      }
+    },
+    "newInteractionScriptOrDependency": false,
+    "hostedDeploymentVerified": false,
+    "measuredConversionOrSearchGains": false
   }
 }
