@@ -266,5 +266,53 @@
     "sharedCssAndScriptUnchanged": true,
     "localOnly": true,
     "measuredSearchOrCitationGains": false
+  },
+  "clipperEntryRevision": {
+    "date": "2026-10-08",
+    "research": "docs/clipper-entry-research-2026-10-08.md",
+    "verification": "docs/clipper-entry-verification.json",
+    "preservation": "docs/clipper-entry-preservation.json",
+    "allPageHeaderAndFooterInvites": 130,
+    "contextualClipperArticles": 20,
+    "responsiveThemeLayouts": 18,
+    "directNativeInvites": true,
+    "guideAndDiscordBehaviorRetained": true,
+    "blockedPopupAndNoJavaScriptFallbacks": true,
+    "publicInviteLookup": {
+      "status": 200,
+      "serverName": "Clip by RiseKlix",
+      "code": "skQk3xZcRa",
+      "expiresAt": null
+    },
+    "assets": [
+      {
+        "file": "styles.css",
+        "bytes": 59962,
+        "gzipBytes": 12771,
+        "previousBytes": 58279,
+        "previousGzipBytes": 12431
+      },
+      {
+        "file": "clipper-entry.css",
+        "bytes": 3280,
+        "gzipBytes": 930,
+        "previousBytes": 0,
+        "previousGzipBytes": 0
+      },
+      {
+        "file": "script.js",
+        "bytes": 15558,
+        "gzipBytes": 5120,
+        "previousBytes": 15481,
+        "previousGzipBytes": 5080
+      }
+    ],
+    "authoredArticlesPreserved": 119,
+    "newMediaOrThirdPartyRuntime": false,
+    "privateDiscordOnboardingChanged": false,
+    "measuredConversionLift": false,
+    "measuredSearchOrCitationGains": false,
+    "repositoryPushRequested": true,
+    "hostedDeploymentVerified": false
   }
 }

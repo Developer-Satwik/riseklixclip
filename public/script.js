@@ -13,7 +13,7 @@
  document.querySelectorAll('[data-discord-invite]').forEach(link=>{
   link.addEventListener('click',event=>{
    if(event.button!==0||event.ctrlKey||event.metaKey||event.shiftKey||event.altKey)return;
-   window.open(link.dataset.discordInvite,'_blank','noopener,noreferrer');
+   try{window.open(link.dataset.discordInvite,'_blank','noopener,noreferrer')}catch{} // The guide still opens; its direct invite link is the fallback.
   });
  });
  const search=document.querySelector('#resource-search'),category=document.querySelector('#resource-category');

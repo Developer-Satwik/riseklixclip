@@ -330,3 +330,29 @@ html[data-theme=dark] .agency-logo-type{display:block}
 @media(prefers-color-scheme:dark){html[data-theme=system] .agency-logo-color{clip-path:inset(0 0 23%)}html[data-theme=system] .agency-logo-type{display:block}}
 .receipt-brand{width:max-content;margin:28px 0}
 @media(max-width:560px){.brand-mark{width:30px;height:40px}}
+
+/* Visible clipper invitation in shared navigation. */
+.discord-button{background:#6035b4;color:#fff;border:1px solid #6035b4}
+.button.discord-button:hover,.clipper-nav:hover{background:#4d278f;border-color:#4d278f;color:#fff}
+.discord-button svg{flex:none}
+.clipper-nav{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:44px;padding:10px 16px;border-radius:100px;white-space:nowrap;font-size:13px;font-weight:600;text-decoration:none;flex:none}
+.site-header{gap:20px}
+.site-header nav{gap:22px}
+.site-footer .discord-button{gap:12px;font-size:13px;padding:12px 16px;margin-top:25px}
+.closing-cta .discord-button{margin-left:12px}
+@media(max-width:1100px){
+ .site-header{gap:16px}
+ .menu-toggle{display:flex;align-items:center;gap:12px;background:transparent;border:0;color:var(--ink);font-size:13px;padding:12px;margin-left:auto}
+ .site-header nav{display:none;position:absolute;left:0;right:0;top:100%;padding:25px;background:var(--bg);border-bottom:1px solid var(--line);box-shadow:0 18px 30px #0002;flex-direction:column;align-items:stretch;gap:0;margin-left:0}
+ .site-header nav.open{display:flex}
+ .site-header nav>a{padding:15px;font-size:16px}
+ .site-header .nav-cta{margin-top:12px;text-align:center}
+}
+@media(max-width:560px){
+ .site-header{height:auto;min-height:70px;flex-wrap:wrap;padding-top:12px;padding-bottom:12px;column-gap:5px;row-gap:10px}
+ .site-header nav{top:100%}
+ .clipper-nav{order:5;width:100%;min-height:44px;border-radius:4px;justify-content:center;padding:10px 16px}
+ .clipper-nav:before{content:'For clippers';font-size:10px;font-weight:500;opacity:.9;margin-right:auto;letter-spacing:.02em}
+ .closing-cta .discord-button{margin-left:0;width:100%;gap:12px}
+}
+@media print{.clipper-nav{display:none!important}}

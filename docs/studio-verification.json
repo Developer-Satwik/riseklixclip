@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T05:10:16.441Z",
+  "checkedAt": "2026-10-08T06:15:13.360Z",
   "framing": [
     {
       "width": 1440,
@@ -93,13 +93,13 @@
   "assets": [
     {
       "file": "styles.css",
-      "bytes": 58279,
-      "gzipEstimateBytes": 12431
+      "bytes": 59962,
+      "gzipEstimateBytes": 12771
     },
     {
       "file": "script.js",
-      "bytes": 15481,
-      "gzipEstimateBytes": 5080
+      "bytes": 15558,
+      "gzipEstimateBytes": 5120
     },
     {
       "file": "studio-frame.js",

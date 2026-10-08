@@ -44,6 +44,7 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 
 ## What changed
 
+- Clippers now have a visible “Join Discord” action outside the collapsed menu on every page, a filled hero action, an early three-step entry section, a prominent beginner-guide invitation, contextual invitations on 20 clipper articles, and a direct footer button. The hero retains the guide-plus-Discord behavior with a visible new-tab explanation; ordinary Discord links work without JavaScript or popups. See `docs/clipper-entry-research-2026-10-08.md` for research and verification limits.
 - The owner-supplied official RiseKlix logo now appears in the navbar, footer, browser icons, campaign response pages and Organization metadata across all 130 pages. The original artwork is preserved; compact assets only trim padding and resize it. The full footer lockup is transparent; its lettering turns white in dark mode while the ribbon retains its original colors. See `docs/brand/official-logo-2026-10-08.md`.
 - An original charcoal-and-paper art collage with figures and architectural layers; torn-paper transitions; large chapter numbers; restrained motion with reduced-motion support. The revised artwork follows the supplied art references more closely than the archived film-ribbon first pass.
 - Inter throughout, System/Light/Dark, and a refined neutral charcoal dark mode. Blue/violet/amber labels distinguish answers and planning tools without navy background panels.
@@ -68,6 +69,8 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 ## Source
 
 - `src/build.cjs`: the shared templates and 130-page generator.
+- `src/clipper-entry.cjs`, `src/clipper-entry.css`: clipper entry sections and page-specific styling.
+- `docs/clipper-entry-research-2026-10-08.md`, `docs/clipper-entry-verification.json`, `docs/clipper-entry-preservation.json`: primary-source UX research, Discord journey checks and preservation evidence.
 - `src/content.cjs`: editorial revisions and focused answers.
 - `src/design.cjs`: cutting-desk examples and progressive reading/library controls.
 - `src/styles.css`, `src/minify-css.cjs`: editable shared styles and conservative CSS compilation.
@@ -113,6 +116,7 @@ The included verification scripts use the Codex-bundled Playwright installation 
 
 ```sh
 npm run verify
+npm run verify:clippers
 node scripts/audit-editorial.cjs
 node scripts/audit-researched.cjs
 node scripts/audit-researched.cjs 2
@@ -134,6 +138,8 @@ The all-page check covers 1440, 390 and 320 pixel widths, metadata, H1s, canonic
 To reproduce the paired performance comparison, run `python3 scripts/prepare-design-comparison.py /path/to/the/prior-local-package.zip`, then `node scripts/measure-paired-design.mjs` (fourfold CPU slowdown) or `node scripts/measure-paired-design.mjs 1` (no additional CPU slowdown). It uses the prepared snapshot and current public files, serves both from memory on temporary localhost ports, and closes those servers after sampling. The timing report includes conditions and limitations. The final timing evidence is mixed: the home had severe stalls, while library and article median loads improved. The smaller payload is verified; a uniform speed improvement is not established. See the design report for every median and range.
 
 Local lab observations are not field Core Web Vitals, a complete WCAG conformance statement or proof of ranking/citation gains. Search visibility cannot change until an explicitly authorised publication occurs.
+
+The clipper journey check covers 18 light/dark layouts, native invite navigation, the retained guide-plus-Discord action, blocked/throwing popups, keyboard focus and no-JavaScript access. Interaction tests intercept the external destination; a separate live public Discord invite lookup confirms its server name. These checks do not sign in, join the server or validate private onboarding settings, and do not measure conversion lift.
 
 ## Remaining external dependencies
 

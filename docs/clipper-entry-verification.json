@@ -1,0 +1,263 @@
+{
+  "checkedAt": "2026-10-08T06:14:46.286Z",
+  "story": "Find a visible clipper action → open the valid Discord invite → continue through Discord’s own acceptance process. The hero also retains the beginner-guide route.",
+  "staticPagesWithHeaderAndFooterJoin": 130,
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 1081.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 1081.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1101,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 742.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1101,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 742.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 769.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 769.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1000,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 669.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 1000,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 669.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 821,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 490.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 821,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 490.34375,
+        "y": 20.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 493.34375,
+        "y": 15.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 493.34375,
+        "y": 15.5,
+        "width": 161.65625,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 560,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 14,
+        "y": 67.4375,
+        "width": 532,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 560,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 14,
+        "y": 67.4375,
+        "width": 532,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 14,
+        "y": 67.4375,
+        "width": 362,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 14,
+        "y": 67.4375,
+        "width": 362,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 14,
+        "y": 67.4375,
+        "width": 292,
+        "height": 44
+      },
+      "keyboardFocus": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "noOverflow": true,
+      "headerJoin": {
+        "x": 14,
+        "y": 67.4375,
+        "width": 292,
+        "height": 44
+      },
+      "keyboardFocus": true
+    }
+  ],
+  "directInviteNavigation": true,
+  "guideAndDiscordBehavior": true,
+  "popupFallbacks": [
+    "blocked",
+    "throws"
+  ],
+  "withoutJavaScript": "Visible header invite, navigation and beginner-guide invitation; native link reaches the invite",
+  "inviteLookup": {
+    "status": 200,
+    "serverName": "Clip by RiseKlix",
+    "code": "skQk3xZcRa",
+    "expiresAt": null
+  },
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 59962,
+      "gzipBytes": 12771,
+      "previousBytes": 58279,
+      "previousGzipBytes": 12431
+    },
+    {
+      "file": "clipper-entry.css",
+      "bytes": 3280,
+      "gzipBytes": 930,
+      "previousBytes": 0,
+      "previousGzipBytes": 0
+    },
+    {
+      "file": "script.js",
+      "bytes": 15558,
+      "gzipBytes": 5120,
+      "previousBytes": 15481,
+      "previousGzipBytes": 5080
+    }
+  ],
+  "pageErrors": [],
+  "articlesPreserved": 119,
+  "noNewMediaOrThirdPartyRuntime": true,
+  "limitations": "External navigation was intercepted in interaction tests; a separate live public invite lookup succeeded. No account sign-in, membership acceptance, server onboarding settings or conversion lift was tested or changed."
+}

@@ -6,6 +6,7 @@
     "build": "node src/build.cjs",
     "preview": "node scripts/preview.mjs",
     "verify": "node scripts/verify.mjs",
+    "verify:clippers": "node scripts/verify-clipper-entry.mjs",
     "verify:campaign": "node scripts/verify-campaign-api.mjs && node scripts/verify-campaign-browser.mjs"
   },
   "engines": {
