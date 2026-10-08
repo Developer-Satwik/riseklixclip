@@ -44,6 +44,7 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 
 ## What changed
 
+- Native scroll interactions now connect the homepage's four chapters, with an active chapter index, a scroll cue and restrained artwork/process motion. All 119 articles have a compact sticky section picker, scroll-position feedback and return-to-top control. Keyboard jumps, deep links, changing FAQ heights, reduced motion and static fallbacks are checked. See `docs/scroll-design-research-2026-10-08.md` and `docs/scroll-ui-verification.json`.
 - Clippers now have a visible “Join Discord” action outside the collapsed menu on every page, a filled hero action, an early three-step entry section, a prominent beginner-guide invitation, contextual invitations on 20 clipper articles, and a direct footer button. The hero retains the guide-plus-Discord behavior with a visible new-tab explanation; ordinary Discord links work without JavaScript or popups. See `docs/clipper-entry-research-2026-10-08.md` for research and verification limits.
 - The owner-supplied official RiseKlix logo now appears in the navbar, footer, browser icons, campaign response pages and Organization metadata across all 130 pages. The original artwork is preserved; compact assets only trim padding and resize it. The full footer lockup is transparent; its lettering turns white in dark mode while the ribbon retains its original colors. See `docs/brand/official-logo-2026-10-08.md`.
 - An original charcoal-and-paper art collage with figures and architectural layers; torn-paper transitions; large chapter numbers; restrained motion with reduced-motion support. The revised artwork follows the supplied art references more closely than the archived film-ribbon first pass.
@@ -70,6 +71,8 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 
 - `src/build.cjs`: the shared templates and 130-page generator.
 - `src/clipper-entry.cjs`, `src/clipper-entry.css`: clipper entry sections and page-specific styling.
+- `src/scroll-ui.cjs`, `src/scroll-ui.css`, `public/scroll-ui.js`: homepage chapter navigation and article reading controls, loaded only on those pages.
+- `docs/scroll-ui-baseline.json`, `docs/scroll-ui-layout-verification.json`, `docs/scroll-ui-verification.json`, `docs/scroll-ui-preservation.json`: observed scroll gaps, completed responsive checks, enhancement/fallback checks and content preservation.
 - `docs/clipper-entry-research-2026-10-08.md`, `docs/clipper-entry-verification.json`, `docs/clipper-entry-preservation.json`: primary-source UX research, Discord journey checks and preservation evidence.
 - `src/content.cjs`: editorial revisions and focused answers.
 - `src/design.cjs`: cutting-desk examples and progressive reading/library controls.
@@ -117,6 +120,7 @@ The included verification scripts use the Codex-bundled Playwright installation 
 ```sh
 npm run verify
 npm run verify:clippers
+npm run verify:scroll
 node scripts/audit-editorial.cjs
 node scripts/audit-researched.cjs
 node scripts/audit-researched.cjs 2

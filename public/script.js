@@ -8,7 +8,7 @@
  menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open);});
  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.getAttribute('aria-expanded')==='true'){closeMenu();menu.focus();}});
  nav?.addEventListener('click',e=>{if(e.target.closest('a'))closeMenu();});
- window.matchMedia('(min-width: 821px)').addEventListener('change',e=>{if(e.matches)closeMenu();});
+ window.matchMedia('(min-width: 1101px)').addEventListener('change',e=>{if(e.matches)closeMenu();});
  // Keep the guide as a normal link; open the community during the same user gesture.
  document.querySelectorAll('[data-discord-invite]').forEach(link=>{
   link.addEventListener('click',event=>{
@@ -60,20 +60,6 @@
  }
  if(choices.length){chooseCut(choices[0].dataset.cutSelect);document.querySelector('.cut-switcher').hidden=false;choices.forEach(button=>button.addEventListener('click',()=>chooseCut(button.dataset.cutSelect,true)));}
  const tocMenu=document.querySelector('.toc-menu');if(tocMenu){const compact=window.matchMedia('(max-width:820px)');tocMenu.open=!compact.matches;compact.addEventListener('change',e=>{tocMenu.open=!e.matches});}
- const tocLinks=Array.from(document.querySelectorAll('.toc nav a'));
- if(tocLinks.length&&'IntersectionObserver' in window){
-  const linkForId=new Map(tocLinks.map(link=>[link.getAttribute('href').slice(1),link]));
-  let observer,resizeTimer;
-  function observeContents(){
-   observer?.disconnect();
-   observer=new IntersectionObserver(entries=>{
-    const current=entries.filter(entry=>entry.isIntersecting).sort((a,b)=>b.boundingClientRect.top-a.boundingClientRect.top)[0];if(!current)return;
-    tocLinks.forEach(link=>link.removeAttribute('aria-current'));linkForId.get(current.target.id)?.setAttribute('aria-current','location');
-   },{rootMargin:`-32px 0px -${Math.max(0,innerHeight-150)}px 0px`,threshold:0});
-   linkForId.forEach((link,id)=>{const target=document.getElementById(id);if(target)observer.observe(target)});
-  }
-  observeContents();window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(observeContents,100)},{passive:true});
- }
  const studio=document.querySelector('.framing-studio');
  if(studio){const loadStudio=()=>import('/studio-frame.js?v=studio-1').then(module=>module.setup()).catch(()=>{});if('IntersectionObserver' in window){const previewObserver=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting)){previewObserver.disconnect();loadStudio();}},{rootMargin:'200px'});previewObserver.observe(studio);}else loadStudio();}
  const searchDialog=document.querySelector('#quick-search'),searchTriggers=document.querySelectorAll('[data-open-search]');

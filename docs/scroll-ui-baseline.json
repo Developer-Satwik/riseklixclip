@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-08",
+  "baselineCommit": "431d791226d35f87e618609ca5a7ba7080a33e95",
+  "method": "Local Chrome, 800px viewport height, reduced motion, fonts ready, scroll position 1800px; captured before the scroll revision",
+  "layouts": [
+    {"route":"/","status":200,"width":1440,"pageHeight":8981,"headerVisible":false,"contentsVisible":false,"progressControl":false,"scrollTimeline":true},
+    {"route":"/guides/how-to-become-a-clipper-india.html","status":200,"width":1440,"pageHeight":9802,"headerVisible":false,"contentsVisible":true,"progressControl":false,"scrollTimeline":true},
+    {"route":"/","status":200,"width":390,"pageHeight":11774,"headerVisible":false,"contentsVisible":false,"progressControl":false,"scrollTimeline":true},
+    {"route":"/guides/how-to-become-a-clipper-india.html","status":200,"width":390,"pageHeight":14712,"headerVisible":false,"contentsVisible":false,"progressControl":false,"scrollTimeline":true}
+  ],
+  "limitations": "Representative local geometry and visibility checks, not user attention, conversion analytics or field performance"
+}

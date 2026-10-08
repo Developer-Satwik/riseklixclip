@@ -1,0 +1,166 @@
+{
+  "checkedOn": "2026-10-08",
+  "evidence": "Completed layout cases printed by verify-scroll-ui.mjs before its fixture waited for offscreen lazy images; this records completed assertions only.",
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1000,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1000,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 821,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 821,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 560,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 560,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    }
+  ]
+}

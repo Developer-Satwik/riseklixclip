@@ -1,0 +1,205 @@
+{
+  "checkedAt": "2026-10-08T07:04:05.281Z",
+  "story": "Discover a homepage chapter or article section → jump with native scrolling → see current location → return to the header.",
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1000,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 1000,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 821,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 821,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 560,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 560,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "nativeChapterJumps": true,
+      "keyboardFocusAtSection": true,
+      "readingDock": true,
+      "sourceScrollPosition": "100%",
+      "noOverflow": true,
+      "backToTop": true
+    }
+  ],
+  "enhancedRoutes": 120,
+  "articleCount": 119,
+  "deepLinksAndHistory": true,
+  "faqHeightRecalculated": true,
+  "stableScrollGeometryReads": 0,
+  "withoutJavaScript": "Ordinary chapter anchors, contents links and full article text remain usable",
+  "moduleFailureFallback": true,
+  "reducedMotion": true,
+  "nativeMotion": {
+    "supported": true,
+    "heroTimeline": "--hero-scene",
+    "heroTransform": "matrix(1, 0, 0, 1, 0, 14.319)",
+    "headingOpacity": "1"
+  },
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 59962,
+      "gzipBytes": 12771
+    },
+    {
+      "file": "script.js",
+      "bytes": 14576,
+      "gzipBytes": 4805
+    },
+    {
+      "file": "scroll-ui.css",
+      "bytes": 5362,
+      "gzipBytes": 1563
+    },
+    {
+      "file": "scroll-ui.js",
+      "bytes": 3766,
+      "gzipBytes": 1418
+    }
+  ],
+  "pageErrors": [],
+  "externalRequests": [],
+  "limitations": "Local Chrome interaction and geometry checks; no field Core Web Vitals, conversion lift, Safari/Firefox execution or search/citation gain was measured."
+}

@@ -314,5 +314,52 @@
     "measuredSearchOrCitationGains": false,
     "repositoryPushRequested": true,
     "hostedDeploymentVerified": false
+  },
+  "scrollDesignRevision": {
+    "date": "2026-10-08",
+    "research": "docs/scroll-design-research-2026-10-08.md",
+    "baseline": "docs/scroll-ui-baseline.json",
+    "verification": "docs/scroll-ui-verification.json",
+    "layoutEvidence": "docs/scroll-ui-layout-verification.json",
+    "preservation": "docs/scroll-ui-preservation.json",
+    "homepageChapters": 4,
+    "articleReadingDocks": 119,
+    "enhancedRoutes": 120,
+    "responsiveThemeLayouts": 16,
+    "nativeScrollingRetained": true,
+    "deepLinksAndHistoryVerified": true,
+    "keyboardSectionFocus": true,
+    "reducedMotionAndStaticFallbacks": true,
+    "nativeAnimationFeatureQueries": true,
+    "stableScrollGeometryReads": 0,
+    "assets": [
+      {
+        "file": "styles.css",
+        "bytes": 59962,
+        "gzipBytes": 12771
+      },
+      {
+        "file": "script.js",
+        "bytes": 14576,
+        "gzipBytes": 4805
+      },
+      {
+        "file": "scroll-ui.css",
+        "bytes": 5362,
+        "gzipBytes": 1563
+      },
+      {
+        "file": "scroll-ui.js",
+        "bytes": 3766,
+        "gzipBytes": 1418
+      }
+    ],
+    "netEnhancedPageGzipIncrease": 2666,
+    "authoredArticlesPreserved": 119,
+    "metadataPreservedPages": 130,
+    "newMediaOrThirdPartyRuntime": false,
+    "measuredFieldPerformanceOrConversionLift": false,
+    "measuredSearchOrCitationGains": false,
+    "hostedDeploymentVerified": false
   }
 }

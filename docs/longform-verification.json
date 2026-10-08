@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T03:22:21.286Z",
+  "checkedAt": "2026-10-08T07:07:20.978Z",
   "samples": [
     {
       "slug": "creator-clipping-india-operating-manual-2026",
@@ -11,7 +11,7 @@
         "top": 35.125,
         "bottom": 585.125,
         "height": 550,
-        "scrollHeight": 850,
+        "scrollHeight": 882,
         "viewport": 600,
         "overflow": "auto"
       },
@@ -61,7 +61,7 @@
         "top": 35.140625,
         "bottom": 585.140625,
         "height": 550,
-        "scrollHeight": 736,
+        "scrollHeight": 768,
         "viewport": 600,
         "overflow": "auto"
       },
@@ -86,7 +86,7 @@
         "top": 35.140625,
         "bottom": 585.140625,
         "height": 550,
-        "scrollHeight": 782,
+        "scrollHeight": 814,
         "viewport": 600,
         "overflow": "auto"
       },
@@ -111,7 +111,7 @@
         "top": 35.140625,
         "bottom": 585.140625,
         "height": 550,
-        "scrollHeight": 718,
+        "scrollHeight": 750,
         "viewport": 600,
         "overflow": "auto"
       },
@@ -136,7 +136,7 @@
         "top": 35.140625,
         "bottom": 585.140625,
         "height": 550,
-        "scrollHeight": 736,
+        "scrollHeight": 768,
         "viewport": 600,
         "overflow": "auto"
       },
