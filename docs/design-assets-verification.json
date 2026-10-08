@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-08T06:15:11.100Z",
+  "checkedAt": "2026-10-08T08:49:00.451Z",
   "css": {
-    "sourceRules": 492,
-    "compiledRules": 492,
+    "sourceRules": 489,
+    "compiledRules": 489,
     "mismatches": []
   },
   "articlePriorityChecks": 119,
@@ -21,13 +21,13 @@
   "assets": [
     {
       "file": "styles.css",
-      "bytes": 59962,
-      "gzipEstimateBytes": 12771
+      "bytes": 59657,
+      "gzipEstimateBytes": 12740
     },
     {
       "file": "script.js",
-      "bytes": 15558,
-      "gzipEstimateBytes": 5120
+      "bytes": 14574,
+      "gzipEstimateBytes": 4805
     }
   ],
   "pageErrors": []

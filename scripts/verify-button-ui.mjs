@@ -2,6 +2,7 @@ import {chromium} from '/Users/satwikkumar/.cache/codex-runtimes/codex-primary-r
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {gzipSync} from 'node:zlib';
+import minifyCss from '../src/minify-css.cjs';
 
 const origin='http://127.0.0.1:8770',article='/guides/how-to-become-a-clipper-india.html';
 const browser=await chromium.launch({channel:'chrome',headless:true});
@@ -119,7 +120,9 @@ try{
  const nojsContext=await browser.newContext({viewport:{width:390,height:850},javaScriptEnabled:false}),nojs=await nojsContext.newPage();watch(nojs);await nojs.goto(origin+'/');assert.equal(await nojs.locator('.clipper-nav').getAttribute('href'),'https://discord.gg/skQk3xZcRa');assert.equal(await nojs.locator('.hero-actions .discord-button').getAttribute('href'),article);assert.equal(await nojs.locator('.hero-actions .button.white').getAttribute('href'),'/contact/');assert.equal(await nojs.locator('.clipper-nav').evaluate(el=>getComputedStyle(el).borderRadius),'10px');
  assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
  const assets=Object.fromEntries(['styles.css','script.js','button-ui.css','campaign-enquiry.js'].map(file=>{const bytes=fs.readFileSync('public/'+file);return[file,{bytes:bytes.length,gzip:gzipSync(bytes).length}];}));
- assert(assets['styles.css'].bytes<=60000&&assets['script.js'].bytes<=16000&&assets['button-ui.css'].bytes<=8000);
+ assert(assets['styles.css'].bytes<=60000&&assets['script.js'].bytes<=16000);
+ assert(Buffer.byteLength(minifyCss(fs.readFileSync('src/button-ui.css','utf8')))<=8000,'Button-only layer retains its original budget');
+ assert(assets['button-ui.css'].bytes<=14000&&assets['button-ui.css'].gzip<=3500,'Combined button and theme interface stays within its shared budget');
  const report={date:'2026-10-08',origin,layouts,states,busy,touch:{normal:touchNormal,hover:touchHover,pressed:touchPressed},reduced,forcedStyle,assets,keyboardActions:'Example, format, search close/return focus, library view/save/filter, native contents and FAQ passed.',noJavaScript:'Native campaign and Discord/guide links retained; shared CSS available.',errors,external,limits:'Local Chromium checks. Text contrast composites CSS ancestor surfaces, not background-image pixels. Busy flow used an isolated QA response and sent no email. No production conversion, full WCAG or field performance claim.'};
  fs.writeFileSync('docs/button-ui-verification.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify({layouts:layouts.length,stateFamilies:states.length,minContrast:Math.min(...states.flatMap(s=>[s.normal.contrast,s.hover.contrast,s.pressed.contrast,s.focus.contrast])),assets,errors,external}));
 }finally{await browser.close();}

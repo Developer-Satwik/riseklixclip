@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-08T08:52:03.091Z",
+  "sourceChanges": [
+    "src/build.cjs",
+    "src/studio.cjs",
+    "src/styles.css"
+  ],
+  "protectedSourceAndAssetFiles": 114,
+  "allOriginalRoutesRetained": 130,
+  "unchangedArticleSchema": 119,
+  "originalArtWebPAndLogosPreserved": true,
+  "editorialSourceUnchanged": true,
+  "articleDatesUnchanged": true
+}

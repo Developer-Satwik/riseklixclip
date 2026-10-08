@@ -7,7 +7,7 @@ import {createEnquiryHandler} from '../server/campaign-enquiry.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url)),publicRoot=fs.realpathSync(path.join(root,'public')),envFile=path.join(root,'.env.local');
 if(fs.existsSync(envFile))process.loadEnvFile(envFile);
 const handle=createEnquiryHandler(),port=8770;
-const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.jpg':'image/jpeg','.woff2':'font/woff2'};
+const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.avif':'image/avif','.png':'image/png','.jpg':'image/jpeg','.woff2':'font/woff2'};
 http.createServer(async(req,res)=>{
  try{
   const url=new URL(req.url,`http://127.0.0.1:${port}`),pathname=decodeURIComponent(url.pathname);

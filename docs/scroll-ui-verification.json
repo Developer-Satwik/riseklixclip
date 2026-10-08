@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T07:38:13.006Z",
+  "checkedAt": "2026-10-08T08:51:10.160Z",
   "story": "Discover a homepage chapter or article section → jump with native scrolling → see current location → return to the header.",
   "layouts": [
     {
@@ -180,8 +180,8 @@
   "assets": [
     {
       "file": "styles.css",
-      "bytes": 59962,
-      "gzipBytes": 12771
+      "bytes": 59657,
+      "gzipBytes": 12740
     },
     {
       "file": "script.js",

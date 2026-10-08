@@ -25,7 +25,7 @@ try {
    const html=fs.readFileSync(path.join(root,file),'utf8');
    if(!html.includes('class="article-hero'))continue;
    assert.match(html,/<img src="\/assets\/story-collage-v3-640.webp"[^>]*loading="eager"[^>]*fetchpriority="high"/);
-   assert.equal((html.match(/<link rel="preload" href="\/assets\/story-collage-v3-640.webp"/g)||[]).length,1);
+   assert.equal((html.match(/<link rel="preload" href="\/assets\/story-collage-v3-640.avif"/g)||[]).length,1);
    articles.push(directory+'/'+file);
   }
  }

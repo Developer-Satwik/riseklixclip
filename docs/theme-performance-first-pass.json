@@ -1,0 +1,1360 @@
+{
+  "checkedAt": "2026-10-08T08:45:10.522Z",
+  "conditions": {
+    "viewport": [
+      390,
+      844
+    ],
+    "cpuSlowdown": 1,
+    "downloadBitsPerSecond": 1600000,
+    "latencyMs": 150,
+    "coldCache": true,
+    "runsPerVersionPerRoute": 3,
+    "order": "Interleaved; order reversed on the middle run",
+    "server": "Both snapshots served from memory on localhost; avoids changing filesystem/cloud-sync I/O during requests"
+  },
+  "sourceHashes": [
+    {
+      "version": "baseline",
+      "css": "94cdb9d1866f985b1799f721a90fcbfc4590bd8f29a89f484e5bf134f29e9002",
+      "script": "fe73ed7d696e1010f0235096e3727075efcd9a101f77fea926f6bd3f5aaad02a",
+      "html": [
+        {
+          "route": "/",
+          "sha256": "3888b541af30cedeec2490db4d1fa211fed991d730e366f1cf7781e4556d47f0"
+        },
+        {
+          "route": "/resources/",
+          "sha256": "20e9fb61c27370c8ff075cf1ba9557a1a15f5ef82a014c147c36b7689475c175"
+        },
+        {
+          "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+          "sha256": "047a34751209a7fd358f80d2080ca74e5d5a75be39d376f11f96ed5c6734e86a"
+        }
+      ]
+    },
+    {
+      "version": "current",
+      "css": "5133251798b36052101426011aea4bd378a96b0fe87bb8ef5603e97242eab381",
+      "script": "fe73ed7d696e1010f0235096e3727075efcd9a101f77fea926f6bd3f5aaad02a",
+      "html": [
+        {
+          "route": "/",
+          "sha256": "0a9fcacb1dd6c822254b4d9520c0d05b8ebc740af2a236096771ddd4fd229d2f"
+        },
+        {
+          "route": "/resources/",
+          "sha256": "70b8d24d3c8393e002ad653aac35a7d1ad3a2122c97a757b5d135f79c1225736"
+        },
+        {
+          "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+          "sha256": "22f379369812e7e0657d1ccb4e8d4d7798c5216947083060730f81b9c89ee269"
+        }
+      ]
+    }
+  ],
+  "summaries": [
+    {
+      "route": "/",
+      "baseline": {
+        "lcpMs": 1648,
+        "lcpRangeMs": [
+          1644,
+          1680
+        ],
+        "cls": 0.012770996024852,
+        "loadMs": 1676.0999999046326,
+        "resourceBytes": 249283,
+        "fontBytes": 76760,
+        "filterToPaintMs": null
+      },
+      "current": {
+        "lcpMs": 1576,
+        "lcpRangeMs": [
+          1572,
+          1592
+        ],
+        "cls": 0,
+        "loadMs": 1639.3999998569489,
+        "resourceBytes": 231484,
+        "fontBytes": 76760,
+        "filterToPaintMs": null
+      }
+    },
+    {
+      "route": "/resources/",
+      "baseline": {
+        "lcpMs": 1584,
+        "lcpRangeMs": [
+          1584,
+          1600
+        ],
+        "cls": 0.001549027038306325,
+        "loadMs": 2053.9000000953674,
+        "resourceBytes": 174825,
+        "fontBytes": 76760,
+        "filterToPaintMs": 9
+      },
+      "current": {
+        "lcpMs": 1580,
+        "lcpRangeMs": [
+          1576,
+          1588
+        ],
+        "cls": 0.014449477624251361,
+        "loadMs": 2098.5,
+        "resourceBytes": 180649,
+        "fontBytes": 76760,
+        "filterToPaintMs": 9.600000143051147
+      }
+    },
+    {
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "baseline": {
+        "lcpMs": 1648,
+        "lcpRangeMs": [
+          1644,
+          1656
+        ],
+        "cls": 0.0009157591433371403,
+        "loadMs": 1730.2999999523163,
+        "resourceBytes": 246003,
+        "fontBytes": 76760,
+        "filterToPaintMs": null
+      },
+      "current": {
+        "lcpMs": 1544,
+        "lcpRangeMs": [
+          1544,
+          1548
+        ],
+        "cls": 0,
+        "loadMs": 1626.6000001430511,
+        "resourceBytes": 228204,
+        "fontBytes": 76760,
+        "filterToPaintMs": null
+      }
+    }
+  ],
+  "samples": [
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1680,
+        "cls": 0,
+        "longTasks": [
+          123
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.webp"
+        }
+      },
+      "loadMs": 1694.5,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.webp",
+          "transferSize": 62350,
+          "decodedBodySize": 62050
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1592,
+        "cls": 0,
+        "longTasks": [
+          92
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1641.2000000476837,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1572,
+        "cls": 0,
+        "longTasks": [
+          70
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1638.7000000476837,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1648,
+        "cls": 0.012770996024852,
+        "longTasks": [
+          80
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.webp"
+        }
+      },
+      "loadMs": 1676.0999999046326,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.webp",
+          "transferSize": 62350,
+          "decodedBodySize": 62050
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1644,
+        "cls": 0.012770996024852,
+        "longTasks": [
+          80
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.webp"
+        }
+      },
+      "loadMs": 1664.9000000953674,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.webp",
+          "transferSize": 62350,
+          "decodedBodySize": 62050
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1576,
+        "cls": 0,
+        "longTasks": [
+          77
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1639.3999998569489,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/resources/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1600,
+        "cls": 0.001549027038306325,
+        "longTasks": [],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2050,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": 13.5,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/resources/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1588,
+        "cls": 0.014449477624251361,
+        "longTasks": [],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2085.2999999523163,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": 9.600000143051147,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/resources/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1580,
+        "cls": 0.014449477624251361,
+        "longTasks": [],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2098.5,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": 5.799999952316284,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/resources/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1584,
+        "cls": 0.001549027038306325,
+        "longTasks": [],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2053.9000000953674,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": 5.099999904632568,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/resources/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1584,
+        "cls": 0.001549027038306325,
+        "longTasks": [],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2057.5,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": 9,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/resources/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1576,
+        "cls": 0.014449477624251361,
+        "longTasks": [],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2105.7999999523163,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": 9.900000095367432,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 1,
+      "metrics": {
+        "lcp": 1648,
+        "cls": 0.0009157591433371403,
+        "longTasks": [
+          76
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.webp"
+        }
+      },
+      "loadMs": 1730.2999999523163,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v3-640.webp",
+          "transferSize": 62350,
+          "decodedBodySize": 62050
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 1,
+      "metrics": {
+        "lcp": 1544,
+        "cls": 0,
+        "longTasks": [
+          73
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1625.5,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 2,
+      "metrics": {
+        "lcp": 1548,
+        "cls": 0,
+        "longTasks": [
+          74
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1633.5,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 2,
+      "metrics": {
+        "lcp": 1656,
+        "cls": 0.0009157591433371403,
+        "longTasks": [
+          72
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.webp"
+        }
+      },
+      "loadMs": 1731.2000000476837,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v3-640.webp",
+          "transferSize": 62350,
+          "decodedBodySize": 62050
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 3,
+      "metrics": {
+        "lcp": 1644,
+        "cls": 0.0009157591433371403,
+        "longTasks": [
+          77
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.webp"
+        }
+      },
+      "loadMs": 1724.5999999046326,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v3-640.webp",
+          "transferSize": 62350,
+          "decodedBodySize": 62050
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=clipper-entry-1",
+          "transferSize": 60262,
+          "decodedBodySize": 59962
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/button-ui.css?v=1",
+          "transferSize": 6691,
+          "decodedBodySize": 6391
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 3,
+      "metrics": {
+        "lcp": 1544,
+        "cls": 0,
+        "longTasks": [
+          75
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1626.6000001430511,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/button-ui.css?v=2",
+          "transferSize": 12820,
+          "decodedBodySize": 12520
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/script.js?v=button-1",
+          "transferSize": 14874,
+          "decodedBodySize": 14574
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    }
+  ],
+  "limitations": "Controlled local Chrome comparison under background machine load; not field Core Web Vitals or real-user INP. Configurable CPU slowdown; default 1x. Filter-to-paint uses two frames and is synthetic. Decoded resource sizes are not compressed network payloads."
+}

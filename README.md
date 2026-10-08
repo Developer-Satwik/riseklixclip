@@ -44,6 +44,7 @@ The Netlify function and same-origin API rewrite are included. Configure the var
 
 ## What changed
 
+- The homepage and library now offer three native reading journeys for creators, company owners and clippers, linking nine useful steps to existing full articles. Charcoal/light palette tokens are consolidated, cards have clearer collection accents, and every article has a byline link to its evidence notes. AVIF artwork variants are 36–39% smaller, with the original WebP fallbacks retained. The changes add no frontend JavaScript. See `docs/design-color-search-research-2026-10-08.md`, `docs/theme-refinement-verification.json` and `docs/theme-performance-comparison.json`.
 - Buttons now share consistent shapes, clearer neutral/violet emphasis, tonal hover surfaces, immediate press feedback and contained arrow details. Search, save and reader utilities have larger targets; keyboard focus, selected, sending, disabled, reduced-motion and forced-color states are refined. The change adds a small shared CSS file and preserves native navigation and the guide-plus-Discord flow. See `docs/button-design-research-2026-10-08.md` and `docs/button-ui-verification.json`.
 - Native scroll interactions now connect the homepage's four chapters, with an active chapter index, a scroll cue and restrained artwork/process motion. All 119 articles have a compact sticky section picker, scroll-position feedback and return-to-top control. Keyboard jumps, deep links, changing FAQ heights, reduced motion and static fallbacks are checked. See `docs/scroll-design-research-2026-10-08.md` and `docs/scroll-ui-verification.json`.
 - Clippers now have a visible “Join Discord” action outside the collapsed menu on every page, a filled hero action, an early three-step entry section, a prominent beginner-guide invitation, contextual invitations on 20 clipper articles, and a direct footer button. The hero retains the guide-plus-Discord behavior with a visible new-tab explanation; ordinary Discord links work without JavaScript or popups. See `docs/clipper-entry-research-2026-10-08.md` for research and verification limits.
@@ -124,6 +125,7 @@ npm run verify
 npm run verify:clippers
 npm run verify:scroll
 npm run verify:buttons
+npm run verify:theme
 node scripts/audit-editorial.cjs
 node scripts/audit-researched.cjs
 node scripts/audit-researched.cjs 2
@@ -144,7 +146,11 @@ The all-page check covers 1440, 390 and 320 pixel widths, metadata, H1s, canonic
 
 `verify:buttons` checks representative action families in light/dark states, text contrast, stationary hover targets, minimum action heights, native keyboard activation, a trusted emulated touch tap, reduced motion, forced colors and an isolated mocked sending/recovery flow. The touch inspection cancels its campaign destination so the painted feedback can be captured. Scroll checks focus the native section picker before choosing an option, matching user interaction; state snapshots wait for scrolling to settle before comparing geometry.
 
-To reproduce the paired performance comparison, run `python3 scripts/prepare-design-comparison.py /path/to/the/prior-local-package.zip`, then `node scripts/measure-paired-design.mjs` (fourfold CPU slowdown) or `node scripts/measure-paired-design.mjs 1` (no additional CPU slowdown). It uses the prepared snapshot and current public files, serves both from memory on temporary localhost ports, and closes those servers after sampling. The timing report includes conditions and limitations. The final timing evidence is mixed: the home had severe stalls, while library and article median loads improved. The smaller payload is verified; a uniform speed improvement is not established. See the design report for every median and range.
+The earlier design comparison used the preceding local package. To reproduce that comparison, run `python3 scripts/prepare-design-comparison.py /path/to/the/prior-local-package.zip`, then `node scripts/measure-paired-design.mjs` (fourfold CPU slowdown) or `node scripts/measure-paired-design.mjs 1` (no additional CPU slowdown). Both snapshots are served from memory on temporary localhost ports. Its historical evidence was mixed, including severe home stalls, and remains recorded in the earlier design report.
+
+The latest theme/image comparison uses a snapshot of commit `e114bbd`, made before this refinement. `scripts/measure-theme-performance.mjs 1` reads the snapshot directory from `/tmp/riseklix-theme-baseline-root.txt`, serves it and the current public files from memory, and runs three interleaved cold-cache samples per version on home/library/article routes. The temporary snapshot is local and is not included in Git; recreate it from that commit when reproducing on another machine. `docs/theme-performance-first-pass.json` records the initial library layout movement that prompted reserving space for optional controls. `docs/theme-performance-comparison.json` records the subsequent run and its conditions. These are local comparisons, not field results.
+
+`verify:theme` checks five widths and both themes, native keyboard reading routes, direct article navigation, source-note links, system appearance, forced-color focus, no-JavaScript discovery, AVIF decoding and sampled text contrast. The journey and color layer is compiled into the existing `button-ui.css`, adding no stylesheet request or frontend script. Hidden optional library controls reserve their eventual dimensions; the no-JavaScript stylesheet hides those empty spaces.
 
 Local lab observations are not field Core Web Vitals, a complete WCAG conformance statement or proof of ranking/citation gains. Search visibility cannot change until an explicitly authorised publication occurs.
 

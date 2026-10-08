@@ -401,5 +401,132 @@
     "newInteractionScriptOrDependency": false,
     "hostedDeploymentVerified": false,
     "measuredConversionOrSearchGains": false
+  },
+  "themeAndSearchRefinement": {
+    "date": "2026-10-08",
+    "research": "docs/design-color-search-research-2026-10-08.md",
+    "changes": [
+      "Three native reading journeys with nine complete existing article steps",
+      "Optional library journeys preserve direct search access",
+      "Consolidated achromatic light/dark palette and clearer collection cards",
+      "Sources/editorial-notes link on all 119 articles",
+      "Social image dimensions and alt metadata on all 130 pages",
+      "Responsive AVIF variants with original WebP fallbacks",
+      "Reserved optional library controls remove initial layout movement"
+    ],
+    "additionalFrontendJavaScriptBytes": 0,
+    "verification": "docs/theme-refinement-verification.json",
+    "responsiveLayouts": 30,
+    "minimumSampledJourneyContrast": 5.6345896985949615,
+    "imageSavings": [
+      {
+        "width": 640,
+        "webp": 62050,
+        "avif": 38427,
+        "reductionPercent": 38.07091055600323
+      },
+      {
+        "width": 960,
+        "webp": 138300,
+        "avif": 84230,
+        "reductionPercent": 39.09616775126536
+      },
+      {
+        "width": 1536,
+        "webp": 281414,
+        "avif": 179898,
+        "reductionPercent": 36.073542894099084
+      }
+    ],
+    "combinedInterfaceCss": {
+      "bytes": 12668,
+      "gzipEstimateBytes": 3030
+    },
+    "performance": "docs/theme-performance-comparison.json",
+    "performanceSummaries": [
+      {
+        "route": "/",
+        "baseline": {
+          "lcpMs": 1644,
+          "lcpRangeMs": [
+            1612,
+            1652
+          ],
+          "cls": 0.012770996024852,
+          "loadMs": 1678.1000001430511,
+          "resourceBytes": 249283,
+          "fontBytes": 76760,
+          "filterToPaintMs": null
+        },
+        "current": {
+          "lcpMs": 1592,
+          "lcpRangeMs": [
+            1592,
+            1604
+          ],
+          "cls": 0,
+          "loadMs": 1656.0999999046326,
+          "resourceBytes": 231632,
+          "fontBytes": 76760,
+          "filterToPaintMs": null
+        }
+      },
+      {
+        "route": "/resources/",
+        "baseline": {
+          "lcpMs": 1580,
+          "lcpRangeMs": [
+            1560,
+            1584
+          ],
+          "cls": 0.001549027038306325,
+          "loadMs": 2055.7000000476837,
+          "resourceBytes": 174825,
+          "fontBytes": 76760,
+          "filterToPaintMs": 5.599999904632568
+        },
+        "current": {
+          "lcpMs": 1580,
+          "lcpRangeMs": [
+            1556,
+            1584
+          ],
+          "cls": 0.0012885399550716199,
+          "loadMs": 2098.2000000476837,
+          "resourceBytes": 180797,
+          "fontBytes": 76760,
+          "filterToPaintMs": 15.899999856948853
+        }
+      },
+      {
+        "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+        "baseline": {
+          "lcpMs": 1644,
+          "lcpRangeMs": [
+            1644,
+            1664
+          ],
+          "cls": 0.0009157591433371403,
+          "loadMs": 1725.2000000476837,
+          "resourceBytes": 246003,
+          "fontBytes": 76760,
+          "filterToPaintMs": null
+        },
+        "current": {
+          "lcpMs": 1548,
+          "lcpRangeMs": [
+            1544,
+            1560
+          ],
+          "cls": 0,
+          "loadMs": 1632.5,
+          "resourceBytes": 228352,
+          "fontBytes": 76760,
+          "filterToPaintMs": null
+        }
+      }
+    ],
+    "sourcePreservation": "docs/theme-refinement-preservation.json",
+    "measuredRankingOrCitationGains": false
   }
 }

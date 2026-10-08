@@ -1,0 +1,852 @@
+{
+  "checkedAt": "2026-10-08T08:48:42.691Z",
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#f7f7f7",
+        "--surface": "#fff",
+        "--soft": "#ededed",
+        "--ink": "#171717",
+        "--muted": "#5a5a5a"
+      }
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/resources/",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "noOverflow": true,
+      "foundation": {
+        "--bg": "#171717",
+        "--surface": "#1e1e1e",
+        "--soft": "#262626",
+        "--ink": "#eeeeee",
+        "--muted": "#b2b2b2"
+      }
+    }
+  ],
+  "contrastSamples": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 1100,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 1100,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 6.417808232159091
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 5.6345896985949615
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 6.729094504323944
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "blue",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "amber",
+      "minimum": 7.862453999132787
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "route": "/resources/",
+      "tone": "violet",
+      "minimum": 7.854975781119843
+    }
+  ],
+  "minimumTextContrast": 5.6345896985949615,
+  "journeys": "Keyboard/native mutually exclusive disclosure → relevant complete guide → direct answer; company journey also works without JavaScript",
+  "allPageMetadataChecks": 130,
+  "articleSourceLinks": 119,
+  "systemTheme": true,
+  "forcedColorFocus": true,
+  "reducedMotion": true,
+  "imageSizes": [
+    {
+      "width": 640,
+      "webp": 62050,
+      "avif": 38427,
+      "reductionPercent": 38.07091055600323
+    },
+    {
+      "width": 960,
+      "webp": 138300,
+      "avif": 84230,
+      "reductionPercent": 39.09616775126536
+    },
+    {
+      "width": 1536,
+      "webp": 281414,
+      "avif": 179898,
+      "reductionPercent": 36.073542894099084
+    }
+  ],
+  "bundle": {
+    "bytes": 12668,
+    "gzipEstimateBytes": 3030
+  },
+  "additionalJavaScriptBytes": 0,
+  "pageErrors": [],
+  "externalRequests": [],
+  "limitations": "Local Chromium; WebP fallback markup retained, but older browser codecs and Safari/Firefox were not executed. Contrast samples do not establish full WCAG conformance. No real-user performance, ranking, conversion or citation lift is claimed."
+}
