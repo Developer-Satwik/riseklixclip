@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T07:28:57.958Z",
+  "checkedAt": "2026-10-08T09:45:39.672Z",
   "framing": [
     {
       "width": 1440,
@@ -93,28 +93,28 @@
   "assets": [
     {
       "file": "styles.css",
-      "bytes": 59962,
-      "gzipEstimateBytes": 12771
+      "bytes": 59657,
+      "gzipEstimateBytes": 12740
     },
     {
       "file": "script.js",
-      "bytes": 14574,
-      "gzipEstimateBytes": 4805
+      "bytes": 14637,
+      "gzipEstimateBytes": 4812
     },
     {
       "file": "studio-frame.js",
-      "bytes": 2211,
-      "gzipEstimateBytes": 887
+      "bytes": 2142,
+      "gzipEstimateBytes": 844
     },
     {
       "file": "quick-search.js",
-      "bytes": 4678,
-      "gzipEstimateBytes": 1914
+      "bytes": 4677,
+      "gzipEstimateBytes": 1920
     },
     {
       "file": "search-index.json",
-      "bytes": 33438,
-      "gzipEstimateBytes": 9062
+      "bytes": 30908,
+      "gzipEstimateBytes": 7836
     }
   ],
   "pageErrors": [],

@@ -60,3 +60,6 @@ h1,h2,.resource-card h3{text-wrap:balance}
 @media(prefers-reduced-motion:reduce){.story-route>summary,.route-toggle{transition:none}}
 @media(forced-colors:active){.story-route[open]>summary,.route-body{border-left-color:Highlight}.route-label{color:LinkText}.route-toggle{border-color:ButtonText}}
 @media print{.story-route>summary{break-after:avoid}.story-route .route-body{display:block!important}.route-intro .text-link,.route-body>.button{display:none}.story-routes{display:block}.route-intro{margin-bottom:24px}}
+
+/* Plain explanations use the existing native disclosure, with no script. */
+.article-glossary{margin:20px 0 28px}.article-glossary dl{margin:16px 0 0}.article-glossary dl>div+div{margin-top:14px}.article-glossary dt{font-weight:650;color:var(--ink)}.article-glossary dd{margin:4px 0 0;color:var(--muted);line-height:1.65}

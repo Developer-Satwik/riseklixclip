@@ -36,7 +36,7 @@ try{
  await page.goto(origin+full);assert.equal(await page.locator('#resource-search').inputValue(),'permissions');assert.equal(await page.locator('#resource-category').inputValue(),'platforms');assert((await page.locator('#resource-grid .resource-card:visible').count())>0);
  for(const width of [390,320]){
   await page.setViewportSize({width,height:600});await page.selectOption('.theme-select','dark');await page.locator('[data-open-search]').click();await page.waitForFunction(()=>document.querySelector('#quick-search').dataset.indexLoaded==='true');
-  await page.locator('#quick-search-input').fill('no-matching-phrase-for-the-library');assert.equal(await page.locator('#quick-search-results>a').count(),0);assert.match(await page.locator('#quick-search-status').innerText(),/No matching/);
+  await page.locator('#quick-search-input').fill('no-matching-phrase-for-the-library');assert.equal(await page.locator('#quick-search-results>a').count(),0);assert.match(await page.locator('#quick-search-status').innerText(),/No articles found/);
   await page.locator('#quick-search-input').fill('clipping');await page.locator('#quick-search-category').selectOption('all');assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false);
   assert(await page.locator('#quick-search').evaluate(el=>{const r=el.getBoundingClientRect();return r.top>=0&&r.left>=0&&r.bottom<=innerHeight+1&&r.right<=innerWidth+1}));
   await page.locator('#quick-search-all').focus();await page.keyboard.press('Tab');assert(await page.locator('#quick-search').evaluate(el=>el.contains(document.activeElement)),'Native modal traps keyboard focus');

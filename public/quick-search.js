@@ -1,6 +1,6 @@
 // Loaded only when a visitor opens resource search.
 let initialized=false,index=[],pending;
-const labels={guides:'Guide',compare:'Comparison',platforms:'Platform',blog:'Journal'};
+const labels={guides:'Guide',compare:'Comparison',platforms:'Platform',blog:'Article'};
 const normalize=value=>value.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
 const starters=['how-to-become-a-clipper-india','creator-clipping-campaign-guide-india','best-clipping-platforms-india','how-much-do-clippers-make-india','creator-clipping-brief-template-india','instagram-reels-vs-youtube-shorts-clipping-india'];
 export async function prepare(dialog){
@@ -22,7 +22,7 @@ export async function prepare(dialog){
    copy.append(meta,title,summary);const arrow=document.createElement('span');arrow.className='search-result-arrow';arrow.textContent='↗';arrow.setAttribute('aria-hidden','true');link.append(number,copy,arrow);fragment.append(link);
   });
   results.replaceChildren(fragment);
-  status.textContent=matches.length?(q||section!=='all'?`Showing ${Math.min(8,matches.length)} of ${matches.length} matching resources.`:'A few places to start. Search all '+index.length+' resources.'):'No matching resources. Try a broader phrase or another collection.';
+  status.textContent=matches.length?(q||section!=='all'?`Showing ${Math.min(8,matches.length)} of ${matches.length} matching resources.`:'A few articles to start with. Search all '+index.length+' resources.'):'No articles found. Try a broader topic or another resource type.';
   const params=new URLSearchParams();if(input.value.trim())params.set('q',input.value.trim());if(section!=='all')params.set('category',section);
   all.href='/resources/'+(params.size?'?'+params.toString():'');all.textContent=q||section!=='all'?'Search the full library ↗':'Open the full library ↗';
  }
@@ -32,7 +32,7 @@ export async function prepare(dialog){
   results.addEventListener('keydown',event=>{if(!['ArrowDown','ArrowUp'].includes(event.key))return;const links=[...results.querySelectorAll('a')],i=links.indexOf(document.activeElement);if(i<0)return;event.preventDefault();if(event.key==='ArrowUp'&&i===0)input.focus();else links[Math.max(0,Math.min(links.length-1,i+(event.key==='ArrowDown'?1:-1)))].focus();});
  }
  if(!index.length){
-  status.textContent='Loading the resource index…';retry.hidden=true;
+  status.textContent='Loading the articles…';retry.hidden=true;
   try{
    pending ||= fetch('/search-index.json?v=studio-1').then(response=>{if(!response.ok)throw Error('Index unavailable');return response.json()}).then(data=>{
     if(!Array.isArray(data))throw Error('Invalid index');

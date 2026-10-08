@@ -200,4 +200,5 @@ for(const [slug,links] of [...Object.entries(require('./editorial/researched/bac
   if(!section.links.some(l=>l.slug===target))section.links.push({slug:target,label});
  }
 }
+require('./editorial/plain-language.cjs').applyPlainLanguage(articles);
 module.exports={articles,entries,sourceCatalog:original.sourceCatalog};

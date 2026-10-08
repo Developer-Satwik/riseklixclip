@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T08:48:42.691Z",
+  "checkedAt": "2026-10-08T09:44:57.032Z",
   "layouts": [
     {
       "width": 1440,
@@ -842,11 +842,11 @@
     }
   ],
   "bundle": {
-    "bytes": 12668,
-    "gzipEstimateBytes": 3030
+    "bytes": 12913,
+    "gzipEstimateBytes": 3093
   },
-  "additionalJavaScriptBytes": 0,
   "pageErrors": [],
   "externalRequests": [],
-  "limitations": "Local Chromium; WebP fallback markup retained, but older browser codecs and Safari/Firefox were not executed. Contrast samples do not establish full WCAG conformance. No real-user performance, ranking, conversion or citation lift is claimed."
+  "limitations": "Local Chromium; WebP fallback markup retained, but older browser codecs and Safari/Firefox were not executed. Contrast samples do not establish full WCAG conformance. No real-user performance, ranking, conversion or citation lift is claimed.",
+  "additionalJavaScriptForThemeLayerBytes": 0
 }

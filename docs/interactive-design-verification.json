@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T03:22:21.248Z",
+  "checkedAt": "2026-10-08T10:00:13.822Z",
   "exercises": [
     {
       "width": 1440,
@@ -54,9 +54,9 @@
     "Storage-blocked feedback is truthful"
   ],
   "libraryViews": [
-    "Gallery and index",
+    "Cards and list",
     "View preference persists",
-    "Index has no overflow at 1440, 820, 390 and 320px"
+    "List has no overflow at 1440, 820, 390 and 320px"
   ],
   "readingTools": [
     "Copy success and failure using an isolated clipboard stub; system clipboard untouched",
@@ -64,21 +64,21 @@
     "Native contents disclosure starts collapsed on mobile and opens by user action"
   ],
   "fallbacks": [
-    "All three editing exercises and 113 library links visible without JavaScript",
+    "All three editing exercises and 119 library links visible without JavaScript",
     "No inert reader or library controls without JavaScript",
-    "No perpetual idle animation",
+    "No time-driven idle animation",
     "Reduced motion removes hover movement"
   ],
   "assets": [
     {
       "file": "styles.css",
-      "bytes": 57546,
-      "gzipBytes": 12274
+      "bytes": 59657,
+      "gzipBytes": 12740
     },
     {
       "file": "script.js",
-      "bytes": 15481,
-      "gzipBytes": 5080
+      "bytes": 14637,
+      "gzipBytes": 4812
     }
   ],
   "pageErrors": [],

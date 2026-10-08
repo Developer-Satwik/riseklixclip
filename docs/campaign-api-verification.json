@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T04:32:42.619Z",
+  "checkedAt": "2026-10-08T09:44:03.465Z",
   "checks": [
     "Server-side required, length, type and URL validation",
     "Fixed sender/recipient, visitor Reply-To, escaped HTML and text email",

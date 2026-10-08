@@ -1,0 +1,94 @@
+{
+  "checkedAt": "2026-10-08T09:49:53.865Z",
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "keyboardDisclosure": true,
+      "termCount": 4,
+      "noOverflow": true
+    }
+  ],
+  "noJavaScriptTermDisclosure": true,
+  "storageDeniedMessageVerified": true,
+  "mobileJoinActionWithinViewport": true,
+  "plainBudgetLabelVerified": true,
+  "screenshots": [
+    "clippers-1440-dark.png",
+    "contact-390-dark.png",
+    "home-1440-dark.png",
+    "home-390-dark.png",
+    "terms-1440-dark.png",
+    "terms-1440-light.png",
+    "terms-390-dark.png",
+    "terms-390-light.png"
+  ],
+  "limitations": "Local Chromium checks. No real enquiries, emails, Discord joins, customer interviews, conversion experiment or ranking measurement.",
+  "existingChecks": {
+    "allPages": {
+      "report": "verification.json",
+      "pages": 130,
+      "authoredBodies": 119,
+      "issues": 0
+    },
+    "campaign": {
+      "api": "campaign-api-verification.json",
+      "browser": "campaign-browser-verification.json",
+      "mocked": true,
+      "liveEmailsSent": 0
+    },
+    "searchAndFraming": "studio-verification.json",
+    "themesAndReadingPaths": "theme-refinement-verification.json",
+    "scroll": "scroll-ui-verification.json",
+    "savedReadingAndEditingExamples": "interactive-design-verification.json"
+  }
+}
