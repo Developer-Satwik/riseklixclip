@@ -1,0 +1,842 @@
+{
+  "savedAt": "2026-10-07T07:10:31.030Z",
+  "articles": [
+    {
+      "slug": "riseklix-vs-clipping-net-india",
+      "section": "compare",
+      "title": "Clip by RiseKlix vs Clipping.net for India",
+      "proseWords": 789,
+      "readingWords": 914,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "riseklix-vs-whop-clips-india",
+      "section": "compare",
+      "title": "Clip by RiseKlix vs Whop Clips for India",
+      "proseWords": 781,
+      "readingWords": 876,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "riseklix-vs-vyro-india",
+      "section": "compare",
+      "title": "Clip by RiseKlix vs Vyro for Indian Campaigns",
+      "proseWords": 729,
+      "readingWords": 838,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "riseklix-vs-makeclout-india",
+      "section": "compare",
+      "title": "Clip by RiseKlix vs MakeClout for India",
+      "proseWords": 763,
+      "readingWords": 883,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "best-clipping-platforms-india",
+      "section": "compare",
+      "title": "Best Clipping Platforms in India: A Buyer’s Guide",
+      "proseWords": 839,
+      "readingWords": 934,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "clipconnect-india-alternative",
+      "section": "compare",
+      "title": "ClipConnect India Alternative for Campaigns",
+      "proseWords": 807,
+      "readingWords": 851,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "creator-clipping-agency-vs-clipping-marketplace",
+      "section": "compare",
+      "title": "Creator Clipping Agency vs Clipping Marketplace",
+      "proseWords": 713,
+      "readingWords": 850,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "discord-clipping-network-vs-saas-clipping-platform",
+      "section": "compare",
+      "title": "Discord Clipping Network vs SaaS Clipping Platform",
+      "proseWords": 718,
+      "readingWords": 820,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "managed-clipping-campaign-vs-hiring-freelance-editors",
+      "section": "compare",
+      "title": "Managed Clipping Campaign vs Hiring Freelance Editors",
+      "proseWords": 718,
+      "readingWords": 838,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "riseklix-vs-traditional-social-media-agency",
+      "section": "compare",
+      "title": "RiseKlix vs Traditional Social Media Agency",
+      "proseWords": 788,
+      "readingWords": 840,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "riseklix-vs-influencer-marketing-agency-india",
+      "section": "compare",
+      "title": "RiseKlix vs Influencer Marketing Agency India",
+      "proseWords": 775,
+      "readingWords": 830,
+      "sections": 6,
+      "faqs": 3
+    },
+    {
+      "slug": "how-to-become-a-clipper-india",
+      "section": "guides",
+      "title": "How to Become a Clipper in India",
+      "proseWords": 1137,
+      "readingWords": 1194,
+      "sections": 8,
+      "faqs": 4
+    },
+    {
+      "slug": "how-much-do-clippers-make-india",
+      "section": "guides",
+      "title": "How Much Do Clippers Make in India?",
+      "proseWords": 938,
+      "readingWords": 1067,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-side-hustle-india",
+      "section": "guides",
+      "title": "Clipping Side Hustle in India",
+      "proseWords": 833,
+      "readingWords": 873,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "freelance-clipper-guide-india",
+      "section": "guides",
+      "title": "Freelance Clipper Guide for India",
+      "proseWords": 801,
+      "readingWords": 890,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "remote-clipping-jobs-india",
+      "section": "guides",
+      "title": "Remote Clipping Jobs in India",
+      "proseWords": 819,
+      "readingWords": 924,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "best-editing-tools-for-clippers-india",
+      "section": "guides",
+      "title": "Best Editing Tools for Clippers in India",
+      "proseWords": 819,
+      "readingWords": 917,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-clipping-campaign-guide-india",
+      "section": "guides",
+      "title": "Creator Clipping Campaign Guide for India",
+      "proseWords": 985,
+      "readingWords": 1119,
+      "sections": 8,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-content-library-guide-india",
+      "section": "guides",
+      "title": "Creator Content Library Guide for India",
+      "proseWords": 805,
+      "readingWords": 917,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "tiktok-clipper-guide-india",
+      "section": "platforms",
+      "title": "TikTok Clipper Guide for Indians",
+      "proseWords": 792,
+      "readingWords": 827,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "youtube-shorts-clipper-guide-india",
+      "section": "platforms",
+      "title": "YouTube Shorts Clipper Guide for India",
+      "proseWords": 899,
+      "readingWords": 945,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "instagram-reels-clipper-guide-india",
+      "section": "platforms",
+      "title": "Instagram Reels Clipper Guide for India",
+      "proseWords": 865,
+      "readingWords": 914,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "x-twitter-clipper-guide-india",
+      "section": "platforms",
+      "title": "X/Twitter Clipper Guide for India",
+      "proseWords": 788,
+      "readingWords": 830,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "podcast-clipping-guide-india",
+      "section": "platforms",
+      "title": "Podcast Clipping Guide for India",
+      "proseWords": 875,
+      "readingWords": 916,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "stream-clipper-guide-india",
+      "section": "platforms",
+      "title": "Stream Clipper Guide for India",
+      "proseWords": 774,
+      "readingWords": 860,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-clipping-india-operating-manual-2026",
+      "section": "blog",
+      "title": "Creator Clipping in India: The Complete 2026 Operating Manual",
+      "proseWords": 1120,
+      "readingWords": 1238,
+      "sections": 9,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-clipping-campaign-roi-calculator-india",
+      "section": "blog",
+      "title": "Creator Clipping Campaign ROI Calculator for India",
+      "proseWords": 882,
+      "readingWords": 985,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-clipping-brief-template-india",
+      "section": "blog",
+      "title": "Creator Clipping Brief Template for India",
+      "proseWords": 986,
+      "readingWords": 1087,
+      "sections": 8,
+      "faqs": 4
+    },
+    {
+      "slug": "how-riseklix-verifies-clip-views-public-links",
+      "section": "blog",
+      "title": "How RiseKlix Verifies Clip Views and Public Links",
+      "proseWords": 840,
+      "readingWords": 963,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "discord-clipping-server-setup-advanced-operator-guide",
+      "section": "blog",
+      "title": "Discord Clipping Server Setup: Advanced Operator Guide",
+      "proseWords": 862,
+      "readingWords": 908,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "clipper-verification-checklist-india",
+      "section": "blog",
+      "title": "Clipper Verification Checklist for India",
+      "proseWords": 736,
+      "readingWords": 867,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-clipping-vs-influencer-marketing-india",
+      "section": "blog",
+      "title": "Creator Clipping vs Influencer Marketing in India",
+      "proseWords": 784,
+      "readingWords": 879,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "creator-clipping-vs-paid-ads-india",
+      "section": "blog",
+      "title": "Creator Clipping vs Paid Ads for Indian Creators",
+      "proseWords": 794,
+      "readingWords": 881,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "prevent-fake-views-clipping-campaigns",
+      "section": "blog",
+      "title": "How to Prevent Fake Views in Clipping Campaigns",
+      "proseWords": 738,
+      "readingWords": 862,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "asci-disclosure-guide-paid-creator-clips-india",
+      "section": "blog",
+      "title": "ASCI Disclosure Guide for Paid Creator Clips in India",
+      "proseWords": 876,
+      "readingWords": 966,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "instagram-insights-clipping-campaigns-india",
+      "section": "blog",
+      "title": "Instagram Insights for Clipping Campaigns: What Creators Should Track",
+      "proseWords": 880,
+      "readingWords": 982,
+      "sections": 8,
+      "faqs": 4
+    },
+    {
+      "slug": "youtube-shorts-analytics-clipping-campaigns-india",
+      "section": "blog",
+      "title": "YouTube Shorts Analytics for Clipping Campaigns",
+      "proseWords": 825,
+      "readingWords": 945,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-for-indian-podcasters",
+      "section": "blog",
+      "title": "Clipping Campaigns for Indian Podcasters",
+      "proseWords": 732,
+      "readingWords": 830,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-finance-creators-india",
+      "section": "blog",
+      "title": "Clipping Campaigns for Finance Creators in India",
+      "proseWords": 728,
+      "readingWords": 825,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-course-creators-coaches",
+      "section": "blog",
+      "title": "Clipping Campaigns for Course Creators and Coaches",
+      "proseWords": 721,
+      "readingWords": 806,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-saas-founders-india",
+      "section": "blog",
+      "title": "Clipping Campaigns for SaaS Founders in India",
+      "proseWords": 718,
+      "readingWords": 801,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-music-artists-drops",
+      "section": "blog",
+      "title": "Clipping Campaigns for Music Artists and Drops",
+      "proseWords": 718,
+      "readingWords": 800,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-d2c-brands-creator-content",
+      "section": "blog",
+      "title": "Clipping Campaigns for D2C Brands Using Creator Content",
+      "proseWords": 713,
+      "readingWords": 800,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-events-summits-webinars",
+      "section": "blog",
+      "title": "Clipping Campaigns for Events, Summits, and Webinars",
+      "proseWords": 693,
+      "readingWords": 779,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaigns-gaming-streamers-india",
+      "section": "blog",
+      "title": "Clipping Campaigns for Gaming Streamers in India",
+      "proseWords": 699,
+      "readingWords": 781,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "what-is-a-clipping-campaign",
+      "section": "blog",
+      "title": "What Is a Clipping Campaign?",
+      "proseWords": 724,
+      "readingWords": 811,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "what-is-a-clipper",
+      "section": "blog",
+      "title": "What Is a Clipper?",
+      "proseWords": 734,
+      "readingWords": 829,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "what-is-a-creator-performance-network",
+      "section": "blog",
+      "title": "What Is a Creator Performance Network?",
+      "proseWords": 706,
+      "readingWords": 789,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-do-clipping-campaigns-pay-talent",
+      "section": "blog",
+      "title": "How Do Clipping Campaigns Pay Talent?",
+      "proseWords": 728,
+      "readingWords": 831,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-many-clips-should-a-creator-campaign-start-with",
+      "section": "blog",
+      "title": "How Many Clips Should a Creator Campaign Start With?",
+      "proseWords": 763,
+      "readingWords": 854,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "what-counts-as-an-approved-clip",
+      "section": "blog",
+      "title": "What Counts as an Approved Clip?",
+      "proseWords": 693,
+      "readingWords": 803,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "good-clip-submission-format",
+      "section": "blog",
+      "title": "What Is a Good Clip Submission Format?",
+      "proseWords": 729,
+      "readingWords": 874,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "how-long-should-short-form-clip-be-india",
+      "section": "blog",
+      "title": "How Long Should a Short-Form Clip Be in India?",
+      "proseWords": 719,
+      "readingWords": 821,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "what-is-a-clipping-network-india",
+      "section": "blog",
+      "title": "What Is a Clipping Network in India?",
+      "proseWords": 761,
+      "readingWords": 797,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-riseklix-is-building-indias-clipper-layer",
+      "section": "blog",
+      "title": "How Clip by RiseKlix Approaches Indian Clipping Campaigns",
+      "proseWords": 741,
+      "readingWords": 783,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "best-clipping-platforms-for-indian-creators",
+      "section": "blog",
+      "title": "How to Choose a Clipping Platform for Indian Creators",
+      "proseWords": 734,
+      "readingWords": 831,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-net-alternative-india",
+      "section": "blog",
+      "title": "Clipping.net Alternative for India",
+      "proseWords": 734,
+      "readingWords": 776,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "whop-clips-alternative-india",
+      "section": "blog",
+      "title": "Whop Clips Alternative for India",
+      "proseWords": 734,
+      "readingWords": 778,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "vyro-alternative-indian-campaigns",
+      "section": "blog",
+      "title": "Vyro Alternative for Indian Campaigns",
+      "proseWords": 715,
+      "readingWords": 750,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "makeclout-alternative-india",
+      "section": "blog",
+      "title": "MakeClout Alternative for India",
+      "proseWords": 711,
+      "readingWords": 751,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-to-plan-a-creator-clipping-campaign-india",
+      "section": "blog",
+      "title": "How to Plan a Creator Clipping Campaign",
+      "proseWords": 733,
+      "readingWords": 824,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-much-do-indian-clippers-earn",
+      "section": "blog",
+      "title": "How Much Do Indian Clippers Earn?",
+      "proseWords": 734,
+      "readingWords": 835,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "upi-payouts-for-clipper-campaigns",
+      "section": "blog",
+      "title": "UPI Payouts for Clipper Campaigns",
+      "proseWords": 724,
+      "readingWords": 819,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "discord-server-setup-for-clipping",
+      "section": "blog",
+      "title": "Discord Server Setup for a First Clipping Campaign",
+      "proseWords": 709,
+      "readingWords": 799,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipper-rules-template-india",
+      "section": "blog",
+      "title": "Clipper Rules Template for Indian Campaigns",
+      "proseWords": 730,
+      "readingWords": 815,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "youtube-shorts-clipping-for-podcasts",
+      "section": "blog",
+      "title": "YouTube Shorts Clipping for Podcasts",
+      "proseWords": 783,
+      "readingWords": 822,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "instagram-reels-clipping-for-coaches",
+      "section": "blog",
+      "title": "Instagram Reels Clipping for Coaches",
+      "proseWords": 725,
+      "readingWords": 762,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "founder-led-brand-clipping-guide",
+      "section": "blog",
+      "title": "Founder-Led Brand Clipping Guide",
+      "proseWords": 722,
+      "readingWords": 807,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "music-artist-clipping-campaigns-india",
+      "section": "blog",
+      "title": "Music Artist Clipping Campaigns India",
+      "proseWords": 718,
+      "readingWords": 755,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "course-creator-clipping-campaigns",
+      "section": "blog",
+      "title": "Clipping Course Lessons into Useful Short-Form Content",
+      "proseWords": 704,
+      "readingWords": 739,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "event-clipping-guide-india",
+      "section": "blog",
+      "title": "Event Clipping Guide: Capture, Select and Publish",
+      "proseWords": 714,
+      "readingWords": 750,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "podcast-clip-hooks-that-work-in-india",
+      "section": "blog",
+      "title": "Podcast Clip Hooks That Work in India",
+      "proseWords": 723,
+      "readingWords": 819,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "hinglish-clipping-guide",
+      "section": "blog",
+      "title": "Hinglish Clipping Guide",
+      "proseWords": 704,
+      "readingWords": 741,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "regional-language-clipping-india",
+      "section": "blog",
+      "title": "Regional-Language Clipping in India: Adaptation and Review",
+      "proseWords": 688,
+      "readingWords": 777,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipper-portfolio-guide-india",
+      "section": "blog",
+      "title": "Clipper Portfolio Guide",
+      "proseWords": 689,
+      "readingWords": 785,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "best-free-tools-for-clippers-india",
+      "section": "blog",
+      "title": "Best Free Tools for Clippers",
+      "proseWords": 702,
+      "readingWords": 739,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "capcut-vs-vn-vs-premiere-for-clippers",
+      "section": "blog",
+      "title": "CapCut vs VN vs Premiere for Clippers",
+      "proseWords": 704,
+      "readingWords": 792,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "ai-tools-for-clipping-workflows",
+      "section": "blog",
+      "title": "AI Tools for Clipping Workflows",
+      "proseWords": 718,
+      "readingWords": 819,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-campaign-fraud-prevention",
+      "section": "blog",
+      "title": "Clipping Campaign Fraud Prevention: Intake and Review",
+      "proseWords": 699,
+      "readingWords": 788,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "disclosure-rules-for-paid-clips-india",
+      "section": "blog",
+      "title": "Disclosure Workflow for Paid Clips in India",
+      "proseWords": 690,
+      "readingWords": 777,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "brand-safety-checklist-for-clippers",
+      "section": "blog",
+      "title": "Brand Safety Checklist for Creator Campaigns",
+      "proseWords": 660,
+      "readingWords": 758,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-to-brief-50-clippers",
+      "section": "blog",
+      "title": "How to Brief 50 Clippers: Cohorts, Calibration and Review",
+      "proseWords": 702,
+      "readingWords": 781,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipper-recognition-ideas",
+      "section": "blog",
+      "title": "Clipper Recognition Ideas",
+      "proseWords": 668,
+      "readingWords": 758,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "first-campaign-scope-checklist-india",
+      "section": "blog",
+      "title": "First Campaign Scope Checklist",
+      "proseWords": 707,
+      "readingWords": 798,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-for-saas-founders-india",
+      "section": "blog",
+      "title": "Clipping for SaaS Founders: Make the Product Task Clear",
+      "proseWords": 714,
+      "readingWords": 810,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-for-d2c-brands-india",
+      "section": "blog",
+      "title": "Clipping for D2C Brands: Show the Product in Use",
+      "proseWords": 686,
+      "readingWords": 774,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-for-webinars-india",
+      "section": "blog",
+      "title": "Clipping for Webinars",
+      "proseWords": 679,
+      "readingWords": 767,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-for-youtube-channels-india",
+      "section": "blog",
+      "title": "Clipping for YouTube Channels",
+      "proseWords": 682,
+      "readingWords": 719,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "clipping-for-linkedin-creators-india",
+      "section": "blog",
+      "title": "Clipping for LinkedIn Creators",
+      "proseWords": 687,
+      "readingWords": 778,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "how-to-track-clipping-roi",
+      "section": "blog",
+      "title": "How to Track Clipping ROI",
+      "proseWords": 795,
+      "readingWords": 888,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "what-makes-a-clip-go-viral-india",
+      "section": "blog",
+      "title": "What Makes a Clip Go Viral?",
+      "proseWords": 826,
+      "readingWords": 864,
+      "sections": 7,
+      "faqs": 4
+    },
+    {
+      "slug": "why-india-needs-clipping-networks",
+      "section": "blog",
+      "title": "Why Indian Clipping Networks Can Be Useful",
+      "proseWords": 721,
+      "readingWords": 816,
+      "sections": 6,
+      "faqs": 4
+    },
+    {
+      "slug": "future-of-creator-distribution-india",
+      "section": "blog",
+      "title": "The Future of Creator Distribution in India: Scenarios and Preparation",
+      "proseWords": 814,
+      "readingWords": 924,
+      "sections": 7,
+      "faqs": 4
+    }
+  ]
+}

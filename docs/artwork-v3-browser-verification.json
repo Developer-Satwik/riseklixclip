@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-08T04:21:59.307Z",
+  "checks": [
+    {
+      "name": "home-desktop",
+      "width": 1440,
+      "theme": "light",
+      "source": "story-collage-v3-1536.webp",
+      "decoded": true,
+      "overflow": false,
+      "og": "https://clip.riseklix.com/assets/story-collage-v3-1536.webp"
+    },
+    {
+      "name": "home-desktop-dark",
+      "width": 1440,
+      "theme": "dark",
+      "source": "story-collage-v3-1536.webp",
+      "decoded": true,
+      "overflow": false,
+      "og": "https://clip.riseklix.com/assets/story-collage-v3-1536.webp"
+    },
+    {
+      "name": "home-mobile",
+      "width": 390,
+      "theme": "light",
+      "source": "story-collage-v3-640.webp",
+      "decoded": true,
+      "overflow": false,
+      "og": "https://clip.riseklix.com/assets/story-collage-v3-1536.webp"
+    },
+    {
+      "name": "home-mobile-dark",
+      "width": 390,
+      "theme": "dark",
+      "source": "story-collage-v3-640.webp",
+      "decoded": true,
+      "overflow": false,
+      "og": "https://clip.riseklix.com/assets/story-collage-v3-1536.webp"
+    },
+    {
+      "name": "home-small",
+      "width": 320,
+      "theme": "dark",
+      "source": "story-collage-v3-640.webp",
+      "decoded": true,
+      "overflow": false,
+      "og": "https://clip.riseklix.com/assets/story-collage-v3-1536.webp"
+    },
+    {
+      "name": "article",
+      "width": 1440,
+      "theme": "light",
+      "source": "story-collage-v3-640.webp",
+      "decoded": true,
+      "overflow": false,
+      "og": "https://clip.riseklix.com/assets/story-collage-v3-1536.webp"
+    }
+  ],
+  "framingStudioUsesRepairedArtwork": true,
+  "pageErrors": [],
+  "localOnly": true
+}

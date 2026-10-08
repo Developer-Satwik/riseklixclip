@@ -1,0 +1,257 @@
+{
+  "checkedAt": "2026-10-08T05:07:42.758Z",
+  "researchBatch": 3,
+  "newArticles": 6,
+  "totalArticles": 119,
+  "totalPages": 130,
+  "originalRoutesPreserved": 104,
+  "newReadingWords": {
+    "min": 2518,
+    "max": 2774,
+    "total": 15932
+  },
+  "newSections": 84,
+  "newFAQs": 45,
+  "newTables": 16,
+  "newUniquePrimaryReferenceURLs": 13,
+  "contextualInboundLinks": 18,
+  "duplicates": [],
+  "issues": [],
+  "articles": [
+    {
+      "slug": "youtube-tutorial-clipping-shorts-india",
+      "title": "YouTube tutorial clipping: turn long lessons into useful Shorts",
+      "route": "/guides/youtube-tutorial-clipping-shorts-india.html",
+      "targetQueries": [
+        "clipping for YouTubers",
+        "YouTube tutorial clips",
+        "educational YouTube Shorts"
+      ],
+      "intent": "Help tutorial YouTubers extract accurate, self-contained lessons rather than repeat a general YouTube clipping or Shorts analytics guide.",
+      "readingWords": 2630,
+      "sections": 14,
+      "faqs": 7,
+      "tables": 2,
+      "metadataCharacters": 156,
+      "references": [
+        {
+          "title": "W3C WAI: captions and subtitles",
+          "url": "https://www.w3.org/WAI/media/av/captions/"
+        },
+        {
+          "title": "YouTube: related videos in Shorts",
+          "url": "https://support.google.com/youtube/answer/14075157?hl=en"
+        },
+        {
+          "title": "YouTube: content performance and Shorts metric definitions",
+          "url": "https://support.google.com/youtube/answer/12220281?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "youtube-shorts-clipper-guide-india",
+        "course-creator-clipping-campaigns",
+        "clipping-for-youtube-channels-india"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-content-library-guide-india",
+        "youtube-reused-content-rules-indian-clippers",
+        "accessible-captions-short-form-clips-india",
+        "creator-owned-vs-participant-accounts-clipping",
+        "youtube-shorts-analytics-clipping-campaigns-india",
+        "clipping-campaign-pricing-budget-india",
+        "good-clip-submission-format"
+      ]
+    },
+    {
+      "slug": "b2b-webinar-clipping-qualified-leads-india",
+      "title": "B2B webinar clipping: build a path to qualified enquiries",
+      "route": "/guides/b2b-webinar-clipping-qualified-leads-india.html",
+      "targetQueries": [
+        "B2B webinar clipping",
+        "clipping for company owners",
+        "SaaS webinar repurposing"
+      ],
+      "intent": "Give company owners a buyer-stage and sales-handoff workflow beyond existing general SaaS clipping, webinar production and UTM guides.",
+      "readingWords": 2710,
+      "sections": 14,
+      "faqs": 8,
+      "tables": 3,
+      "metadataCharacters": 154,
+      "references": [
+        {
+          "title": "Google Analytics: recommended lead-generation and qualification events",
+          "url": "https://developers.google.com/analytics/devguides/collection/ga4/reference/events#generate_lead"
+        },
+        {
+          "title": "Google Analytics: avoiding personally identifiable information",
+          "url": "https://support.google.com/analytics/answer/6366371?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "founder-led-brand-clipping-guide",
+        "clipping-for-saas-founders-india",
+        "clipping-for-webinars-india"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-content-library-guide-india",
+        "clipping-for-saas-founders-india",
+        "clipping-for-linkedin-creators-india",
+        "clipping-campaign-landing-page-checklist",
+        "utm-tracking-clipping-campaigns-india",
+        "utm-links-vs-coupon-codes-clipping-attribution",
+        "first-campaign-scope-checklist-india"
+      ]
+    },
+    {
+      "slug": "influencer-sponsored-content-clipping-india",
+      "title": "Clipping sponsored influencer content in India: a practical approval guide",
+      "route": "/blog/influencer-sponsored-content-clipping-india.html",
+      "targetQueries": [
+        "clipping for influencers",
+        "sponsored content repurposing",
+        "influencer clipping campaign India"
+      ],
+      "intent": "Help influencers and brand owners manage the creative and commercial workflow for repurposed sponsorships, beyond a general disclosure explainer.",
+      "readingWords": 2518,
+      "sections": 14,
+      "faqs": 7,
+      "tables": 2,
+      "metadataCharacters": 151,
+      "references": [
+        {
+          "title": "ASCI: influencer advertising guidelines",
+          "url": "https://www.ascionline.in/social/wp-content/uploads/2025/04/ASCI-Influencer-Guidelines.pdf"
+        },
+        {
+          "title": "YouTube: branded-content restrictions and disclosure",
+          "url": "https://support.google.com/youtube/answer/154235?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "creator-clipping-vs-influencer-marketing-india",
+        "asci-disclosure-guide-paid-creator-clips-india",
+        "disclosure-rules-for-paid-clips-india"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-clipping-brief-template-india",
+        "asci-disclosure-guide-paid-creator-clips-india",
+        "creator-owned-vs-participant-accounts-clipping",
+        "is-video-clipping-legal-in-india",
+        "regional-language-clipping-india",
+        "utm-links-vs-coupon-codes-clipping-attribution",
+        "paid-clipper-test-assignment-scorecard",
+        "clipping-submission-rejected-fix-appeal"
+      ]
+    },
+    {
+      "slug": "restaurant-cafe-reels-clipping-campaign-india",
+      "title": "Restaurant and café clipping in India: help viewers plan a visit",
+      "route": "/blog/restaurant-cafe-reels-clipping-campaign-india.html",
+      "targetQueries": [
+        "restaurant clipping campaign",
+        "cafe Reels strategy India",
+        "local restaurant short-form video"
+      ],
+      "intent": "Help restaurant and café owners build a locally useful campaign rather than treating national views as proof of footfall.",
+      "readingWords": 2649,
+      "sections": 14,
+      "faqs": 7,
+      "tables": 3,
+      "metadataCharacters": 151,
+      "references": [
+        {
+          "title": "Google Business Profile: managing a food-business menu",
+          "url": "https://support.google.com/business/answer/9455840?hl=en"
+        },
+        {
+          "title": "Google Business Profile: editing business details and hours",
+          "url": "https://support.google.com/business/answer/3039617?hl=en"
+        },
+        {
+          "title": "Google Business Profile: performance and interaction definitions",
+          "url": "https://support.google.com/business/answer/9918094?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "how-to-plan-a-creator-clipping-campaign-india",
+        "first-campaign-scope-checklist-india",
+        "clipping-campaign-landing-page-checklist"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-clipping-brief-template-india",
+        "influencer-sponsored-content-clipping-india",
+        "utm-links-vs-coupon-codes-clipping-attribution"
+      ]
+    },
+    {
+      "slug": "real-estate-walkthrough-clipping-india",
+      "title": "Real estate walkthrough clipping in India: make property details clear",
+      "route": "/guides/real-estate-walkthrough-clipping-india.html",
+      "targetQueries": [
+        "real estate clipping India",
+        "property walkthrough Reels",
+        "real estate short-form video campaign"
+      ],
+      "intent": "Provide a property-specific production and evidence workflow, with a bounded national RERA reference rather than generic viral real-estate advice.",
+      "readingWords": 2774,
+      "sections": 14,
+      "faqs": 8,
+      "tables": 3,
+      "metadataCharacters": 164,
+      "references": [
+        {
+          "title": "India Code: Real Estate (Regulation and Development) Act, 2016, consolidated to 15 May 2026",
+          "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/2158/1/A201616.pdf"
+        }
+      ],
+      "contextualInboundArticles": [
+        "creator-clipping-brief-template-india",
+        "brand-safety-checklist-for-clippers",
+        "is-video-clipping-legal-in-india"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-content-library-guide-india",
+        "clipping-campaign-landing-page-checklist",
+        "utm-tracking-clipping-campaigns-india"
+      ]
+    },
+    {
+      "slug": "fashion-product-demo-clipping-size-fit-india",
+      "title": "Fashion product-demo clipping: answer size, fit and detail questions",
+      "route": "/blog/fashion-product-demo-clipping-size-fit-india.html",
+      "targetQueries": [
+        "fashion product demo clips",
+        "clothing brand clipping campaign",
+        "fashion influencer short-form content"
+      ],
+      "intent": "Give apparel brands and fashion influencers a product-evidence workflow beyond existing general D2C campaign and beauty-content guides.",
+      "readingWords": 2651,
+      "sections": 14,
+      "faqs": 8,
+      "tables": 3,
+      "metadataCharacters": 163,
+      "references": [
+        {
+          "title": "Google Merchant Center: size information and product variants",
+          "url": "https://support.google.com/merchants/answer/6324492?hl=en"
+        },
+        {
+          "title": "Google Merchant Center: color and landing-page consistency",
+          "url": "https://support.google.com/merchants/answer/6324487?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "clipping-campaigns-d2c-brands-creator-content",
+        "clipping-for-d2c-brands-india",
+        "creator-owned-vs-participant-accounts-clipping"
+      ],
+      "contextualOutgoingLinks": [
+        "influencer-sponsored-content-clipping-india",
+        "is-video-clipping-legal-in-india",
+        "clipping-for-d2c-brands-india",
+        "utm-links-vs-coupon-codes-clipping-attribution",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    }
+  ]
+}

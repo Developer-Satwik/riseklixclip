@@ -1,0 +1,270 @@
+{
+  "pages": 130,
+  "articles": 119,
+  "individuallyExpanded": 119,
+  "readingWords": {
+    "min": 1163,
+    "max": 2774,
+    "total": 186410
+  },
+  "proseWords": {
+    "min": 1068,
+    "max": 2424,
+    "total": 164220
+  },
+  "sections": 1291,
+  "faqs": 712,
+  "articlesWithTables": 119,
+  "uniquePrimaryReferences": 64,
+  "contextualReadingLinks": 630,
+  "repeatedFullBodyParagraphs": 0,
+  "interactiveArticles": [
+    {
+      "slug": "how-much-do-clippers-make-india",
+      "tool": "earnings"
+    },
+    {
+      "slug": "creator-clipping-campaign-roi-calculator-india",
+      "tool": "roi"
+    },
+    {
+      "slug": "creator-clipping-brief-template-india",
+      "tool": "brief"
+    },
+    {
+      "slug": "how-much-do-indian-clippers-earn",
+      "tool": "earnings"
+    },
+    {
+      "slug": "clipper-rules-template-india",
+      "tool": "brief"
+    },
+    {
+      "slug": "first-campaign-scope-checklist-india",
+      "tool": "brief"
+    },
+    {
+      "slug": "how-to-track-clipping-roi",
+      "tool": "roi"
+    }
+  ],
+  "sourceOnlyNoPublish": true,
+  "updatedAt": "2026-10-08",
+  "secondIndividuallyExpanded": 93,
+  "firstPassReadingWords": {
+    "min": 719,
+    "max": 1238,
+    "total": 78929
+  },
+  "addedReadingWords": {
+    "min": 444,
+    "max": 823,
+    "total": 51349
+  },
+  "originalArticles": 93,
+  "newResearchedArticles": 26,
+  "newReadingWords": {
+    "min": 1842,
+    "max": 2774,
+    "total": 56132
+  },
+  "originalRoutesPreserved": 104,
+  "newArticleResearchReport": "docs/new-article-research-2026-10-07.md",
+  "newArticleAudit": "docs/new-articles-report.json",
+  "newArticleBrowserChecks": "docs/researched-article-verification.json",
+  "gscEvidence": "Owner-supplied query snapshot; fresh connector retrieval blocked by subscription status",
+  "measuredRankingOrCitationGains": false,
+  "researchRounds": [
+    {
+      "researchBatch": 1,
+      "articles": 10,
+      "readingWords": {
+        "min": 1842,
+        "max": 2077,
+        "total": 19776
+      },
+      "sections": 120,
+      "faqs": 60,
+      "tables": 30,
+      "uniquePrimaryReferences": 22,
+      "currentContextualInboundConnections": 69
+    },
+    {
+      "researchBatch": 2,
+      "articles": 10,
+      "readingWords": {
+        "min": 1973,
+        "max": 2145,
+        "total": 20424
+      },
+      "sections": 130,
+      "faqs": 60,
+      "tables": 30,
+      "uniquePrimaryReferences": 19,
+      "currentContextualInboundConnections": 30
+    },
+    {
+      "researchBatch": 3,
+      "articles": 6,
+      "readingWords": {
+        "min": 2518,
+        "max": 2774,
+        "total": 15932
+      },
+      "sections": 84,
+      "faqs": 45,
+      "tables": 16,
+      "uniquePrimaryReferences": 13,
+      "currentContextualInboundConnections": 18,
+      "date": "2026-10-08"
+    }
+  ],
+  "secondResearchAnalysis": "docs/research-round-two-2026-10-07.md",
+  "secondResearchAudit": "docs/research-round-two-report.json",
+  "secondResearchBrowserChecks": "docs/research-round-two-verification.json",
+  "resourceDiscovery": [
+    "Latest research first",
+    "Start clipping",
+    "Plan a campaign",
+    "Compare the work"
+  ],
+  "interactiveDesignRevision": {
+    "date": "2026-10-07",
+    "localOnly": true,
+    "features": [
+      "Three fictional cutting-desk exercises",
+      "Printed collection index plates and folded cards",
+      "Gallery and compact index layouts",
+      "Browser-only saved reading list and cross-tab updates",
+      "Copy-link controls and active contents navigation",
+      "Native mobile contents disclosure",
+      "Single finite hero entrance and reduced-motion support"
+    ],
+    "noNewMediaOrThirdPartyRuntime": true,
+    "articleContentPreserved": 113,
+    "fontBytesBefore": 352240,
+    "fontBytesTypicalAfter": 76760,
+    "cssBytes": 48105,
+    "scriptBytes": 12838,
+    "cssRuleEquivalenceChecks": 396,
+    "highPriorityArticleImages": 113,
+    "interactiveVerification": "docs/interactive-design-verification.json",
+    "assetVerification": "docs/design-assets-verification.json",
+    "performanceComparison": "docs/design-performance-comparison.json",
+    "designReport": "docs/interactive-design-2026-10-07.md"
+  },
+  "studioRevision": {
+    "framingFormats": [
+      "landscape",
+      "portrait",
+      "square"
+    ],
+    "focalPointAndCaptionGuide": true,
+    "lazyResourceSearch": 119,
+    "keyboardAndNoJavaScriptChecks": "docs/studio-verification.json",
+    "sharedCssBytes": 58279,
+    "sharedScriptBytes": 15481,
+    "fieldPerformanceVerified": false
+  },
+  "campaignEnquiryRevision": {
+    "requiredFields": [
+      "name",
+      "email",
+      "goal"
+    ],
+    "optionalFields": [
+      "sourceUrl",
+      "budget",
+      "audience",
+      "timing"
+    ],
+    "detailedBriefOptional": true,
+    "clientPiiAutosaved": false,
+    "serverSideResend": true,
+    "defaultFrom": "contact@riseklix.com",
+    "defaultTo": "contact@riseklix.com",
+    "keyConfiguredAtVerification": false,
+    "liveEmailsSent": 0,
+    "research": "docs/campaign-enquiry-research-2026-10-08.md",
+    "localOnly": true
+  },
+  "artworkRepair": {
+    "revision": 3,
+    "date": "2026-10-08",
+    "target": "Existing revision-2 collage",
+    "anatomyRepaired": [
+      "Reaching hand",
+      "Lowered hand",
+      "Dancer limbs",
+      "Seated figure details",
+      "Bird silhouettes"
+    ],
+    "responsiveSizes": [
+      1536,
+      960,
+      640
+    ],
+    "previousArtworkPreserved": true,
+    "browserChecks": "docs/artwork-v3-browser-verification.json",
+    "allPageOnlyImageReferenceChanges": "docs/artwork-v3-integrity.json",
+    "localOnly": true
+  },
+  "officialLogo": {
+    "date": "2026-10-08",
+    "source": "Owner-supplied riseklix-logo_upscaled.png",
+    "originalPreserved": true,
+    "generatedOrRedrawn": false,
+    "uses": [
+      "Navigation ribbon R",
+      "Full footer lockup",
+      "Favicons",
+      "Apple touch icon",
+      "Organization.logo",
+      "Native campaign receipts"
+    ],
+    "pages": 130,
+    "themes": [
+      "System",
+      "Light",
+      "Dark"
+    ],
+    "testedWidths": [
+      1440,
+      820,
+      390,
+      320
+    ],
+    "sharedCssBytes": 58279,
+    "sharedScriptUnchanged": true,
+    "verification": "docs/brand/logo-browser-verification.json",
+    "integrity": "docs/brand/logo-integrity.json",
+    "localOnly": true,
+    "transparentFooter": true,
+    "darkFooterLettering": "White lettering via CSS; original ribbon colors and image file unchanged",
+    "transparentFooterVerification": "docs/brand/transparent-footer-verification.json",
+    "currentAllPageVerification": "docs/verification.json"
+  },
+  "audienceResearchRevision": {
+    "date": "2026-10-08",
+    "topics": [
+      "YouTube tutorials",
+      "B2B webinars",
+      "Influencer sponsorships",
+      "Restaurants and cafés",
+      "Real estate walkthroughs",
+      "Fashion product demonstrations"
+    ],
+    "research": "docs/research-round-three-2026-10-08.md",
+    "audit": "docs/research-round-three-report.json",
+    "browser": "docs/research-round-three-verification.json",
+    "discovery": "docs/research-round-three-discovery.json",
+    "preservation": "docs/research-round-three-preservation.json",
+    "previousArticleBodiesPreserved": 113,
+    "appendedInboundLinks": 18,
+    "aiAssistanceVisible": true,
+    "createdAndModifiedDate": "2026-10-08",
+    "sharedCssAndScriptUnchanged": true,
+    "localOnly": true,
+    "measuredSearchOrCitationGains": false
+  }
+}

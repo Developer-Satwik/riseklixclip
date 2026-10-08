@@ -1,0 +1,58 @@
+{
+  "preparedAt": "2026-10-08T04:30:06.838Z",
+  "source": "docs/brand/riseklix-logo-source.png",
+  "sourceBytes": 686398,
+  "sourceSha256": "a8c58f294bef77dbfb81b1ab1b675df170a8678e49f7a0b983e1b8c5b05eb65b",
+  "processing": "Exact supplied artwork; crop transparent padding and resize only. No regeneration, recoloring, retouching or alpha removal.",
+  "cropBoxes": {
+    "mark": {
+      "left": 668,
+      "top": 394,
+      "width": 672,
+      "height": 896
+    },
+    "lockup": {
+      "left": 568,
+      "top": 400,
+      "width": 880,
+      "height": 1200
+    }
+  },
+  "files": [
+    {
+      "file": "assets/riseklix-mark.png",
+      "width": 96,
+      "height": 128,
+      "bytes": 15615,
+      "sha256": "cd26a74995faf6cc11695859a2c78ec89117dda11747d5c4903d1715c4d620a1"
+    },
+    {
+      "file": "assets/riseklix-logo.png",
+      "width": 264,
+      "height": 360,
+      "bytes": 67985,
+      "sha256": "f02f3ff8a716347811a97fc56109cc953bdd589ffa32ebefca9d2a52be5f23cc"
+    },
+    {
+      "file": "assets/riseklix-icon-32.png",
+      "width": 32,
+      "height": 32,
+      "bytes": 1523,
+      "sha256": "e3385c36c36d36f6e1caba4255c33d924a08349e42ad60e2710629bf7ddfcc17"
+    },
+    {
+      "file": "assets/riseklix-icon-48.png",
+      "width": 48,
+      "height": 48,
+      "bytes": 2750,
+      "sha256": "7cac05fad3a0cae47b27129014b49192d2ed08cea466009fd6ea4aa9913244dd"
+    },
+    {
+      "file": "assets/riseklix-icon-180.png",
+      "width": 180,
+      "height": 180,
+      "bytes": 17699,
+      "sha256": "bf949c7c5056e953da98d0eca6ea84bd3b8f963324c2c2266c99ca0434bbde4d"
+    }
+  ]
+}

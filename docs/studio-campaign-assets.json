@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-08T03:26:11.265Z",
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 57546,
+      "gzipEstimateBytes": 12274
+    },
+    {
+      "file": "script.js",
+      "bytes": 15481,
+      "gzipEstimateBytes": 5080
+    },
+    {
+      "file": "contact.css",
+      "bytes": 7600,
+      "gzipEstimateBytes": 2005
+    },
+    {
+      "file": "campaign-enquiry.js",
+      "bytes": 5485,
+      "gzipEstimateBytes": 2204
+    },
+    {
+      "file": "studio-frame.js",
+      "bytes": 2211,
+      "gzipEstimateBytes": 887
+    },
+    {
+      "file": "quick-search.js",
+      "bytes": 4678,
+      "gzipEstimateBytes": 1914
+    },
+    {
+      "file": "search-index.json",
+      "bytes": 31353,
+      "gzipEstimateBytes": 8475
+    }
+  ],
+  "contactAssetsPageOnly": true,
+  "homepageStudioImageLazy": true,
+  "limitations": "Bundle and loading checks, not an estimate of actual hosting compression or field speed."
+}

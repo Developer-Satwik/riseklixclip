@@ -1,0 +1,20 @@
+module.exports={
+ 'clipping-for-youtube-channels-india':[['youtube-tutorial-clipping-shorts-india','turning a tutorial into a complete short lesson']],
+ 'youtube-shorts-clipper-guide-india':[['youtube-tutorial-clipping-shorts-india','selecting and demonstrating a learner task']],
+ 'course-creator-clipping-campaigns':[['youtube-tutorial-clipping-shorts-india','preserving a useful teaching moment']],
+ 'clipping-for-webinars-india':[['b2b-webinar-clipping-qualified-leads-india','connecting webinar answers to qualified enquiries']],
+ 'clipping-for-saas-founders-india':[['b2b-webinar-clipping-qualified-leads-india','buyer-specific demonstrations and sales handoff']],
+ 'founder-led-brand-clipping-guide':[['b2b-webinar-clipping-qualified-leads-india','a buyer-stage webinar clipping plan']],
+ 'disclosure-rules-for-paid-clips-india':[['influencer-sponsored-content-clipping-india','reviewing disclosure after sponsored footage is recut']],
+ 'asci-disclosure-guide-paid-creator-clips-india':[['influencer-sponsored-content-clipping-india','a sponsored-content approval and reuse worksheet']],
+ 'creator-clipping-vs-influencer-marketing-india':[['influencer-sponsored-content-clipping-india','preserving creator voice and commercial context']],
+ 'how-to-plan-a-creator-clipping-campaign-india':[['restaurant-cafe-reels-clipping-campaign-india','a branch-specific restaurant visit campaign']],
+ 'clipping-campaign-landing-page-checklist':[['restaurant-cafe-reels-clipping-campaign-india','menu, directions and booking routes for a food business']],
+ 'first-campaign-scope-checklist-india':[['restaurant-cafe-reels-clipping-campaign-india','a manageable local café pilot']],
+ 'brand-safety-checklist-for-clippers':[['real-estate-walkthrough-clipping-india','property facts, source labels and advertising review']],
+ 'is-video-clipping-legal-in-india':[['real-estate-walkthrough-clipping-india','the specific review questions for a property walkthrough']],
+ 'creator-clipping-brief-template-india':[['real-estate-walkthrough-clipping-india','building a dated property fact sheet']],
+ 'clipping-for-d2c-brands-india':[['fashion-product-demo-clipping-size-fit-india','showing apparel size, fit and variant details']],
+ 'clipping-campaigns-d2c-brands-creator-content':[['fashion-product-demo-clipping-size-fit-india','answering clothing shoppers’ product questions']],
+ 'creator-owned-vs-participant-accounts-clipping':[['fashion-product-demo-clipping-size-fit-india','variant evidence and source-use scope for fashion clips']]
+};

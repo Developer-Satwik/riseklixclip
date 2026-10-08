@@ -1,0 +1,40 @@
+{
+  "revision": 3,
+  "generatedSource": "/Users/satwikkumar/.codex/generated_images/01a114aa-a5fa-7d80-bdae-d30528490c8e/exec-37ab3329-138d-4bd7-955e-77dff1d3fb40.png",
+  "savedOriginal": "/Users/satwikkumar/Documents/ChatGPT/riseklix app/clipping-site/docs/hero-art-v3-repaired-original.png",
+  "originalDimensions": [
+    1672,
+    941
+  ],
+  "assets": [
+    {
+      "file": "public/assets/story-collage-v3-1536.webp",
+      "width": 1536,
+      "height": 864,
+      "quality": 88,
+      "bytes": 281414,
+      "previousBytes": 360132,
+      "sha256": "69391deb12a1797a2718bdf490467ae4b03e0a1974281e47750f1bcdc6a2f50e"
+    },
+    {
+      "file": "public/assets/story-collage-v3-960.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 88,
+      "bytes": 138300,
+      "previousBytes": 153042,
+      "sha256": "8838497198682a947f63c8894e85aee14ddb178bf4497d9f8b34b08cf5efff36"
+    },
+    {
+      "file": "public/assets/story-collage-v3-640.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 88,
+      "bytes": 62050,
+      "previousBytes": 67144,
+      "sha256": "e7390c4371c8a9144086aff7773cc5c295e0c5c127e9631f7ce4a74bcf690e01"
+    }
+  ],
+  "oldArtworkPreserved": true,
+  "purpose": "Targeted generated-image anatomy repair; resizing and WebP encoding only after repair."
+}

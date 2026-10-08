@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-08T05:08:02.399Z",
+  "css": {
+    "sourceRules": 481,
+    "compiledRules": 481,
+    "mismatches": []
+  },
+  "articlePriorityChecks": 119,
+  "layouts": {
+    "widths": [
+      1440,
+      820,
+      390,
+      320
+    ],
+    "routes": 3,
+    "noOverflow": true,
+    "imagesDecoded": true,
+    "mobileContentsCollapsed": true
+  },
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 58279,
+      "gzipEstimateBytes": 12431
+    },
+    {
+      "file": "script.js",
+      "bytes": 15481,
+      "gzipEstimateBytes": 5080
+    }
+  ],
+  "pageErrors": []
+}

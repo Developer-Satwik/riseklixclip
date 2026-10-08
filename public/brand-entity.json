@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://clip.riseklix.com/#organization",
+  "name": "Clip by RiseKlix",
+  "alternateName": "RiseKlix",
+  "url": "https://clip.riseklix.com/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://clip.riseklix.com/assets/riseklix-logo.png",
+    "contentUrl": "https://clip.riseklix.com/assets/riseklix-logo.png",
+    "width": 264,
+    "height": 360,
+    "caption": "RiseKlix Agency official logo"
+  },
+  "description": "India-first creator clipping network for managed short-form content campaigns.",
+  "sameAs": [
+    "https://riseklix.com",
+    "https://discord.gg/skQk3xZcRa"
+  ]
+}

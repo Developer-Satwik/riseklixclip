@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-07T05:44:33.498Z",
+  "results": [
+    {
+      "name": "desktop-click",
+      "currentTab": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html",
+      "newTab": "https://discord.gg/skQk3xZcRa",
+      "openerIsNull": true
+    },
+    {
+      "name": "mobile-click",
+      "currentTab": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html",
+      "newTab": "https://discord.gg/skQk3xZcRa",
+      "openerIsNull": true
+    },
+    {
+      "name": "keyboard-enter",
+      "currentTab": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html",
+      "newTab": "https://discord.gg/skQk3xZcRa",
+      "openerIsNull": true
+    },
+    {
+      "name": "modified-click",
+      "currentTab": "http://127.0.0.1:8770/",
+      "newTab": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html",
+      "extraDiscordTab": false
+    },
+    {
+      "name": "no-javascript-fallback",
+      "currentTab": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html"
+    }
+  ],
+  "externalRequests": "Discord destination intercepted locally; no live account or server request."
+}

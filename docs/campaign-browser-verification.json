@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-08T04:34:01.673Z",
+  "requiredFields": 3,
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalFieldsUsable": true
+    }
+  ],
+  "checks": [
+    "Focused summary and linked inline errors",
+    "Optional context and collapsed detailed brief",
+    "Missing-email configuration and retained answers",
+    "Clipboard denied and copied fallbacks",
+    "Sending lock and repeat submission prevention",
+    "Stable retry ID, changed enquiry ID and network failure",
+    "Accepted receipt and explicit new enquiry reset",
+    "No automatic enquiry PII in storage",
+    "Guide navigation plus Discord user-gesture opening",
+    "No-JavaScript editable recovery",
+    "Actual HTTP bridge validates invalid input; private files inaccessible"
+  ],
+  "liveEmailsSent": 0,
+  "providerRequestsMocked": true,
+  "pageErrors": [],
+  "externalRequests": [],
+  "limitations": "No real Resend request, receiving inbox, production deployment or conversion test."
+}

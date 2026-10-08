@@ -1,0 +1,43 @@
+# Simplifying the campaign enquiry — 8 October 2026
+
+## Problem observed in the local website
+
+The Start a campaign link led to two long draft generators. A creator had to supply approved sources, platform, language, budget and rights/review notes before producing a local text draft. The form did not submit an enquiry. Discord was the only connection route. That is useful as a preparation worksheet, but a poor first step for someone who has an idea and wants help scoping it.
+
+The revised journey is: read a short introduction → provide name, reply email and idea → optionally add a content link or context → send → see an honest receipt or recover without losing answers. The detailed brief remains available as an optional disclosure. A separate clipper section goes to the established guide and Discord rather than presenting another large form.
+
+This is a design evaluation of the supplied local project and primary-source guidance. It is not a visitor study, competitor conversion experiment, measured conversion increase or live Resend delivery test.
+
+## Research and decisions
+
+**Ask only what is necessary at this stage.** GOV.UK's question-page guidance says to establish a purpose for every question, mark optional information explicitly and allow uncertainty when valid. Name and email make a reply possible; the idea provides enough context for a conversation. Source links, budget, audience and timing help later but are optional. Budget offers “Not sure — help me scope it”; the ranges are explicitly planning inputs rather than advertised service prices. This adapts the guidance to a commercial enquiry. [GOV.UK question pages](https://design-system.service.gov.uk/patterns/question-pages/)
+
+**Keep this short journey on one page.** GOV.UK describes starting with one question per page for a structured service. Here, three closely related answers fit in a compact form, so a wizard would introduce extra navigation without an established need. The one-page choice is our judgment, not a claim that the cited source recommends it for every service. Optional context is grouped under a native disclosure; a person can submit with it closed. The campaign workbook is further down and has its own visibly separate draft action.
+
+**Use visible, connected labels.** Each enquiry control has an explicit label and stable identifier. Name/email use autocomplete; email and URL inputs expose appropriate mobile keyboards. Labels remain visible after typing. Controls have 16px text and at least 48px input height. The compact desktop name/email row becomes a single column on smaller screens. W3C's forms tutorial explains the label/control relationship and the value of labels above inputs on mobile and for people with low vision. [W3C labeling controls](https://www.w3.org/WAI/tutorials/forms/labels/)
+
+**Make correction specific and preserve the work.** On submit, the JavaScript flow moves focus to a summary whose links focus the problem fields. Matching inline errors are associated with those inputs; optional disclosures open when an error link targets a hidden field. Answers remain in place. Validation errors are kept distinct from unavailable email service and uncertain provider results. GOV.UK recommends a summary plus adjacent field messages, linked answers and moved focus; its validation guidance says to retain entered information during correction. [GOV.UK error summary](https://design-system.service.gov.uk/components/error-summary/), [validation recovery](https://design-system.service.gov.uk/patterns/validation/)
+
+**Validate on the server as well.** Browser validation improves feedback, but it can be bypassed. The handler repeats required, type, length, email and public HTTP(S) URL checks. It does not fetch a submitted URL. W3C explicitly identifies server validation as necessary alongside client checks. [W3C validating input](https://www.w3.org/WAI/tutorials/forms/validation/)
+
+**Use a genuine enquiry endpoint.** The form posts to `/api/campaign-enquiry`. Only the server reads `RESEND_API_KEY`. It calls Resend's email endpoint with a fixed operator-controlled sender and recipient, a constant subject, plain text and escaped HTML. The visitor address is Reply-To, so visitors cannot turn the form into an arbitrary-recipient sender. The official API documents these email payload fields and the ID response. No SDK or framework was added to this static website. [Resend send-email API](https://resend.com/docs/api-reference/emails/send-email)
+
+**Treat retry and delivery separately.** The UI disables duplicate submission while a request is pending. An unchanged retry keeps its request identifier; changing an answer creates a fresh identifier. The server combines it with a hash of the email payload and passes an Idempotency-Key. Resend retains those keys for 24 hours and rejects reuse with a different payload, so the generated email has no varying timestamp. Native submissions use a deterministic payload hash. This is bounded duplicate protection, not a permanent submission ledger. [Resend idempotency keys](https://resend.com/docs/dashboard/emails/idempotency-keys)
+
+**Report what is known.** A successful API result means accepted for sending, not confirmed delivery, campaign approval or reserved capacity. Provider failure or timeout says submission could not be confirmed because the provider may have accepted it before the connection failed. Copy/email and Discord remain available. Resend exposes subsequent delivery and bounce events separately, which supports keeping the immediate receipt conservative. [Resend email event timeline](https://resend.com/changelog/email-events-timeline)
+
+## Implemented journey and data handling
+
+The main form has three required answers and four optional answers. It does not automatically write enquiry names, email addresses or messages to localStorage. The optional workbook still saves its draft locally and says that it sends nothing. An explicitly dated privacy addition describes the enquiry email flow; existing policy text and its original effective date are preserved. No marketing contact, mailing-list subscription, tracking pixel, CRM or attachment upload was added.
+
+No-JavaScript users can submit a normal POST. Failure returns an uncached HTML page with editable answers, field errors where appropriate, a retry action and direct contact links. Success returns an acceptance receipt. The preview serves only files inside `public/`; server source and local environment files are inaccessible over its static routes.
+
+The API accepts JSON and URL-encoded forms, bounds request bodies to 96 KiB, limits field sizes, rejects cross-site browser submissions and unsupported methods/content types, and checks an empty honeypot. A bounded, hashed-IP limiter permits five valid attempts per ten minutes per process/function instance. It is intentionally documented as per-instance protection: serverless instances do not share its memory. It does not claim comprehensive spam prevention. There is no user-content logging or database persistence in this implementation. Future production traffic should determine whether shared rate limiting or additional abuse controls are needed.
+
+## Configuration and remaining verification
+
+The local Node preview uses the same handler as the prepared Netlify function. Modern Netlify functions accept a Request and return a Response; the function is kept outside the public website. The existing project already contains Netlify function configuration, so this is an extension of that source rather than a new hosting choice. [Netlify function documentation](https://docs.netlify.com/build/functions/get-started/)
+
+Put the API key in `clipping-site/.env.local` using `.env.example`, then restart the preview. Defaults are `RESEND_FROM_EMAIL=contact@riseklix.com` and `CAMPAIGN_TO_EMAIL=contact@riseklix.com`. Sending needs a verified domain. Receiving must also be configured for the chosen recipient; being able to send from an address does not by itself confirm a receiving mailbox. The owner's Resend domain, inbox setup, key and delivery have not been inspected or verified. [Resend domain requirements](https://resend.com/docs/dashboard/domains/introduction)
+
+All email success/error tests use injected or intercepted responses and visibly marked QA data. No live emails have been sent. The actual localhost HTTP bridge is tested with invalid data that cannot reach Resend. Nothing has been published or deployed. A future authorised deployment must set environment variables for Functions, keep the API same-origin, and verify receiving and delivery with an explicitly authorised test. Conversion, response times and search/AI-citation gains remain unmeasured.

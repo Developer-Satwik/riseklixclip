@@ -1,0 +1,1056 @@
+{
+  "checkedAt": "2026-10-07T14:33:34.287Z",
+  "conditions": {
+    "viewport": [
+      390,
+      844
+    ],
+    "cpuSlowdown": 1,
+    "downloadBitsPerSecond": 1600000,
+    "latencyMs": 150,
+    "coldCache": true,
+    "runsPerVersionPerRoute": 3,
+    "order": "Interleaved; order reversed on the middle run",
+    "server": "Both snapshots served from memory on localhost; avoids changing filesystem/cloud-sync I/O during requests"
+  },
+  "sourceHashes": [
+    {
+      "version": "baseline",
+      "css": "f0f63aae6d722cc003b8cf0969e943b16f37e33c87ef1343985f22af60262e41",
+      "script": "4725e7ef9ca4a83643fa4eca2b99cfef388b57b2c592e1033f0ea4403e934a73",
+      "html": [
+        {
+          "route": "/",
+          "sha256": "23270fff2bdc9bf5ea31b106aaeb5d00155d8fa852fe9b8541bf190a9292baf8"
+        },
+        {
+          "route": "/resources/",
+          "sha256": "2038b43690643f635f0933924480bc64b7694392503caa0139453c03a9fdf40d"
+        },
+        {
+          "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+          "sha256": "bedb5768057a97d29d8e1ccb3831cb4271e2905807c590433edfdbf15a3641d4"
+        }
+      ]
+    },
+    {
+      "version": "current",
+      "css": "e060bb880fd68657b6c53b6714fd8eeae5791b30f981954769947082887602b9",
+      "script": "aef6e4e0a636cb3c6eab1d898cff4e998a24bc4c0eb58c353b13b44c1392d36c",
+      "html": [
+        {
+          "route": "/",
+          "sha256": "7ed43f48a6a7842ca737731e6b175bb3935d5b8b3a6d72dca34a7e9dafb3c516"
+        },
+        {
+          "route": "/resources/",
+          "sha256": "11593010496cb1ce02f363a975f13cde7d87e3af825df3d54dfe64d3bd8537fd"
+        },
+        {
+          "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+          "sha256": "08d48a98bfbc8b9dd81ac3bb8af14bef25bbdb9071b7a7b52f7b3e25a5a718c7"
+        }
+      ]
+    }
+  ],
+  "summaries": [
+    {
+      "route": "/",
+      "baseline": {
+        "lcpMs": 1976,
+        "lcpRangeMs": [
+          1792,
+          2200
+        ],
+        "cls": 0.014912458347587625,
+        "loadMs": 3306.2000000476837,
+        "resourceBytes": 459396,
+        "fontBytes": 352240,
+        "filterToPaintMs": null
+      },
+      "current": {
+        "lcpMs": 17064,
+        "lcpRangeMs": [
+          2580,
+          18532
+        ],
+        "cls": 0.014912458347587625,
+        "loadMs": 15391.899999856949,
+        "resourceBytes": 205067,
+        "fontBytes": 76760,
+        "filterToPaintMs": null
+      }
+    },
+    {
+      "route": "/resources/",
+      "baseline": {
+        "lcpMs": 1768,
+        "lcpRangeMs": [
+          1644,
+          1944
+        ],
+        "cls": 0.000386791627773324,
+        "loadMs": 3096.0999999046326,
+        "resourceBytes": 392252,
+        "fontBytes": 352240,
+        "filterToPaintMs": 26.59999990463257
+      },
+      "current": {
+        "lcpMs": 1916,
+        "lcpRangeMs": [
+          1912,
+          1988
+        ],
+        "cls": 0.001095242651263967,
+        "loadMs": 2133.0999999046326,
+        "resourceBytes": 137923,
+        "fontBytes": 76760,
+        "filterToPaintMs": 48.10000014305115
+      }
+    },
+    {
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "baseline": {
+        "lcpMs": 2236,
+        "lcpRangeMs": [
+          1632,
+          2308
+        ],
+        "cls": 0.023348762975726235,
+        "loadMs": 2999.2999999523163,
+        "resourceBytes": 459396,
+        "fontBytes": 352240,
+        "filterToPaintMs": null
+      },
+      "current": {
+        "lcpMs": 1804,
+        "lcpRangeMs": [
+          1356,
+          11292
+        ],
+        "cls": 0.023348762975726235,
+        "loadMs": 1841.4000000953674,
+        "resourceBytes": 205067,
+        "fontBytes": 76760,
+        "filterToPaintMs": null
+      }
+    }
+  ],
+  "samples": [
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1976,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          67,
+          386,
+          265,
+          97
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 3402.399999856949,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 18532,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          10187,
+          237,
+          96,
+          315,
+          66,
+          121,
+          384,
+          430,
+          1481,
+          744,
+          1472,
+          1047,
+          300,
+          361,
+          337
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 15391.899999856949,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 2580,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          286
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 2518.7999999523163,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 2200,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          468,
+          265,
+          51
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 3306.2000000476837,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1792,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          312,
+          7927,
+          412,
+          117,
+          440,
+          85,
+          1892,
+          1136,
+          59,
+          96,
+          2599,
+          6749
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 3194.4000000953674,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 17064,
+        "cls": 0,
+        "longTasks": [
+          574,
+          827,
+          134,
+          68,
+          91,
+          67,
+          1719,
+          201,
+          1027,
+          173,
+          139
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 17111,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/resources/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1944,
+        "cls": 0.000386791627773324,
+        "longTasks": [
+          59,
+          132
+        ],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 3096.0999999046326,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": 42.60000014305115,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/resources/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1988,
+        "cls": 0.001095242651263967,
+        "longTasks": [
+          133
+        ],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2327.2000000476837,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": 40,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/resources/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1916,
+        "cls": 0.001095242651263967,
+        "longTasks": [
+          83
+        ],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2133.0999999046326,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": 48.10000014305115,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/resources/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1644,
+        "cls": 0.000386791627773324,
+        "longTasks": [
+          52,
+          141
+        ],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 3047.2999999523163,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": 17,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/resources/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1768,
+        "cls": 0.000386791627773324,
+        "longTasks": [
+          69,
+          126
+        ],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 3154,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": 26.59999990463257,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/resources/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1912,
+        "cls": 0.001095242651263967,
+        "longTasks": [
+          72
+        ],
+        "lcpElement": {
+          "tag": "H1",
+          "classes": ""
+        }
+      },
+      "loadMs": 2089.0999999046326,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": 50.30000019073486,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 1,
+      "metrics": {
+        "lcp": 2308,
+        "cls": 0.023348762975726235,
+        "longTasks": [
+          249,
+          127,
+          56
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 3090.399999856949,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 1,
+      "metrics": {
+        "lcp": 11292,
+        "cls": 0.023348762975726235,
+        "longTasks": [
+          316,
+          128,
+          634,
+          156,
+          1016,
+          98,
+          5641,
+          1135,
+          1347,
+          98,
+          123,
+          110,
+          965,
+          104,
+          1617,
+          108,
+          52,
+          1957,
+          83,
+          386,
+          153,
+          79
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 27171.200000047684,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 2,
+      "metrics": {
+        "lcp": 1356,
+        "cls": 0.021871089518256726,
+        "longTasks": [
+          106
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 1413.6000001430511,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 2,
+      "metrics": {
+        "lcp": 1632,
+        "cls": 0.023348762975726235,
+        "longTasks": [
+          86,
+          172
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 2700.199999809265,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 3,
+      "metrics": {
+        "lcp": 2236,
+        "cls": 0.023348762975726235,
+        "longTasks": [
+          92,
+          228,
+          234
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 2999.2999999523163,
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=researched-6",
+          "transferSize": 33085,
+          "decodedBodySize": 32785
+        },
+        {
+          "name": "/script.js?v=clipper-discord-2",
+          "transferSize": 7307,
+          "decodedBodySize": 7007
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 3,
+      "metrics": {
+        "lcp": 1804,
+        "cls": 0.023348762975726235,
+        "longTasks": [
+          294
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v2-640.webp"
+        }
+      },
+      "loadMs": 1841.4000000953674,
+      "resources": [
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-4",
+          "transferSize": 13138,
+          "decodedBodySize": 12838
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-8",
+          "transferSize": 48405,
+          "decodedBodySize": 48105
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "filterToPaintMs": null,
+      "externalRequests": []
+    }
+  ],
+  "limitations": "CPU slowdown is configurable; this run uses 1x because host load amplified the fourfold test and caused a timeout. Small controlled local Chrome comparison under background machine load; not field Core Web Vitals or real-user INP. Filter-to-paint uses two frames and is synthetic. Initial sequential results are retained separately because changing host load made their before/after timing comparison unreliable."
+}

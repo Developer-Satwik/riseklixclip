@@ -1,0 +1,6825 @@
+{
+  "contrast": [
+    {
+      "mode": "light",
+      "route": "/",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Search",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "India-first creator clipping network",
+          "ratio": 9.88,
+          "required": 4.5,
+          "fg": "rgb(196, 196, 196)",
+          "bg": "rgb(27, 27, 27)"
+        },
+        {
+          "text": "Turn the moments inside your content into the stories people share. A ",
+          "ratio": 9.17,
+          "required": 4.5,
+          "fg": "rgb(189, 189, 189)",
+          "bg": "rgb(27, 27, 27)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.52,
+          "required": 4.5,
+          "fg": "rgb(27, 27, 27)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "I want to clip  (also opens Discord in a new tab)→",
+          "ratio": 14.85,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(27, 27, 27)"
+        },
+        {
+          "text": "The cutting desk / an editing exercise",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Explore three fictional source moments and the decisions that shape a ",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "01Podcast",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "02Live stream",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "03Founder story",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Podcast",
+          "ratio": 5.5,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "One decision, explained.",
+          "ratio": 5.5,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "We changed one sentence in the onboarding flow. The product stayed the",
+          "ratio": 15.84,
+          "required": 3,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "The short-form idea",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The sentence that changed the experience.",
+          "ratio": 15.15,
+          "required": 3,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The moment",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Keep the decision and its explanation together. The interesting moment",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The edit",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Start with the changed sentence, then reveal the reason. Add precise c",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The destination",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Continue into the full conversation on the creator’s channel. Give the",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Demonstration only. Invented source lines and timecodes, with no campa",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The framing studio / an artwork study",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A crop changes what we notice. Explore the space around a subject, the",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "CLIP / FRAMING STUDY",
+          "ratio": 5.26,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "01 — SOURCE ARTWORK",
+          "ratio": 5.26,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "SOURCE → FRAME → STORY",
+          "ratio": 5.26,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "16:9",
+          "ratio": 5.26,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "Let the setting tell part of the story.",
+          "ratio": 16.56,
+          "required": 3,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A landscape frame can keep the subject and surroundings together. Chec",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Framing demonstration using original RiseKlix artwork. This study chan",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For creators & brands",
+          "ratio": 7.51,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Plan an Indian clipping campaign around approved sources, a clear audi",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "For clippers & editors",
+          "ratio": 7.88,
+          "required": 4.5,
+          "fg": "rgb(96, 53, 180)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Build your editing craft, find out how campaign work is reviewed and c",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "light",
+      "route": "/contact/",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Search",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Looking to run an Indian clipping campaign? Tell us what you want to p",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Tell us the idea ↓",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Here to earn as a clipper? ↓",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Your campaign enquiry",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Just three things to get started: your name, email, and idea. Everythi",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Your name",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Email to reply to",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "What would you like to promote?",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "A creator, brand, podcast, stream, product, or something else. Tell us",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "A link to your content or project (optional)",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "A public link is useful. You can send approved source material later.",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Budget (optional)",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Planning ranges only. Scope and pricing are discussed separately.",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Audience or language (optional)",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "When would you like to start? (optional)",
+          "ratio": 17.58,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "When you send, your answers go to the RiseKlix team by email through R",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Send campaign enquiry ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(248, 248, 248)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "What happens next / 02",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "We review your enquiry.",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Your content, audience, and campaign goal give the conversation a star",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "We discuss the scope.",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Agree the source permissions, formats, platforms, review process, and ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "You decide the next step.",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Confirm availability and the written terms before any campaign begins.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Prefer a direct conversation?",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "contact@riseklix.com ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Open RiseKlix Discord ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "An enquiry does not reserve a campaign or create a payment commitment.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Prepare a detailed campaign brief",
+          "ratio": 16.56,
+          "required": 3,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start with an empty draft. Copy or download it, then review and share ",
+          "ratio": 5.48,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Creator / brand / project",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Campaign goal",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Audience and language",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Approved source URL",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Target platform",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Budget or rate proposal",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Creative boundaries, rights, disclosure and approval rules",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Create draft ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(248, 248, 248)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Copy draft",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Download .txt",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Clear saved draft",
+          "ratio": 5.48,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Your draft",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "For clippers and editors",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start with the beginner guide and join the community to ask about curr",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "light",
+      "route": "/blog/creator-clipping-campaign-roi-calculator-india.html",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 7.07,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Search",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Copy link ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Save for later in this browser.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The direct answer",
+          "ratio": 6.75,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Use this clipping campaign ROI calculator to estimate total cost, cost",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Enter your own figures. Assumptions stay in this browser and are not c",
+          "ratio": 5.64,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 245, 227)"
+        },
+        {
+          "text": "Total campaign cost (₹)",
+          "ratio": 16.26,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 245, 227)"
+        },
+        {
+          "text": "Eligible campaign views",
+          "ratio": 16.26,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 245, 227)"
+        },
+        {
+          "text": "Attributable revenue (₹)",
+          "ratio": 16.26,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 245, 227)"
+        },
+        {
+          "text": "Calculate ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(248, 248, 248)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Reset",
+          "ratio": 16.26,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(255, 245, 227)"
+        },
+        {
+          "text": "The calculator on this page uses attributable revenue and campaign cos",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Before entering numbers, define the objective and the accounting bound",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign cost should include the items inside your chosen boundary: pr",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The views input should use one named metric and reporting window. Do n",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The basic ROI calculation is (attributable revenue − campaign cost) ÷ ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The revenue-less-cost output is not automatically profit. It may omit ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Suppose a planning demonstration uses ₹10,000 of campaign cost, 50,000",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Now suppose relevant variable product costs on those sales were ₹6,000",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Calculate several labelled scenarios with the same cost boundary. Chan",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For a creator interested primarily in awareness, ROI may be the wrong ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Record the campaign, tagged route, observation window, conversion defi",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Treat platform counts and website outcomes as different evidence sourc",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with Set up the measurement record before launch.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare the result with the objective, approved output and process qua",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Write the next action in specific terms: improve source selection, cha",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Name the cost boundary and the basis of the return input. A campaign c",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Keep an input note with amount, source, period and status: estimated, ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For a fictional ₹12,000 defined campaign cost, attributable revenue sc",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Now vary cost while keeping the fictional ₹18,000 revenue constant. At",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "If you use revenue while the business has variable costs, a revenue-ba",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "In a fictional scenario with ₹10,000 campaign cost and ₹250 attributab",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Summarise the scope, input sources, formula basis, result and uncertai",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Use the note to decide whether to improve the source, destination, rev",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with Build the cost and attribution ledger or Set a measurabl",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "No. It computes a scenario from your inputs. It does not forecast view",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Not necessarily. The simple tool compares revenue with the cost you en",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Cost per 1,000 views is undefined. The tool labels that condition inst",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "No. Use a metric suited to the objective and report audience or produc",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Yes when the estimate is uncertain, provided the cases are labelled hy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Revenue does not necessarily account for the variable costs of deliver",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Sources & evidence",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "This is an editorial workflow guide from Clip by RiseKlix. Recommendat",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "light",
+      "route": "/guides/how-much-do-clippers-make-india.html",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 7.07,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Search",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Copy link ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Save for later in this browser.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The direct answer",
+          "ratio": 6.75,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Clipper earnings in India depend on the agreed payment model, approved",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "A view-based scenario, not a salary benchmark. No rate is pre-filled.",
+          "ratio": 5.3,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(241, 237, 251)"
+        },
+        {
+          "text": "Eligible views",
+          "ratio": 15.28,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(241, 237, 251)"
+        },
+        {
+          "text": "Agreed ₹ per 1,000 views",
+          "ratio": 15.28,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(241, 237, 251)"
+        },
+        {
+          "text": "Fee percentage",
+          "ratio": 15.28,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(241, 237, 251)"
+        },
+        {
+          "text": "Gross reward cap (₹), optional",
+          "ratio": 15.28,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(241, 237, 251)"
+        },
+        {
+          "text": "Estimate ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(248, 248, 248)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Reset",
+          "ratio": 15.28,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(241, 237, 251)"
+        },
+        {
+          "text": "Clipping is a task that can be paid in several ways. A freelance edito",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "This guide does not have a representative dataset of Indian clipper ea",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A fixed model pays an agreed amount for a defined accepted deliverable",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The important distinction is the payment trigger. “I edited a clip,” “",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Suppose an illustrative brief pays ₹120 per 1,000 eligible views, allo",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "These inputs are invented for arithmetic only; they are not RiseKlix r",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "To assess whether work is sustainable, subtract the costs you actually",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For another hypothetical scenario, ₹3,600 after the stated fee minus ₹",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Ask whether the cap applies per post, participant or entire campaign. ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Also confirm whether the stated rate is gross or net of the platform o",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Use one row per assignment or campaign and distinguish the stages. Rec",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare completed periods rather than a best-performing day. Note chan",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Use the agreed private route for necessary payout information. Verify ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "NPCI’s fraud guidance explains that a UPI PIN is used to authorise out",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Source: NPCI: UPI fraud awareness",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with Understand UPI campaign payout records or Build a person",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Use a low-outcome, middle-outcome and capped-outcome worksheet when pa",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For a fictional brief paying ₹90 per 1,000 eligible views with a ₹3,00",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Suppose a fictional post shows a public count of 30,000 while the agre",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Identify why counts differ before drawing a conclusion: metric definit",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A participant’s schedule includes source viewing, selection, editing, ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For a fictional fixed-fee exercise, ₹1,200 received with ₹200 of direc",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Keep an item-level ledger with agreed trigger, acceptance, calculation",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Separate the ledger from public performance showcases. A view screensh",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with Maintain a personal time ledger or Record the payment ha",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "This site does not have a verified representative salary dataset. Clip",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "No. It is an explicitly hypothetical input used to explain arithmetic.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Only the metric and eligibility conditions specified by the agreement ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "It calculates from your inputs. Approval, eligibility, funding, contra",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A calculator performs arithmetic on its inputs. It does not establish ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare the complete scope, time, direct costs and uncertainty. A fixe",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Sources & evidence",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Primary references for the platform or policy details discussed here. ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Editorial revision: 7 October 2026. Provider terms and availability ca",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "light",
+      "route": "/resources/",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 7.07,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Search",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Gallery",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(248, 248, 248)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Index",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Saved 0",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Your reading list stays in this browser.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "light",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 7.07,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Search",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Copy link ↗",
+          "ratio": 16.56,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Save for later in this browser.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The direct answer",
+          "ratio": 6.75,
+          "required": 4.5,
+          "fg": "rgb(23, 74, 194)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Video clipping selects and edits moments from existing source content.",
+          "ratio": 15.79,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(237, 243, 255)"
+        },
+        {
+          "text": "Start by describing what will exist when the work is finished. A clipp",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The definitions here are practical working categories, not legal class",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with the clipping campaign definition.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipping is useful when a permitted recording contains a complete, rel",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "It is less suitable when the needed claim is absent from the source, t",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with evaluating a source library.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "An editing brief can involve combining multiple recordings, synchronis",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A founder who has product recordings, narration and a demonstration mi",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A UGC-style brief commonly asks a creator to produce new material, oft",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Do not ask a creator to invent ownership, purchases, use or results. I",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Source: ASCI: current code and influencer guidelines",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with disclosure planning for paid creator content.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Use the matrix to reveal missing work, not to declare that one model i",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Keep publication separate from file delivery. A polished export does n",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Identify the source, intended audience, useful passages, exclusions, c",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Hypothetical scope: two extracts from one cleared interview, each expl",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with the editable campaign brief.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Provide the footage inventory, intended sequence, reference tone, audi",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Specify the review checkpoints before all versions are produced. A rou",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Describe the product, verified message, intended audience and what the",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Hypothetical scope: a presenter records how a fictional app’s export f",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For each asset, record the relevant rights holder, permitted edits, ac",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Plan whether the asset will remain on the creator’s account, appear on",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with source rights and a permissions register or account owne",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A per-clip quote, an editing day rate and a creator-production fee are",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Separate payment for work from performance incentives. A creator’s rec",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with a complete campaign budget.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "For clipping, inspect whether the source idea became a clear, permitte",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "If distribution is part of the assignment, record its evidence separat",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Continue with honest production and outcome reporting.",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Fictional planning scenario: a brand has a permitted interview discuss",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The brand first decides whether the audience needs the interview insig",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "The resulting quote sheet can name three jobs instead of comparing inc",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "A useful combined workflow might commission a truthful product demonst",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Choose the smallest combination that solves the actual problem. If the",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipping is a source-based editing task focused on selecting and adapt",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clarify the intended use of the term. A paid UGC-style commission ofte",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Choose from the source and objective. Existing approved material may s",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Yes, when the relevant permissions and intended reuse allow it and the",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Give suppliers a common finished-outcome brief and list preparation, r",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Identify the material relationship and apply the relevant current adve",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Sources & evidence",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Primary references for the platform or policy details discussed here. ",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Editorial revision: 7 October 2026. Provider terms and availability ca",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 6.1,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 5.74,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(248, 248, 248)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "dark",
+      "route": "/",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Search",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "India-first creator clipping network",
+          "ratio": 9.88,
+          "required": 4.5,
+          "fg": "rgb(196, 196, 196)",
+          "bg": "rgb(27, 27, 27)"
+        },
+        {
+          "text": "Turn the moments inside your content into the stories people share. A ",
+          "ratio": 9.17,
+          "required": 4.5,
+          "fg": "rgb(189, 189, 189)",
+          "bg": "rgb(27, 27, 27)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.52,
+          "required": 4.5,
+          "fg": "rgb(27, 27, 27)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "I want to clip  (also opens Discord in a new tab)→",
+          "ratio": 14.85,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(27, 27, 27)"
+        },
+        {
+          "text": "The cutting desk / an editing exercise",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Explore three fictional source moments and the decisions that shape a ",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "01Podcast",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "02Live stream",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "03Founder story",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Podcast",
+          "ratio": 5.5,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "One decision, explained.",
+          "ratio": 5.5,
+          "required": 4.5,
+          "fg": "rgb(98, 98, 98)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "We changed one sentence in the onboarding flow. The product stayed the",
+          "ratio": 15.84,
+          "required": 3,
+          "fg": "rgb(25, 25, 25)",
+          "bg": "rgb(243, 243, 243)"
+        },
+        {
+          "text": "The short-form idea",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The sentence that changed the experience.",
+          "ratio": 15.15,
+          "required": 3,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The moment",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Keep the decision and its explanation together. The interesting moment",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The edit",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Start with the changed sentence, then reveal the reason. Add precise c",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The destination",
+          "ratio": 15.15,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Continue into the full conversation on the creator’s channel. Give the",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "Demonstration only. Invented source lines and timecodes, with no campa",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "",
+          "ratio": 8.29,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(25, 25, 25)"
+        },
+        {
+          "text": "The framing studio / an artwork study",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A crop changes what we notice. Explore the space around a subject, the",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "CLIP / FRAMING STUDY",
+          "ratio": 7.14,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "01 — SOURCE ARTWORK",
+          "ratio": 7.14,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "SOURCE → FRAME → STORY",
+          "ratio": 7.14,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "16:9",
+          "ratio": 7.14,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Let the setting tell part of the story.",
+          "ratio": 15.45,
+          "required": 3,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A landscape frame can keep the subject and surroundings together. Chec",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Framing demonstration using original RiseKlix artwork. This study chan",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For creators & brands",
+          "ratio": 9.47,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Plan an Indian clipping campaign around approved sources, a clear audi",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "For clippers & editors",
+          "ratio": 8.65,
+          "required": 4.5,
+          "fg": "rgb(193, 181, 219)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Build your editing craft, find out how campaign work is reviewed and c",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "dark",
+      "route": "/contact/",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Search",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Looking to run an Indian clipping campaign? Tell us what you want to p",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Tell us the idea ↓",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Here to earn as a clipper? ↓",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Your campaign enquiry",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Just three things to get started: your name, email, and idea. Everythi",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Your name",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Email to reply to",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "What would you like to promote?",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "A creator, brand, podcast, stream, product, or something else. Tell us",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "A link to your content or project (optional)",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "A public link is useful. You can send approved source material later.",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Budget (optional)",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Planning ranges only. Scope and pricing are discussed separately.",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Audience or language (optional)",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "When would you like to start? (optional)",
+          "ratio": 14.37,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "When you send, your answers go to the RiseKlix team by email through R",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Send campaign enquiry ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(23, 23, 23)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "What happens next / 02",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "We review your enquiry.",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Your content, audience, and campaign goal give the conversation a star",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "We discuss the scope.",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Agree the source permissions, formats, platforms, review process, and ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "You decide the next step.",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Confirm availability and the written terms before any campaign begins.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Prefer a direct conversation?",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "contact@riseklix.com ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Open RiseKlix Discord ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "An enquiry does not reserve a campaign or create a payment commitment.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Prepare a detailed campaign brief",
+          "ratio": 15.45,
+          "required": 3,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start with an empty draft. Copy or download it, then review and share ",
+          "ratio": 7.41,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Creator / brand / project",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Campaign goal",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Audience and language",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Approved source URL",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Target platform",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Budget or rate proposal",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Creative boundaries, rights, disclosure and approval rules",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Create draft ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(23, 23, 23)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "Copy draft",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Download .txt",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Clear saved draft",
+          "ratio": 7.41,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Your draft",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "For clippers and editors",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start with the beginner guide and join the community to ask about curr",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "dark",
+      "route": "/blog/creator-clipping-campaign-roi-calculator-india.html",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 10.19,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Search",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Copy link ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Save for later in this browser.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The direct answer",
+          "ratio": 8.93,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Use this clipping campaign ROI calculator to estimate total cost, cost",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Enter your own figures. Assumptions stay in this browser and are not c",
+          "ratio": 6.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(41, 41, 41)"
+        },
+        {
+          "text": "Total campaign cost (₹)",
+          "ratio": 12.54,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(41, 41, 41)"
+        },
+        {
+          "text": "Eligible campaign views",
+          "ratio": 12.54,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(41, 41, 41)"
+        },
+        {
+          "text": "Attributable revenue (₹)",
+          "ratio": 12.54,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(41, 41, 41)"
+        },
+        {
+          "text": "Calculate ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(23, 23, 23)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "Reset",
+          "ratio": 12.54,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(41, 41, 41)"
+        },
+        {
+          "text": "The calculator on this page uses attributable revenue and campaign cos",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Before entering numbers, define the objective and the accounting bound",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign cost should include the items inside your chosen boundary: pr",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The views input should use one named metric and reporting window. Do n",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The basic ROI calculation is (attributable revenue − campaign cost) ÷ ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The revenue-less-cost output is not automatically profit. It may omit ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Suppose a planning demonstration uses ₹10,000 of campaign cost, 50,000",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Now suppose relevant variable product costs on those sales were ₹6,000",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Calculate several labelled scenarios with the same cost boundary. Chan",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For a creator interested primarily in awareness, ROI may be the wrong ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Record the campaign, tagged route, observation window, conversion defi",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Treat platform counts and website outcomes as different evidence sourc",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with Set up the measurement record before launch.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare the result with the objective, approved output and process qua",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Write the next action in specific terms: improve source selection, cha",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Name the cost boundary and the basis of the return input. A campaign c",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Keep an input note with amount, source, period and status: estimated, ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For a fictional ₹12,000 defined campaign cost, attributable revenue sc",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Now vary cost while keeping the fictional ₹18,000 revenue constant. At",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "If you use revenue while the business has variable costs, a revenue-ba",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "In a fictional scenario with ₹10,000 campaign cost and ₹250 attributab",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Summarise the scope, input sources, formula basis, result and uncertai",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Use the note to decide whether to improve the source, destination, rev",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with Build the cost and attribution ledger or Set a measurabl",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "No. It computes a scenario from your inputs. It does not forecast view",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Not necessarily. The simple tool compares revenue with the cost you en",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Cost per 1,000 views is undefined. The tool labels that condition inst",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "No. Use a metric suited to the objective and report audience or produc",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Yes when the estimate is uncertain, provided the cases are labelled hy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Revenue does not necessarily account for the variable costs of deliver",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Sources & evidence",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "This is an editorial workflow guide from Clip by RiseKlix. Recommendat",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "dark",
+      "route": "/guides/how-much-do-clippers-make-india.html",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 10.19,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Search",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Copy link ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Save for later in this browser.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The direct answer",
+          "ratio": 8.93,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Clipper earnings in India depend on the agreed payment model, approved",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "A view-based scenario, not a salary benchmark. No rate is pre-filled.",
+          "ratio": 7.14,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Eligible views",
+          "ratio": 13.04,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Agreed ₹ per 1,000 views",
+          "ratio": 13.04,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Fee percentage",
+          "ratio": 13.04,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Gross reward cap (₹), optional",
+          "ratio": 13.04,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Estimate ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(23, 23, 23)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "Reset",
+          "ratio": 13.04,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(38, 38, 38)"
+        },
+        {
+          "text": "Clipping is a task that can be paid in several ways. A freelance edito",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "This guide does not have a representative dataset of Indian clipper ea",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A fixed model pays an agreed amount for a defined accepted deliverable",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The important distinction is the payment trigger. “I edited a clip,” “",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Suppose an illustrative brief pays ₹120 per 1,000 eligible views, allo",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "These inputs are invented for arithmetic only; they are not RiseKlix r",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "To assess whether work is sustainable, subtract the costs you actually",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For another hypothetical scenario, ₹3,600 after the stated fee minus ₹",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Ask whether the cap applies per post, participant or entire campaign. ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Also confirm whether the stated rate is gross or net of the platform o",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Use one row per assignment or campaign and distinguish the stages. Rec",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare completed periods rather than a best-performing day. Note chan",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Use the agreed private route for necessary payout information. Verify ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "NPCI’s fraud guidance explains that a UPI PIN is used to authorise out",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Source: NPCI: UPI fraud awareness",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with Understand UPI campaign payout records or Build a person",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Use a low-outcome, middle-outcome and capped-outcome worksheet when pa",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For a fictional brief paying ₹90 per 1,000 eligible views with a ₹3,00",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Suppose a fictional post shows a public count of 30,000 while the agre",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Identify why counts differ before drawing a conclusion: metric definit",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A participant’s schedule includes source viewing, selection, editing, ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For a fictional fixed-fee exercise, ₹1,200 received with ₹200 of direc",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Keep an item-level ledger with agreed trigger, acceptance, calculation",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Separate the ledger from public performance showcases. A view screensh",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with Maintain a personal time ledger or Record the payment ha",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "This site does not have a verified representative salary dataset. Clip",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "No. It is an explicitly hypothetical input used to explain arithmetic.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Only the metric and eligibility conditions specified by the agreement ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "It calculates from your inputs. Approval, eligibility, funding, contra",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A calculator performs arithmetic on its inputs. It does not establish ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare the complete scope, time, direct costs and uncertainty. A fixe",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Sources & evidence",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Primary references for the platform or policy details discussed here. ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Editorial revision: 7 October 2026. Provider terms and availability ca",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "dark",
+      "route": "/resources/",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 10.19,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Search",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Gallery",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(23, 23, 23)",
+          "bg": "rgb(238, 238, 238)"
+        },
+        {
+          "text": "Index",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Saved 0",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Your reading list stays in this browser.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        }
+      ],
+      "failures": []
+    },
+    {
+      "mode": "dark",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "checks": [
+        {
+          "text": "clipby RiseKlix",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Explore",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Compare",
+          "ratio": 10.19,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Learn",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Start a campaign ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Search",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "SystemLightDark",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Copy link ↗",
+          "ratio": 15.45,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Save for later in this browser.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The direct answer",
+          "ratio": 8.93,
+          "required": 4.5,
+          "fg": "rgb(179, 195, 236)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Video clipping selects and edits moments from existing source content.",
+          "ratio": 13.55,
+          "required": 4.5,
+          "fg": "rgb(238, 238, 238)",
+          "bg": "rgb(35, 35, 35)"
+        },
+        {
+          "text": "Start by describing what will exist when the work is finished. A clipp",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The definitions here are practical working categories, not legal class",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with the clipping campaign definition.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipping is useful when a permitted recording contains a complete, rel",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "It is less suitable when the needed claim is absent from the source, t",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with evaluating a source library.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "An editing brief can involve combining multiple recordings, synchronis",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A founder who has product recordings, narration and a demonstration mi",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A UGC-style brief commonly asks a creator to produce new material, oft",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Do not ask a creator to invent ownership, purchases, use or results. I",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Source: ASCI: current code and influencer guidelines",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with disclosure planning for paid creator content.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Use the matrix to reveal missing work, not to declare that one model i",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Keep publication separate from file delivery. A polished export does n",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Identify the source, intended audience, useful passages, exclusions, c",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Hypothetical scope: two extracts from one cleared interview, each expl",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with the editable campaign brief.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Provide the footage inventory, intended sequence, reference tone, audi",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Specify the review checkpoints before all versions are produced. A rou",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Describe the product, verified message, intended audience and what the",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Hypothetical scope: a presenter records how a fictional app’s export f",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For each asset, record the relevant rights holder, permitted edits, ac",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Plan whether the asset will remain on the creator’s account, appear on",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with source rights and a permissions register or account owne",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A per-clip quote, an editing day rate and a creator-production fee are",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Separate payment for work from performance incentives. A creator’s rec",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with a complete campaign budget.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "For clipping, inspect whether the source idea became a clear, permitte",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "If distribution is part of the assignment, record its evidence separat",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Continue with honest production and outcome reporting.",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Fictional planning scenario: a brand has a permitted interview discuss",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The brand first decides whether the audience needs the interview insig",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "The resulting quote sheet can name three jobs instead of comparing inc",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "A useful combined workflow might commission a truthful product demonst",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Choose the smallest combination that solves the actual problem. If the",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipping is a source-based editing task focused on selecting and adapt",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clarify the intended use of the term. A paid UGC-style commission ofte",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Choose from the source and objective. Existing approved material may s",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Yes, when the relevant permissions and intended reuse allow it and the",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Give suppliers a common finished-outcome brief and list preparation, r",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Identify the material relationship and apply the relevant current adve",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Sources & evidence",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Primary references for the platform or policy details discussed here. ",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Editorial revision: 7 October 2026. Provider terms and availability ca",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "＋Save",
+          "ratio": 7.86,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(30, 30, 30)"
+        },
+        {
+          "text": "Resource library",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform comparisons",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Clipper guides",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Platform playbooks",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Journal",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Campaign enquiries",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Become a clipper",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Brief builder",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "ROI calculator",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "How it works",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Privacy",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Terms",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "Data deletion",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        },
+        {
+          "text": "RiseKlix",
+          "ratio": 8.46,
+          "required": 4.5,
+          "fg": "rgb(178, 178, 178)",
+          "bg": "rgb(23, 23, 23)"
+        }
+      ],
+      "failures": []
+    }
+  ],
+  "performance": {
+    "observed": {
+      "lcp": 4448,
+      "cls": 0.0007914574291087963
+    },
+    "navigation": [
+      {
+        "domContentLoaded": 5006.299999952316,
+        "load": 6160.599999904633
+      }
+    ],
+    "resources": [
+      {
+        "name": "Inter-latin-variable.woff2",
+        "transferSize": 73220,
+        "decodedBodySize": 72920
+      },
+      {
+        "name": "styles.css?v=atelier-campaign-2",
+        "transferSize": 57846,
+        "decodedBodySize": 57546
+      },
+      {
+        "name": "script.js?v=atelier-campaign-2",
+        "transferSize": 15781,
+        "decodedBodySize": 15481
+      },
+      {
+        "name": "story-collage-v2-1536.webp",
+        "transferSize": 360432,
+        "decodedBodySize": 360132
+      },
+      {
+        "name": "Inter-symbols-variable.woff2",
+        "transferSize": 4140,
+        "decodedBodySize": 3840
+      },
+      {
+        "name": "clip-mark.svg",
+        "transferSize": 520,
+        "decodedBodySize": 220
+      }
+    ]
+  },
+  "limitations": "Local desktop lab observations. Not field Core Web Vitals or a complete WCAG conformance audit. Image backgrounds need visual judgement."
+}

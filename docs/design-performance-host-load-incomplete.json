@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-07T14:27:32.232236+00:00",
+  "stage": "After article image priority and CSS compilation; fourfold CPU slowdown",
+  "status": "incomplete",
+  "reason": "Current library navigation exceeded the 30-second network-idle timeout. No complete timing comparison is claimed for this run.",
+  "consoleObservations": [
+    "baseline / 1: LCP 2848ms, CLS 0.0149",
+    "current / 1: LCP 3120ms, CLS 0.0149",
+    "current / 2: LCP 2932ms, CLS 0.0000",
+    "baseline / 2: LCP 2724ms, CLS 0.0149",
+    "baseline / 3: LCP 2284ms, CLS 0.0149",
+    "current / 3: LCP 4712ms, CLS 0.0149",
+    "baseline /resources/ 1: LCP 2420ms, CLS 0.0004"
+  ]
+}

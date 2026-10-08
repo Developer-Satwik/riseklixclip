@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-08T04:38:11.784Z",
+  "pageErrors": [],
+  "checks": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "padding": "0px",
+      "colorFilter": "none",
+      "typeVisible": false,
+      "typeFilter": "brightness(0) invert(1)",
+      "clip": "none",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "padding": "0px",
+      "colorFilter": "none",
+      "typeVisible": true,
+      "typeFilter": "brightness(0) invert(1)",
+      "clip": "inset(0px 0px 23%)",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "padding": "0px",
+      "colorFilter": "none",
+      "typeVisible": false,
+      "typeFilter": "brightness(0) invert(1)",
+      "clip": "none",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "padding": "0px",
+      "colorFilter": "none",
+      "typeVisible": true,
+      "typeFilter": "brightness(0) invert(1)",
+      "clip": "inset(0px 0px 23%)",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "padding": "0px",
+      "colorFilter": "none",
+      "typeVisible": false,
+      "typeFilter": "brightness(0) invert(1)",
+      "clip": "none",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "padding": "0px",
+      "colorFilter": "none",
+      "typeVisible": true,
+      "typeFilter": "brightness(0) invert(1)",
+      "clip": "inset(0px 0px 23%)",
+      "overflow": false
+    },
+    {
+      "systemTheme": "light",
+      "javaScript": false,
+      "transparent": true
+    },
+    {
+      "systemTheme": "dark",
+      "javaScript": false,
+      "transparent": true
+    }
+  ],
+  "localOnly": true,
+  "staticPages": 124
+}

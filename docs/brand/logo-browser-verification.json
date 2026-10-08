@@ -1,0 +1,95 @@
+{
+  "checkedAt": "2026-10-08T04:32:11.134Z",
+  "localOnly": true,
+  "pageErrors": [],
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 86
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 86
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 76
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 76
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 70
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 70
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 70
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "controlOverlap": false,
+      "navbarImageDecoded": true,
+      "footerImageDecoded": true,
+      "headerHeight": 70
+    }
+  ],
+  "staticPages": 124,
+  "nativeReceipt": {
+    "checkedAt": "2026-10-08T04:34:29.606Z",
+    "status": 422,
+    "imageDecoded": true,
+    "noOverflow": true,
+    "systemDark": true,
+    "noInlineScript": true,
+    "liveEmailsSent": 0
+  },
+  "noJavaScript": {
+    "systemDark": true,
+    "markVisible": true,
+    "navigationVisible": true,
+    "noOverflow": true
+  }
+}

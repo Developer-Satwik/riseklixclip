@@ -1,0 +1,8 @@
+{
+  "checkedAt": "2026-10-07T14:43:24.194024+00:00",
+  "status": "incomplete",
+  "reason": "The dedicated browser stalled before its CDP session was created, so tracing never started. Only that owned headless browser was terminated. No rendering cause is established by this attempt.",
+  "screenshotAttempt": "Five final views captured; article capture exceeded its font-readiness timeout. Retrying the article capture with an explicit readiness check.",
+  "performanceAttribution": "Unresolved; no uniform speed-improvement claim.",
+  "screenshotRetry": "Article fonts reported loaded; desktop/mobile article and reader controls captured successfully with no font-console or request errors. See design-font-capture-check.json."
+}

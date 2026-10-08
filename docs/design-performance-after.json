@@ -1,0 +1,442 @@
+{
+  "checkedAt": "2026-10-07T13:29:41.950Z",
+  "phase": "after",
+  "conditions": {
+    "viewport": [
+      390,
+      844
+    ],
+    "cpuSlowdown": 4,
+    "downloadBitsPerSecond": 1600000,
+    "latencyMs": 150,
+    "coldCache": true,
+    "runsPerRoute": 3
+  },
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 46470,
+      "gzipBytes": 10438
+    },
+    {
+      "file": "script.js",
+      "bytes": 12626,
+      "gzipBytes": 4230
+    }
+  ],
+  "samples": [
+    {
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1872,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          372,
+          237
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "load": 3052.0999999046326,
+      "idleAnimations": 0,
+      "filterToPaint": null,
+      "externalRequests": []
+    },
+    {
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 2424,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          320
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "load": 3352.800000190735,
+      "idleAnimations": 0,
+      "filterToPaint": null,
+      "externalRequests": []
+    },
+    {
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 2240,
+        "cls": 0.014912458347587625,
+        "longTasks": [
+          634,
+          247,
+          83
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "load": 3184.2000000476837,
+      "idleAnimations": 0,
+      "filterToPaint": null,
+      "externalRequests": []
+    },
+    {
+      "route": "/resources/",
+      "run": 1,
+      "metrics": {
+        "lcp": 2408,
+        "cls": 0.0009743223307468271,
+        "longTasks": [
+          503,
+          51,
+          1329,
+          818,
+          463
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "load": 3830.100000143051,
+      "idleAnimations": 0,
+      "filterToPaint": 197.09999990463257,
+      "externalRequests": []
+    },
+    {
+      "route": "/resources/",
+      "run": 2,
+      "metrics": {
+        "lcp": 16308,
+        "cls": 0.00046614418203106686,
+        "longTasks": [
+          51,
+          71,
+          65,
+          163,
+          467,
+          126,
+          55,
+          71,
+          340,
+          1103,
+          100,
+          190,
+          455
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/assets/clip-mark.svg",
+          "transferSize": 520,
+          "decodedBodySize": 220
+        }
+      ],
+      "load": 17147.60000014305,
+      "idleAnimations": 0,
+      "filterToPaint": 465.2999999523163,
+      "externalRequests": []
+    },
+    {
+      "route": "/resources/",
+      "run": 3,
+      "metrics": {
+        "lcp": 11844,
+        "cls": 0.00046614418203106686,
+        "longTasks": [
+          52,
+          64,
+          67,
+          256,
+          480,
+          396,
+          113
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        }
+      ],
+      "load": 12173.200000047684,
+      "idleAnimations": 0,
+      "filterToPaint": 249.89999985694885,
+      "externalRequests": []
+    },
+    {
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 1,
+      "metrics": {
+        "lcp": 11244,
+        "cls": 0,
+        "longTasks": [
+          127,
+          114,
+          71,
+          1277,
+          2186,
+          334,
+          130,
+          126
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        }
+      ],
+      "load": 14562,
+      "idleAnimations": 0,
+      "filterToPaint": null,
+      "externalRequests": []
+    },
+    {
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 2,
+      "metrics": {
+        "lcp": 11744,
+        "cls": 0,
+        "longTasks": [
+          54,
+          98,
+          97,
+          95,
+          50,
+          214,
+          73,
+          116,
+          57
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        }
+      ],
+      "load": 14617.700000047684,
+      "idleAnimations": 0,
+      "filterToPaint": null,
+      "externalRequests": []
+    },
+    {
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "run": 3,
+      "metrics": {
+        "lcp": 11632,
+        "cls": 0,
+        "longTasks": [
+          66,
+          201,
+          252,
+          71,
+          692,
+          226,
+          262
+        ]
+      },
+      "resources": [
+        {
+          "name": "/assets/fonts/InterVariable.woff2",
+          "transferSize": 352540,
+          "decodedBodySize": 352240
+        },
+        {
+          "name": "/styles.css?v=atelier-interactive-7",
+          "transferSize": 46770,
+          "decodedBodySize": 46470
+        },
+        {
+          "name": "/script.js?v=atelier-interactive-3",
+          "transferSize": 12926,
+          "decodedBodySize": 12626
+        },
+        {
+          "name": "/assets/story-collage-v2-640.webp",
+          "transferSize": 67444,
+          "decodedBodySize": 67144
+        }
+      ],
+      "load": 11042,
+      "idleAnimations": 0,
+      "filterToPaint": null,
+      "externalRequests": []
+    }
+  ],
+  "medians": [
+    {
+      "route": "/",
+      "lcpMs": 2240,
+      "cls": 0.014912458347587625,
+      "loadMs": 3184.2000000476837,
+      "filterToPaintMs": null
+    },
+    {
+      "route": "/resources/",
+      "lcpMs": 11844,
+      "cls": 0.00046614418203106686,
+      "loadMs": 12173.200000047684,
+      "filterToPaintMs": 249.89999985694885
+    },
+    {
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "lcpMs": 11632,
+      "cls": 0,
+      "loadMs": 14562,
+      "filterToPaintMs": null
+    }
+  ],
+  "limitations": "Controlled local Chrome lab samples, not field Core Web Vitals or real-user INP. Filter-to-paint is a synthetic two-frame observation. Three runs expose some variability; absolute results depend on this machine."
+}

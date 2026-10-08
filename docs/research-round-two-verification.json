@@ -1,0 +1,310 @@
+{
+  "checkedAt": "2026-10-07T12:49:41.433Z",
+  "researchBatch": 2,
+  "articles": 10,
+  "checks": [
+    {
+      "slug": "video-clipping-vs-video-editing-vs-ugc-india",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 2,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 940,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "instagram-reels-vs-youtube-shorts-clipping-india",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 904,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "creator-owned-vs-participant-accounts-clipping",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 904,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "utm-links-vs-coupon-codes-clipping-attribution",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 832,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "clipping-submission-rejected-fix-appeal",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 868,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "paid-clipper-test-assignment-scorecard",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 4,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 940,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "clipping-campaign-landing-page-checklist",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 4,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 832,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "facebook-reels-original-content-clipping-india",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 922,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "twitch-clips-permissions-campaign-guide",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 868,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "why-viral-clips-dont-build-creator-audience",
+      "sections": 13,
+      "faqs": 6,
+      "tables": 2,
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "viewport": 600,
+        "scrollHeight": 868,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    }
+  ],
+  "pageErrors": [],
+  "noJavaScript": "All ten bodies, navigation and native FAQs checked",
+  "limitations": "Local browser layout and interactions; no field performance, live analytics or search/citation gains measured.",
+  "visualInspection": {
+    "viewedAt": "2026-10-07T12:52:02.133Z",
+    "screenshots": [
+      {
+        "file": "video-clipping-vs-video-editing-vs-ugc-india-mobile-light.png",
+        "observation": "Readable 320px title and summary; artwork stays beneath metadata."
+      },
+      {
+        "file": "twitch-clips-permissions-campaign-guide-mobile-dark.png",
+        "observation": "Neutral charcoal reading surface, visible artwork and legible text."
+      },
+      {
+        "file": "facebook-reels-original-content-clipping-india-desktop.png",
+        "observation": "Spacious reading column and scrollable contents on a short laptop viewport."
+      },
+      {
+        "file": "resources-desktop.png",
+        "observation": "Three learning paths and newest comparison cards appear above the established library."
+      },
+      {
+        "file": "resources-mobile-dark.png",
+        "observation": "Learning paths, filters and newest cards stack within the mobile viewport."
+      },
+      {
+        "file": "scorecard-table-mobile-light.png",
+        "observation": "Rubric text remains legible; the wide table scrolls within its named container."
+      }
+    ],
+    "scope": "Representative screenshots visually reviewed; automated route checks cover the complete library."
+  }
+}

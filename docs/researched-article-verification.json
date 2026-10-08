@@ -1,0 +1,290 @@
+{
+  "checkedAt": "2026-10-07T11:37:58.131Z",
+  "articles": 10,
+  "checks": [
+    {
+      "slug": "does-clipping-work-in-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "viewport": 600,
+        "scrollHeight": 854,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "clipping-campaign-pricing-budget-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 5,
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "viewport": 600,
+        "scrollHeight": 908,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "is-video-clipping-legal-in-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 2,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 836,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "how-to-check-clipping-campaign-legit-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 2,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 836,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "how-to-choose-clipping-agency-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 890,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "ai-clipping-tools-vs-clipping-marketplaces",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 2,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 890,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "youtube-reused-content-rules-indian-clippers",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 2,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 854,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "utm-tracking-clipping-campaigns-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 4,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 836,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "accessible-captions-short-form-clips-india",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 3,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 908,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    },
+    {
+      "slug": "clipping-campaign-case-study-evidence-template",
+      "sections": 12,
+      "faqs": 6,
+      "tables": 4,
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "viewport": 600,
+        "scrollHeight": 890,
+        "clientHeight": 550
+      },
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "nativeFAQ": true,
+      "scrollableTables": true
+    }
+  ],
+  "pageErrors": [],
+  "noJavaScript": "All ten bodies, navigation and native FAQs checked",
+  "limitations": "Local browser layout and interactions; no field performance, live analytics or search/citation gains measured.",
+  "visualInspection": {
+    "reviewedFiles": [
+      "how-to-choose-clipping-agency-india-desktop.png",
+      "utm-tracking-clipping-campaigns-india-mobile-dark.png",
+      "clipping-campaign-pricing-budget-india-worksheet-dark.png",
+      "accessible-captions-short-form-clips-india-worksheet-light.png",
+      "tracking-url-wrap-dark.png",
+      "caption-exercise-table-light.png"
+    ],
+    "observations": "Readable Inter text and neutral charcoal/light surfaces; mobile artwork visible below title; long tracking URL wraps; tables remain in a named horizontal scroll region."
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "checkedAt": "2026-10-07T13:24:45.501Z",
+  "researchBatch": 2,
+  "newArticles": 10,
+  "totalArticles": 113,
+  "totalPages": 124,
+  "originalRoutesPreserved": 104,
+  "newReadingWords": {
+    "min": 1973,
+    "max": 2145,
+    "total": 20424
+  },
+  "newSections": 130,
+  "newFAQs": 60,
+  "newTables": 30,
+  "newUniquePrimaryReferenceURLs": 19,
+  "contextualInboundLinks": 30,
+  "duplicates": [],
+  "issues": [],
+  "articles": [
+    {
+      "slug": "video-clipping-vs-video-editing-vs-ugc-india",
+      "title": "Video clipping vs video editing vs UGC in India: choose the right brief",
+      "route": "/compare/video-clipping-vs-video-editing-vs-ugc-india.html",
+      "targetQueries": [
+        "clipping agency",
+        "creator clipping",
+        "clipping service india"
+      ],
+      "intent": "Resolve the difference between source repurposing, editing capacity and commissioned creator production, with practical scope examples.",
+      "readingWords": 2145,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 2,
+      "metadataCharacters": 149,
+      "references": [
+        {
+          "title": "ASCI: current code and influencer guidelines",
+          "url": "https://www.ascionline.in/the-asci-code-guidelines/"
+        }
+      ],
+      "contextualInboundArticles": [
+        "riseklix-vs-influencer-marketing-agency-india",
+        "creator-clipping-vs-influencer-marketing-india",
+        "what-is-a-clipper"
+      ],
+      "contextualOutgoingLinks": [
+        "what-is-a-clipping-campaign",
+        "creator-content-library-guide-india",
+        "asci-disclosure-guide-paid-creator-clips-india",
+        "creator-clipping-brief-template-india",
+        "is-video-clipping-legal-in-india",
+        "creator-owned-vs-participant-accounts-clipping",
+        "clipping-campaign-pricing-budget-india",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    },
+    {
+      "slug": "instagram-reels-vs-youtube-shorts-clipping-india",
+      "title": "Instagram Reels vs YouTube Shorts for Indian clipping campaigns",
+      "route": "/compare/instagram-reels-vs-youtube-shorts-clipping-india.html",
+      "targetQueries": [
+        "indian clipping campaign",
+        "clipping for indian creators"
+      ],
+      "intent": "Provide a platform-selection experiment and comparison method that complements separate production guides without claiming a universal winner.",
+      "readingWords": 2077,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "metadataCharacters": 148,
+      "references": [
+        {
+          "title": "Meta: Instagram trial reels, June 2025",
+          "url": "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/"
+        },
+        {
+          "title": "YouTube: add a related video to Shorts",
+          "url": "https://support.google.com/youtube/answer/14075157?hl=en"
+        },
+        {
+          "title": "YouTube: Shorts creation and view-count definitions",
+          "url": "https://support.google.com/youtube/answer/10059070?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "youtube-shorts-clipper-guide-india",
+        "instagram-reels-clipper-guide-india",
+        "clipping-campaigns-for-indian-podcasters"
+      ],
+      "contextualOutgoingLinks": [
+        "instagram-insights-clipping-campaigns-india",
+        "youtube-shorts-analytics-clipping-campaigns-india",
+        "accessible-captions-short-form-clips-india",
+        "clipping-campaign-landing-page-checklist",
+        "utm-tracking-clipping-campaigns-india",
+        "clipping-campaign-pricing-budget-india",
+        "is-video-clipping-legal-in-india",
+        "youtube-reused-content-rules-indian-clippers",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    },
+    {
+      "slug": "creator-owned-vs-participant-accounts-clipping",
+      "title": "Creator-owned vs participant accounts for clipping campaigns",
+      "route": "/compare/creator-owned-vs-participant-accounts-clipping.html",
+      "targetQueries": [
+        "clipping marketplace",
+        "clipping network",
+        "clipping channels"
+      ],
+      "intent": "Explain distribution account governance and audience ownership, rather than repeat agency-versus-marketplace service comparisons.",
+      "readingWords": 2012,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "metadataCharacters": 149,
+      "references": [
+        {
+          "title": "YouTube: impersonation and fan-channel identity",
+          "url": "https://support.google.com/youtube/answer/2801947?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "discord-clipping-network-vs-saas-clipping-platform",
+        "how-to-brief-50-clippers",
+        "is-video-clipping-legal-in-india"
+      ],
+      "contextualOutgoingLinks": [
+        "is-video-clipping-legal-in-india",
+        "managed-clipping-campaign-vs-hiring-freelance-editors",
+        "clipper-rules-template-india",
+        "creator-clipping-brief-template-india",
+        "clipping-campaign-pricing-budget-india",
+        "why-viral-clips-dont-build-creator-audience",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    },
+    {
+      "slug": "utm-links-vs-coupon-codes-clipping-attribution",
+      "title": "UTM links vs coupon codes vs surveys for clipping campaign attribution",
+      "route": "/compare/utm-links-vs-coupon-codes-clipping-attribution.html",
+      "targetQueries": [
+        "clipping campaign",
+        "founder brand clipping"
+      ],
+      "intent": "Compare complementary outcome evidence and deduplication, beyond the existing guide to creating and testing UTM links.",
+      "readingWords": 2053,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "metadataCharacters": 150,
+      "references": [
+        {
+          "title": "Google Analytics: campaign URL parameters",
+          "url": "https://support.google.com/analytics/answer/10917952?hl=en"
+        },
+        {
+          "title": "Google Analytics: traffic-source dimension scopes",
+          "url": "https://support.google.com/analytics/answer/11080067?hl=en"
+        },
+        {
+          "title": "Shopify: sales reports and discount-code reporting",
+          "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report"
+        },
+        {
+          "title": "Google Analytics: avoid collecting personally identifiable information",
+          "url": "https://support.google.com/analytics/answer/6366371?hl=en"
+        },
+        {
+          "title": "Shopify: marketing reports and attribution models",
+          "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/marketing-reports"
+        }
+      ],
+      "contextualInboundArticles": [
+        "clipping-for-d2c-brands-india",
+        "how-to-track-clipping-roi",
+        "utm-tracking-clipping-campaigns-india"
+      ],
+      "contextualOutgoingLinks": [
+        "how-to-track-clipping-roi",
+        "utm-tracking-clipping-campaigns-india",
+        "clipping-campaign-case-study-evidence-template",
+        "clipping-campaign-pricing-budget-india",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    },
+    {
+      "slug": "clipping-submission-rejected-fix-appeal",
+      "title": "Clipping submission rejected? Diagnose, correct and request review",
+      "route": "/guides/clipping-submission-rejected-fix-appeal.html",
+      "targetQueries": [
+        "clipping campaign",
+        "clipping jobs",
+        "clipping gigs"
+      ],
+      "intent": "Offer detailed rejection troubleshooting and an evidence-based review request, complementing the existing acceptance definition.",
+      "readingWords": 2052,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "metadataCharacters": 134,
+      "references": [
+        {
+          "title": "Clipping.net: campaign details and submission conditions",
+          "url": "https://clipping.net/docs/clippers/campaign-detail"
+        },
+        {
+          "title": "Clipster: campaign rejection appeals, updated October 2026",
+          "url": "https://www.clipster.gg/help-centre/reviews-appeals-and-suspensions/how-do-i-appeal-a-rejected-clip"
+        }
+      ],
+      "contextualInboundArticles": [
+        "what-counts-as-an-approved-clip",
+        "good-clip-submission-format",
+        "clipping-campaign-fraud-prevention"
+      ],
+      "contextualOutgoingLinks": [
+        "what-counts-as-an-approved-clip",
+        "accessible-captions-short-form-clips-india",
+        "creator-clipping-brief-template-india",
+        "is-video-clipping-legal-in-india",
+        "clipping-campaign-pricing-budget-india",
+        "how-riseklix-verifies-clip-views-public-links",
+        "how-to-check-clipping-campaign-legit-india",
+        "paid-clipper-test-assignment-scorecard"
+      ]
+    },
+    {
+      "slug": "paid-clipper-test-assignment-scorecard",
+      "title": "A paid clipper test assignment: scope, quality scorecard and feedback",
+      "route": "/guides/paid-clipper-test-assignment-scorecard.html",
+      "targetQueries": [
+        "how to become a clipper",
+        "freelance clipper",
+        "clipping jobs online"
+      ],
+      "intent": "Provide a specific participant evaluation assignment and rubric, rather than repeat a portfolio or agency-selection guide.",
+      "readingWords": 2051,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 4,
+      "metadataCharacters": 145,
+      "references": [
+        {
+          "title": "W3C WAI: captions and subtitles",
+          "url": "https://www.w3.org/WAI/media/av/captions/"
+        }
+      ],
+      "contextualInboundArticles": [
+        "how-to-become-a-clipper-india",
+        "clipper-portfolio-guide-india",
+        "how-to-choose-clipping-agency-india"
+      ],
+      "contextualOutgoingLinks": [
+        "how-to-choose-clipping-agency-india",
+        "is-video-clipping-legal-in-india",
+        "podcast-clip-hooks-that-work-in-india",
+        "accessible-captions-short-form-clips-india",
+        "clipping-submission-rejected-fix-appeal",
+        "ai-clipping-tools-vs-clipping-marketplaces",
+        "how-much-do-indian-clippers-earn"
+      ]
+    },
+    {
+      "slug": "clipping-campaign-landing-page-checklist",
+      "title": "A landing-page checklist for clipping campaigns: from view to useful action",
+      "route": "/guides/clipping-campaign-landing-page-checklist.html",
+      "targetQueries": [
+        "indian clipping campaign",
+        "clipping campaign india"
+      ],
+      "intent": "Provide a destination-readiness and conversion-path checklist, distinct from campaign planning and UTM implementation.",
+      "readingWords": 2070,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 4,
+      "metadataCharacters": 147,
+      "references": [
+        {
+          "title": "Google Search: page-experience guidance",
+          "url": "https://developers.google.com/search/docs/appearance/page-experience"
+        },
+        {
+          "title": "W3C WAI: labels and instructions for forms",
+          "url": "https://www.w3.org/WAI/tutorials/forms/labels/"
+        },
+        {
+          "title": "Google Analytics: avoid collecting personally identifiable information",
+          "url": "https://support.google.com/analytics/answer/6366371?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "how-to-plan-a-creator-clipping-campaign-india",
+        "clipping-for-saas-founders-india",
+        "does-clipping-work-in-india"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-clipping-brief-template-india",
+        "clipping-campaign-case-study-evidence-template",
+        "creator-clipping-brief-template-india",
+        "utm-tracking-clipping-campaigns-india",
+        "utm-links-vs-coupon-codes-clipping-attribution"
+      ]
+    },
+    {
+      "slug": "facebook-reels-original-content-clipping-india",
+      "title": "Facebook Reels and clipping in India: originality, permissions and review",
+      "route": "/platforms/facebook-reels-original-content-clipping-india.html",
+      "targetQueries": [
+        "creator clipping",
+        "clipping campaigns"
+      ],
+      "intent": "Add missing Facebook-specific platform coverage using 2026 primary guidance, without transferring Instagram or YouTube rules automatically.",
+      "readingWords": 2004,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "metadataCharacters": 153,
+      "references": [
+        {
+          "title": "Meta: Facebook original-content guidance, March 2026",
+          "url": "https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/"
+        },
+        {
+          "title": "Meta: recommendation guidelines and permitted content",
+          "url": "https://about.fb.com/news/2020/08/recommendation-guidelines/"
+        }
+      ],
+      "contextualInboundArticles": [
+        "best-clipping-platforms-for-indian-creators",
+        "brand-safety-checklist-for-clippers",
+        "youtube-reused-content-rules-indian-clippers"
+      ],
+      "contextualOutgoingLinks": [
+        "creator-owned-vs-participant-accounts-clipping",
+        "how-do-clipping-campaigns-pay-talent",
+        "creator-content-library-guide-india",
+        "is-video-clipping-legal-in-india",
+        "asci-disclosure-guide-paid-creator-clips-india",
+        "clipping-campaign-case-study-evidence-template",
+        "does-clipping-work-in-india"
+      ]
+    },
+    {
+      "slug": "twitch-clips-permissions-campaign-guide",
+      "title": "Twitch clips for Indian campaigns: permissions, sharing and source records",
+      "route": "/platforms/twitch-clips-permissions-campaign-guide.html",
+      "targetQueries": [
+        "twitch clipping campaign",
+        "streamer clipping campaigns",
+        "gaming clipping campaigns"
+      ],
+      "intent": "Add a Twitch-specific permission and publishing lifecycle guide, beyond the existing general stream-editing and gaming-campaign articles.",
+      "readingWords": 1987,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 3,
+      "metadataCharacters": 151,
+      "references": [
+        {
+          "title": "Twitch: create, edit and share clips",
+          "url": "https://help.twitch.tv/s/article/how-to-use-clips"
+        },
+        {
+          "title": "Twitch: streamer clip settings and sharing controls",
+          "url": "https://help.twitch.tv/s/article/clips-settings"
+        }
+      ],
+      "contextualInboundArticles": [
+        "creator-content-library-guide-india",
+        "stream-clipper-guide-india",
+        "clipping-campaigns-gaming-streamers-india"
+      ],
+      "contextualOutgoingLinks": [
+        "is-video-clipping-legal-in-india",
+        "stream-clipper-guide-india",
+        "accessible-captions-short-form-clips-india",
+        "creator-owned-vs-participant-accounts-clipping",
+        "clipping-submission-rejected-fix-appeal",
+        "clipping-campaign-pricing-budget-india",
+        "utm-tracking-clipping-campaigns-india",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    },
+    {
+      "slug": "why-viral-clips-dont-build-creator-audience",
+      "title": "Why viral clips do not always build a creator audience",
+      "route": "/blog/why-viral-clips-dont-build-creator-audience.html",
+      "targetQueries": [
+        "creator clipping",
+        "how successful is it"
+      ],
+      "intent": "Examine attention-to-audience continuity through an original editorial exercise, rather than repeat hook advice or claim a formula for virality.",
+      "readingWords": 1973,
+      "sections": 13,
+      "faqs": 6,
+      "tables": 2,
+      "metadataCharacters": 148,
+      "references": [
+        {
+          "title": "YouTube: Shorts creation and view-count definitions",
+          "url": "https://support.google.com/youtube/answer/10059070?hl=en"
+        },
+        {
+          "title": "YouTube: add a related video to Shorts",
+          "url": "https://support.google.com/youtube/answer/14075157?hl=en"
+        }
+      ],
+      "contextualInboundArticles": [
+        "founder-led-brand-clipping-guide",
+        "podcast-clip-hooks-that-work-in-india",
+        "what-makes-a-clip-go-viral-india"
+      ],
+      "contextualOutgoingLinks": [
+        "does-clipping-work-in-india",
+        "youtube-shorts-analytics-clipping-campaigns-india",
+        "podcast-clip-hooks-that-work-in-india",
+        "creator-owned-vs-participant-accounts-clipping",
+        "clipping-campaign-landing-page-checklist",
+        "creator-content-library-guide-india",
+        "utm-tracking-clipping-campaigns-india",
+        "utm-links-vs-coupon-codes-clipping-attribution",
+        "instagram-reels-vs-youtube-shorts-clipping-india",
+        "clipping-campaign-case-study-evidence-template"
+      ]
+    }
+  ]
+}

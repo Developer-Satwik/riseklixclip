@@ -1,0 +1,87 @@
+{
+  "checkedAt": "2026-10-08T03:22:21.248Z",
+  "exercises": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "examples": 3,
+      "keyboardSelection": true,
+      "noOverflow": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "examples": 3,
+      "keyboardSelection": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "examples": 3,
+      "keyboardSelection": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "examples": 3,
+      "keyboardSelection": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "examples": 3,
+      "keyboardSelection": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "examples": 3,
+      "keyboardSelection": true,
+      "noOverflow": true
+    }
+  ],
+  "readingList": [
+    "Empty initially",
+    "Keyboard save and remove",
+    "Persists across reload and article navigation",
+    "Synchronises between tabs",
+    "Saved/category/search filtering composes",
+    "Focus returns to saved filter after last removal",
+    "Storage-blocked feedback is truthful"
+  ],
+  "libraryViews": [
+    "Gallery and index",
+    "View preference persists",
+    "Index has no overflow at 1440, 820, 390 and 320px"
+  ],
+  "readingTools": [
+    "Copy success and failure using an isolated clipboard stub; system clipboard untouched",
+    "Exactly one current contents link during forward and reverse reading",
+    "Native contents disclosure starts collapsed on mobile and opens by user action"
+  ],
+  "fallbacks": [
+    "All three editing exercises and 113 library links visible without JavaScript",
+    "No inert reader or library controls without JavaScript",
+    "No perpetual idle animation",
+    "Reduced motion removes hover movement"
+  ],
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 57546,
+      "gzipBytes": 12274
+    },
+    {
+      "file": "script.js",
+      "bytes": 15481,
+      "gzipBytes": 5080
+    }
+  ],
+  "pageErrors": [],
+  "externalRequests": [],
+  "limitations": "Local Chromium interaction checks. Clipboard paths are stubbed; no hosted site, accounts, campaign results or real-user performance measured."
+}

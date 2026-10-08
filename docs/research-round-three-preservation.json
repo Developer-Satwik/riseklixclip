@@ -1,0 +1,131 @@
+{
+  "checkedAt": "2026-10-08T05:10:42.469285+00:00",
+  "baselineArchive": "/Users/satwikkumar/Documents/ChatGPT/riseklix app/reviews/riseklix-clipping-transparent-logo-local-2026-10-08.zip",
+  "baselineSha256": "b14ac7e148039abe2aa822e0bac21a06a462e372bc27d3429b2277736cbd2b81",
+  "previousArticles": 113,
+  "currentArticles": 119,
+  "preservedArticleBodiesAndMetadata": 113,
+  "changedArticleBodies": [],
+  "preservedRoutes": 124,
+  "addedRoutes": [
+    "blog/fashion-product-demo-clipping-size-fit-india.html",
+    "blog/influencer-sponsored-content-clipping-india.html",
+    "blog/restaurant-cafe-reels-clipping-campaign-india.html",
+    "guides/b2b-webinar-clipping-qualified-leads-india.html",
+    "guides/real-estate-walkthrough-clipping-india.html",
+    "guides/youtube-tutorial-clipping-shorts-india.html"
+  ],
+  "appendedContextualLinks": [
+    {
+      "from": "youtube-shorts-clipper-guide-india",
+      "slug": "youtube-tutorial-clipping-shorts-india",
+      "label": "selecting and demonstrating a learner task"
+    },
+    {
+      "from": "creator-clipping-brief-template-india",
+      "slug": "real-estate-walkthrough-clipping-india",
+      "label": "building a dated property fact sheet"
+    },
+    {
+      "from": "creator-clipping-vs-influencer-marketing-india",
+      "slug": "influencer-sponsored-content-clipping-india",
+      "label": "preserving creator voice and commercial context"
+    },
+    {
+      "from": "asci-disclosure-guide-paid-creator-clips-india",
+      "slug": "influencer-sponsored-content-clipping-india",
+      "label": "a sponsored-content approval and reuse worksheet"
+    },
+    {
+      "from": "clipping-campaigns-d2c-brands-creator-content",
+      "slug": "fashion-product-demo-clipping-size-fit-india",
+      "label": "answering clothing shoppers\u2019 product questions"
+    },
+    {
+      "from": "how-to-plan-a-creator-clipping-campaign-india",
+      "slug": "restaurant-cafe-reels-clipping-campaign-india",
+      "label": "a branch-specific restaurant visit campaign"
+    },
+    {
+      "from": "founder-led-brand-clipping-guide",
+      "slug": "b2b-webinar-clipping-qualified-leads-india",
+      "label": "a buyer-stage webinar clipping plan"
+    },
+    {
+      "from": "course-creator-clipping-campaigns",
+      "slug": "youtube-tutorial-clipping-shorts-india",
+      "label": "preserving a useful teaching moment"
+    },
+    {
+      "from": "disclosure-rules-for-paid-clips-india",
+      "slug": "influencer-sponsored-content-clipping-india",
+      "label": "reviewing disclosure after sponsored footage is recut"
+    },
+    {
+      "from": "brand-safety-checklist-for-clippers",
+      "slug": "real-estate-walkthrough-clipping-india",
+      "label": "property facts, source labels and advertising review"
+    },
+    {
+      "from": "first-campaign-scope-checklist-india",
+      "slug": "restaurant-cafe-reels-clipping-campaign-india",
+      "label": "a manageable local caf\u00e9 pilot"
+    },
+    {
+      "from": "clipping-for-saas-founders-india",
+      "slug": "b2b-webinar-clipping-qualified-leads-india",
+      "label": "buyer-specific demonstrations and sales handoff"
+    },
+    {
+      "from": "clipping-for-d2c-brands-india",
+      "slug": "fashion-product-demo-clipping-size-fit-india",
+      "label": "showing apparel size, fit and variant details"
+    },
+    {
+      "from": "clipping-for-webinars-india",
+      "slug": "b2b-webinar-clipping-qualified-leads-india",
+      "label": "connecting webinar answers to qualified enquiries"
+    },
+    {
+      "from": "clipping-for-youtube-channels-india",
+      "slug": "youtube-tutorial-clipping-shorts-india",
+      "label": "turning a tutorial into a complete short lesson"
+    },
+    {
+      "from": "is-video-clipping-legal-in-india",
+      "slug": "real-estate-walkthrough-clipping-india",
+      "label": "the specific review questions for a property walkthrough"
+    },
+    {
+      "from": "creator-owned-vs-participant-accounts-clipping",
+      "slug": "fashion-product-demo-clipping-size-fit-india",
+      "label": "variant evidence and source-use scope for fashion clips"
+    },
+    {
+      "from": "clipping-campaign-landing-page-checklist",
+      "slug": "restaurant-cafe-reels-clipping-campaign-india",
+      "label": "menu, directions and booking routes for a food business"
+    }
+  ],
+  "unchangedEditorialSourceFiles": 71,
+  "changedExistingEditorialSourceFiles": [
+    "src/editorial/researched/index.cjs"
+  ],
+  "changedSourcePurpose": "Include the third researched cohort in the aggregate index",
+  "unchangedPublicAssetFiles": 29,
+  "unchangedSharedFiles": [
+    "src/styles.css",
+    "public/styles.css",
+    "public/script.js",
+    "public/quick-search.js",
+    "public/studio-frame.js",
+    "src/contact.cjs",
+    "src/contact.css",
+    "public/contact.css",
+    "public/campaign-enquiry.js",
+    "server/campaign-enquiry.mjs"
+  ],
+  "officialLogoOriginalPreserved": true,
+  "localOnly": true,
+  "limitations": "Content and file integrity comparison; not a field-speed, ranking or citation measurement."
+}

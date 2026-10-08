@@ -1,0 +1,161 @@
+{
+  "checkedAt": "2026-10-08T03:22:21.286Z",
+  "samples": [
+    {
+      "slug": "creator-clipping-india-operating-manual-2026",
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "toc": {
+        "top": 35.125,
+        "bottom": 585.125,
+        "height": 550,
+        "scrollHeight": 850,
+        "viewport": 600,
+        "overflow": "auto"
+      },
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "tableNavigation": "Focusable, named, and scrollable where needed",
+      "faq": "Native disclosure opens"
+    },
+    {
+      "slug": "riseklix-vs-clipping-net-india",
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "height": 550,
+        "scrollHeight": 768,
+        "viewport": 600,
+        "overflow": "auto"
+      },
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "tableNavigation": "Focusable, named, and scrollable where needed",
+      "faq": "Native disclosure opens"
+    },
+    {
+      "slug": "hinglish-clipping-guide",
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "height": 550,
+        "scrollHeight": 736,
+        "viewport": 600,
+        "overflow": "auto"
+      },
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "tableNavigation": "Focusable, named, and scrollable where needed",
+      "faq": "Native disclosure opens"
+    },
+    {
+      "slug": "how-to-track-clipping-roi",
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "height": 550,
+        "scrollHeight": 782,
+        "viewport": 600,
+        "overflow": "auto"
+      },
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "tableNavigation": "Focusable, named, and scrollable where needed",
+      "faq": "Native disclosure opens"
+    },
+    {
+      "slug": "what-is-a-clipper",
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "height": 550,
+        "scrollHeight": 718,
+        "viewport": 600,
+        "overflow": "auto"
+      },
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "tableNavigation": "Focusable, named, and scrollable where needed",
+      "faq": "Native disclosure opens"
+    },
+    {
+      "slug": "ai-tools-for-clipping-workflows",
+      "desktopViewport": [
+        1440,
+        600
+      ],
+      "toc": {
+        "top": 35.140625,
+        "bottom": 585.140625,
+        "height": 550,
+        "scrollHeight": 736,
+        "viewport": 600,
+        "overflow": "auto"
+      },
+      "mobileViewport": [
+        320,
+        800
+      ],
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "tableNavigation": "Focusable, named, and scrollable where needed",
+      "faq": "Native disclosure opens"
+    }
+  ],
+  "clipperAction": {
+    "guide": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html",
+    "discord": "https://discord.gg/skQk3xZcRa",
+    "externalRequestIntercepted": true
+  },
+  "limitations": "Representative long-form layout and interaction checks. Full route and metadata checks are in verification.json."
+}

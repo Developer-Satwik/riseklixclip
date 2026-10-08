@@ -1,0 +1,123 @@
+{
+  "checkedAt": "2026-10-08T05:10:16.441Z",
+  "framing": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "formats": 3,
+      "keyboardFocalPoint": true,
+      "guideAndReset": true,
+      "stageHeightStable": true,
+      "noOverflow": true
+    }
+  ],
+  "search": [
+    "Lazy code and data",
+    "Real index of all 119 resources",
+    "Keyboard open, result browsing, focus trap and restored opener",
+    "Text and collection search",
+    "Empty state",
+    "One index fetch per document",
+    "Full-library deep links preserve filters",
+    "Failed index request and retry",
+    "Fits 390/320 × 600"
+  ],
+  "fallbacks": [
+    "Static framing study and reference link without JavaScript",
+    "Search trigger hidden without JavaScript",
+    "No open dialog without JavaScript"
+  ],
+  "assets": [
+    {
+      "file": "styles.css",
+      "bytes": 58279,
+      "gzipEstimateBytes": 12431
+    },
+    {
+      "file": "script.js",
+      "bytes": 15481,
+      "gzipEstimateBytes": 5080
+    },
+    {
+      "file": "studio-frame.js",
+      "bytes": 2211,
+      "gzipEstimateBytes": 887
+    },
+    {
+      "file": "quick-search.js",
+      "bytes": 4678,
+      "gzipEstimateBytes": 1914
+    },
+    {
+      "file": "search-index.json",
+      "bytes": 33438,
+      "gzipEstimateBytes": 9062
+    }
+  ],
+  "pageErrors": [],
+  "externalRequests": [],
+  "limitations": "Local Chromium checks; no campaign media, hosted publication, analytics, or real-user speed claim."
+}

@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-08T04:32:42.619Z",
+  "checks": [
+    "Server-side required, length, type and URL validation",
+    "Fixed sender/recipient, visitor Reply-To, escaped HTML and text email",
+    "Provider acceptance is separate from delivery",
+    "Stable retry key; changed payload gets a different key",
+    "Missing key, provider failure, malformed response and simulated timeout",
+    "Origin/method/content type/body size/honeypot guards",
+    "Per-instance five-attempt rate limit",
+    "No-JavaScript failure keeps editable answers; success receipt",
+    "No secret or provider error in public response"
+  ],
+  "providerCallsMocked": true,
+  "liveEmailsSent": 0,
+  "limitations": "Resend account/domain, receiving mailbox, production function and actual delivery are unverified."
+}

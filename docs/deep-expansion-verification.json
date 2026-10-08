@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-07T10:13:45.054Z",
+  "articles": 93,
+  "secondDepthRevisions": 93,
+  "addedReadingWords": 51349,
+  "currentReadingWords": {
+    "min": 1163,
+    "max": 1968,
+    "total": 130278
+  },
+  "bodyParagraphDuplicates": 0,
+  "allPageBrowserChecks": {
+    "pages": 104,
+    "articlesWithRenderedDepthChecks": 93,
+    "widths": [
+      1440,
+      390,
+      320
+    ],
+    "issues": [],
+    "pageErrors": [],
+    "failedRequests": []
+  },
+  "longform": {
+    "samples": 6,
+    "laptop": [
+      1440,
+      600
+    ],
+    "phone": [
+      320,
+      800
+    ],
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "clipperAction": {
+      "guide": "http://127.0.0.1:8770/guides/how-to-become-a-clipper-india.html",
+      "discord": "https://discord.gg/skQk3xZcRa",
+      "externalRequestIntercepted": true
+    }
+  },
+  "sampledContrastReport": "accessibility-performance.json",
+  "manualVisualReview": [
+    "Hinglish caption exercise at 320px in dark mode",
+    "ROI worksheet at 320px in light mode",
+    "Operating manual and scrollable contents at 1440×600"
+  ],
+  "scope": "Local source and static preview only. No push, publication or deployment.",
+  "limits": "Representative contrast and layout checks are not complete WCAG certification or field Core Web Vitals. Search rankings and AI citations are not measured by these checks."
+}
