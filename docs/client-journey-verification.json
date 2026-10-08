@@ -1,0 +1,204 @@
+{
+  "checkedAt": "2026-10-08T11:04:06.745Z",
+  "story": "Client discovers the managed campaign scope → explores a relevant example → starts an empty enquiry → submits their own answers → receives an accurately worded mocked receipt.",
+  "layouts": [
+    {
+      "page": "home",
+      "width": 1440,
+      "theme": "light",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 1440,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "theme": "dark",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 1440,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 820,
+      "theme": "light",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 820,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 820,
+      "theme": "dark",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 820,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "theme": "light",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 390,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "theme": "dark",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 390,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "theme": "light",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 320,
+      "theme": "light",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "theme": "dark",
+      "noOverflow": true,
+      "keyboardChoices": true,
+      "clipperEntryRetained": true
+    },
+    {
+      "page": "contact",
+      "width": 320,
+      "theme": "dark",
+      "noOverflow": true,
+      "optionalKeyboardHelp": true,
+      "ownAnswerRetained": true,
+      "requiredFields": 3
+    }
+  ],
+  "contrasts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "minimum": 5.891112859250251
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "minimum": 7.137277943360697
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "minimum": 5.891112859250251
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "minimum": 7.137277943360697
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "minimum": 5.891112859250251
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "minimum": 7.137277943360697
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "minimum": 5.891112859250251
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "minimum": 7.137277943360697
+    }
+  ],
+  "checks": [
+    "Homepage chapter and keyboard focus",
+    "Native named examples with keyboard and touch",
+    "Examples never prefill or replace a visitor answer",
+    "Three required enquiry fields and no selected budget",
+    "Mocked request carries only visitor answers",
+    "How-it-works main navigation and current location",
+    "No-script examples, guide discovery and enquiry help",
+    "Forced-color focus",
+    "119 complete article objects, 130 routes and existing core assets unchanged"
+  ],
+  "additionalJavaScriptBytes": 0,
+  "homeOnlyCss": {
+    "bytes": 3480,
+    "gzipBytes": 1040
+  },
+  "liveEmailsSent": 0,
+  "pageErrors": [],
+  "externalRequests": [],
+  "limitations": "Local Chrome checks; no real email delivery, conversion study, search ranking or citation measurement."
+}

@@ -1,0 +1,964 @@
+{
+  "checkedAt": "2026-10-08T11:05:13.017Z",
+  "conditions": {
+    "viewport": [
+      390,
+      844
+    ],
+    "cpuSlowdown": 1,
+    "downloadBitsPerSecond": 1600000,
+    "latencyMs": 150,
+    "coldCache": true,
+    "runsPerVersionPerRoute": 3,
+    "order": "Interleaved; order reversed on the middle run",
+    "server": "Both snapshots served from memory on localhost; avoids changing filesystem/cloud-sync I/O during requests"
+  },
+  "sourceHashes": [
+    {
+      "version": "baseline",
+      "css": "5133251798b36052101426011aea4bd378a96b0fe87bb8ef5603e97242eab381",
+      "script": "64c2aa08529768b3f88a95790f7bfdf68153c2da34601f7df36a5a06d9e734e5",
+      "html": [
+        {
+          "route": "/",
+          "sha256": "cba3d479cfa09f92e8c9a9f2b07e7ea51ee4fca5b88ae9b8f8bf6f9cf79fe30e"
+        },
+        {
+          "route": "/contact/",
+          "sha256": "dea97732a349250edac2ecca20b78166b5351e3e9918f0eec33a5639f820406f"
+        }
+      ]
+    },
+    {
+      "version": "current",
+      "css": "5133251798b36052101426011aea4bd378a96b0fe87bb8ef5603e97242eab381",
+      "script": "64c2aa08529768b3f88a95790f7bfdf68153c2da34601f7df36a5a06d9e734e5",
+      "html": [
+        {
+          "route": "/",
+          "sha256": "9ae4aea16694b3b0effc1c116768785484368d7a2e09abe5e70cf145cd90ca44"
+        },
+        {
+          "route": "/contact/",
+          "sha256": "12cd264e6b538452bd57d219691b8d6ecc09723d935d2189f6d5ddb4e6e026b7"
+        }
+      ]
+    }
+  ],
+  "summaries": [
+    {
+      "route": "/",
+      "baseline": {
+        "lcpMs": 1592,
+        "lcpRangeMs": [
+          1556,
+          1596
+        ],
+        "cls": 0,
+        "loadMs": 1647.5,
+        "resourceBytes": 231940,
+        "fontBytes": 76760
+      },
+      "current": {
+        "lcpMs": 1628,
+        "lcpRangeMs": [
+          1624,
+          1628
+        ],
+        "cls": 0,
+        "loadMs": 1679,
+        "resourceBytes": 235420,
+        "fontBytes": 76760
+      }
+    },
+    {
+      "route": "/contact/",
+      "baseline": {
+        "lcpMs": 1296,
+        "lcpRangeMs": [
+          1296,
+          1304
+        ],
+        "cls": 0,
+        "loadMs": 1401.3999998569489,
+        "resourceBytes": 194348,
+        "fontBytes": 76760
+      },
+      "current": {
+        "lcpMs": 1300,
+        "lcpRangeMs": [
+          1300,
+          1300
+        ],
+        "cls": 0,
+        "loadMs": 1402.4000000953674,
+        "resourceBytes": 195105,
+        "fontBytes": 76760
+      }
+    }
+  ],
+  "samples": [
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1556,
+        "cls": 0.00004691295745482253,
+        "longTasks": [
+          61
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1647.5,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1628,
+        "cls": 0,
+        "longTasks": [
+          86
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1678.6000001430511,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/campaign-desk.css?v=1",
+          "transferSize": 3780,
+          "decodedBodySize": 3480
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1628,
+        "cls": 0,
+        "longTasks": [
+          87
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1686.9000000953674,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/campaign-desk.css?v=1",
+          "transferSize": 3780,
+          "decodedBodySize": 3480
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1596,
+        "cls": 0,
+        "longTasks": [
+          84
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1657,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1592,
+        "cls": 0,
+        "longTasks": [
+          78
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1647.5,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1624,
+        "cls": 0,
+        "longTasks": [
+          84
+        ],
+        "lcpElement": {
+          "tag": "IMG",
+          "classes": "",
+          "image": "/assets/story-collage-v3-640.avif"
+        }
+      },
+      "loadMs": 1679,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/scroll-ui.css?v=1",
+          "transferSize": 5662,
+          "decodedBodySize": 5362
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/clipper-entry.css?v=1",
+          "transferSize": 3580,
+          "decodedBodySize": 3280
+        },
+        {
+          "name": "/scroll-ui.js?v=1",
+          "transferSize": 4066,
+          "decodedBodySize": 3766
+        },
+        {
+          "name": "/campaign-desk.css?v=1",
+          "transferSize": 3780,
+          "decodedBodySize": 3480
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/assets/story-collage-v3-640.avif",
+          "transferSize": 38727,
+          "decodedBodySize": 38427
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/contact/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1304,
+        "cls": 0,
+        "longTasks": [
+          77
+        ],
+        "lcpElement": {
+          "tag": "P",
+          "classes": "lead"
+        }
+      },
+      "loadMs": 1409.2000000476837,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/contact.css?v=clipper-entry-1",
+          "transferSize": 7957,
+          "decodedBodySize": 7657
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/campaign-enquiry.js?v=wording-1",
+          "transferSize": 5886,
+          "decodedBodySize": 5586
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/contact/",
+      "run": 1,
+      "metrics": {
+        "lcp": 1300,
+        "cls": 0,
+        "longTasks": [
+          77
+        ],
+        "lcpElement": {
+          "tag": "P",
+          "classes": "lead"
+        }
+      },
+      "loadMs": 1402.4000000953674,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/contact.css?v=journey-1",
+          "transferSize": 8714,
+          "decodedBodySize": 8414
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/campaign-enquiry.js?v=wording-1",
+          "transferSize": 5886,
+          "decodedBodySize": 5586
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/contact/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1300,
+        "cls": 0,
+        "longTasks": [
+          77
+        ],
+        "lcpElement": {
+          "tag": "P",
+          "classes": "lead"
+        }
+      },
+      "loadMs": 1402.6999998092651,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/contact.css?v=journey-1",
+          "transferSize": 8714,
+          "decodedBodySize": 8414
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/campaign-enquiry.js?v=wording-1",
+          "transferSize": 5886,
+          "decodedBodySize": 5586
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/contact/",
+      "run": 2,
+      "metrics": {
+        "lcp": 1296,
+        "cls": 0,
+        "longTasks": [
+          75
+        ],
+        "lcpElement": {
+          "tag": "P",
+          "classes": "lead"
+        }
+      },
+      "loadMs": 1401.3999998569489,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/contact.css?v=clipper-entry-1",
+          "transferSize": 7957,
+          "decodedBodySize": 7657
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/campaign-enquiry.js?v=wording-1",
+          "transferSize": 5886,
+          "decodedBodySize": 5586
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "baseline",
+      "route": "/contact/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1296,
+        "cls": 0,
+        "longTasks": [
+          78
+        ],
+        "lcpElement": {
+          "tag": "P",
+          "classes": "lead"
+        }
+      },
+      "loadMs": 1401,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/contact.css?v=clipper-entry-1",
+          "transferSize": 7957,
+          "decodedBodySize": 7657
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/campaign-enquiry.js?v=wording-1",
+          "transferSize": 5886,
+          "decodedBodySize": 5586
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    },
+    {
+      "version": "current",
+      "route": "/contact/",
+      "run": 3,
+      "metrics": {
+        "lcp": 1300,
+        "cls": 0,
+        "longTasks": [
+          78
+        ],
+        "lcpElement": {
+          "tag": "P",
+          "classes": "lead"
+        }
+      },
+      "loadMs": 1401.8999998569489,
+      "resources": [
+        {
+          "name": "/assets/fonts/Inter-latin-variable.woff2",
+          "transferSize": 73220,
+          "decodedBodySize": 72920
+        },
+        {
+          "name": "/styles.css?v=theme-2",
+          "transferSize": 59957,
+          "decodedBodySize": 59657
+        },
+        {
+          "name": "/contact.css?v=journey-1",
+          "transferSize": 8714,
+          "decodedBodySize": 8414
+        },
+        {
+          "name": "/button-ui.css?v=wording-1",
+          "transferSize": 13213,
+          "decodedBodySize": 12913
+        },
+        {
+          "name": "/script.js?v=wording-1",
+          "transferSize": 14937,
+          "decodedBodySize": 14637
+        },
+        {
+          "name": "/assets/riseklix-mark.png",
+          "transferSize": 15915,
+          "decodedBodySize": 15615
+        },
+        {
+          "name": "/campaign-enquiry.js?v=wording-1",
+          "transferSize": 5886,
+          "decodedBodySize": 5586
+        },
+        {
+          "name": "/assets/fonts/Inter-symbols-variable.woff2",
+          "transferSize": 4140,
+          "decodedBodySize": 3840
+        },
+        {
+          "name": "/assets/riseklix-icon-32.png",
+          "transferSize": 1823,
+          "decodedBodySize": 1523
+        }
+      ],
+      "externalRequests": []
+    }
+  ],
+  "limitations": "Controlled local Chrome comparison under background machine load; not field Core Web Vitals or real-user INP. Configurable CPU slowdown; default 1x. Decoded resource sizes are not compressed network payloads."
+}

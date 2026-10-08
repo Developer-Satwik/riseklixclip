@@ -1,0 +1,381 @@
+{
+  "checkedAt": "2026-10-08T11:07:51.021Z",
+  "layouts": [
+    {
+      "width": 1600,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 48,
+          "right": 144.765625,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "NAV",
+          "class": "",
+          "left": 701.1875,
+          "right": 1211.5,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 1231.5,
+          "right": 1403,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 1423,
+          "right": 1467,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 1487,
+          "right": 1552,
+          "top": 20.5,
+          "bottom": 64.5
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 48,
+          "right": 144.765625,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "NAV",
+          "class": "",
+          "left": 541.1875,
+          "right": 1051.5,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 1071.5,
+          "right": 1243,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 1263,
+          "right": 1307,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 1327,
+          "right": 1392,
+          "top": 20.5,
+          "bottom": 64.5
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 48,
+          "right": 144.765625,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "NAV",
+          "class": "",
+          "left": 381.1875,
+          "right": 891.5,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 911.5,
+          "right": 1083,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 1103,
+          "right": 1147,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 1167,
+          "right": 1232,
+          "top": 20.5,
+          "bottom": 64.5
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 1200,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 48,
+          "right": 144.765625,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "NAV",
+          "class": "",
+          "left": 301.1875,
+          "right": 811.5,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 831.5,
+          "right": 1003,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 1023,
+          "right": 1067,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 1087,
+          "right": 1152,
+          "top": 20.5,
+          "bottom": 64.5
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 1101,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 48,
+          "right": 144.765625,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "NAV",
+          "class": "",
+          "left": 202.1875,
+          "right": 712.5,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 732.5,
+          "right": 904,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 924,
+          "right": 968,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 988,
+          "right": 1053,
+          "top": 20.5,
+          "bottom": 64.5
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 1100,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 28,
+          "right": 124.765625,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "menu-toggle",
+          "left": 659.53125,
+          "right": 743.5,
+          "top": 19.78125,
+          "bottom": 65.21875
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 759.5,
+          "right": 931,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 947,
+          "right": 991,
+          "top": 20.5,
+          "bottom": 64.5
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 1007,
+          "right": 1072,
+          "top": 20.5,
+          "bottom": 64.5
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 14,
+          "right": 102.28125,
+          "top": 14,
+          "bottom": 54
+        },
+        {
+          "tag": "BUTTON",
+          "class": "menu-toggle",
+          "left": 192.03125,
+          "right": 261,
+          "top": 12,
+          "bottom": 56
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 14,
+          "right": 376,
+          "top": 66,
+          "bottom": 110
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 266,
+          "right": 310,
+          "top": 12,
+          "bottom": 56
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 315,
+          "right": 376,
+          "top": 12,
+          "bottom": 56
+        }
+      ],
+      "overlaps": []
+    },
+    {
+      "width": 320,
+      "overflow": false,
+      "boxes": [
+        {
+          "tag": "A",
+          "class": "brand",
+          "left": 14,
+          "right": 102.28125,
+          "top": 14,
+          "bottom": 54
+        },
+        {
+          "tag": "BUTTON",
+          "class": "menu-toggle",
+          "left": 122.03125,
+          "right": 191,
+          "top": 12,
+          "bottom": 56
+        },
+        {
+          "tag": "A",
+          "class": "clipper-nav discord-button",
+          "left": 14,
+          "right": 306,
+          "top": 66,
+          "bottom": 110
+        },
+        {
+          "tag": "BUTTON",
+          "class": "search-trigger",
+          "left": 196,
+          "right": 240,
+          "top": 12,
+          "bottom": 56
+        },
+        {
+          "tag": "LABEL",
+          "class": "theme-label",
+          "left": 245,
+          "right": 306,
+          "top": 12,
+          "bottom": 56
+        }
+      ],
+      "overlaps": []
+    }
+  ]
+}

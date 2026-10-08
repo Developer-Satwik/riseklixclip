@@ -1,0 +1,490 @@
+{
+  "commit": "e8ef7c353e532487c549a5a029315eac3ca75950",
+  "articleHashes": [
+    {
+      "slug": "riseklix-vs-clipping-net-india",
+      "sha256": "aed542317fff6697720e95c1d6f1347818003fbfb1a12e285664a57a75bdf74c"
+    },
+    {
+      "slug": "riseklix-vs-whop-clips-india",
+      "sha256": "732743f8febf1e2a030b418e92271f2e34f8e55334f769bdf9754e0714361b2c"
+    },
+    {
+      "slug": "riseklix-vs-vyro-india",
+      "sha256": "8f8801e65a5f542746cd7e02e73eebfd727609c7f57a5ff1a57a132a935bf3bb"
+    },
+    {
+      "slug": "riseklix-vs-makeclout-india",
+      "sha256": "95db5d9e1c646e86f417fb5b3a52ad0cefdccfd2cffa80931da585fe10d619a6"
+    },
+    {
+      "slug": "best-clipping-platforms-india",
+      "sha256": "475aec525dde1a909403a26c949c8eae8a40b2a68372b6fabf77ee84f02e746c"
+    },
+    {
+      "slug": "clipconnect-india-alternative",
+      "sha256": "ad74a3eb79e08f68f24d56a0936dc6b6a046a6efbe8b367b50b389b8f28903b4"
+    },
+    {
+      "slug": "creator-clipping-agency-vs-clipping-marketplace",
+      "sha256": "a7384ada73759a3039ecd5cce1f537197da0037811e125457bebc73886d1752f"
+    },
+    {
+      "slug": "discord-clipping-network-vs-saas-clipping-platform",
+      "sha256": "db56e2a4a8bde00f86fb3881de78b6590467d6166908c16c60e185fd56ef66ec"
+    },
+    {
+      "slug": "managed-clipping-campaign-vs-hiring-freelance-editors",
+      "sha256": "5610464a6449662d0bb2101f9ac85a22933d2a9f57f960431d0b59101274118a"
+    },
+    {
+      "slug": "riseklix-vs-traditional-social-media-agency",
+      "sha256": "03538012d659d5a27124fcb40803ce31d7ede45c6a19abe9301112c1ff711243"
+    },
+    {
+      "slug": "riseklix-vs-influencer-marketing-agency-india",
+      "sha256": "d546cf45d312cb683fd24779ecf96a868b3962bbd4b65dd1ff368cd49a8172c1"
+    },
+    {
+      "slug": "how-to-become-a-clipper-india",
+      "sha256": "9835cd8ba3867a5eb08f1906f0f4259fa4faebe8a8397aeba0b37819e5d624a7"
+    },
+    {
+      "slug": "how-much-do-clippers-make-india",
+      "sha256": "4ab563676cf596698e38300f7774a60ab3cf39a4661f66c44de0c8042a430cce"
+    },
+    {
+      "slug": "clipping-side-hustle-india",
+      "sha256": "d0829a356f54e6c2e0b232be744d340f81b05d9bf5535d6e8705bc1be4940b87"
+    },
+    {
+      "slug": "freelance-clipper-guide-india",
+      "sha256": "6cb9cd861457bdfa099ec7e974ba12d7b716d8ca60d660c33e6fca96a0930310"
+    },
+    {
+      "slug": "remote-clipping-jobs-india",
+      "sha256": "23b2666eb7eec2cf5b7b19f0938decc00a0e9d8a24a0f529b7a30694fe0b022a"
+    },
+    {
+      "slug": "best-editing-tools-for-clippers-india",
+      "sha256": "5e51ec399dbd2cfefd39f0090dfaf4f1b2c6a3a89dc004c794951119be89273c"
+    },
+    {
+      "slug": "creator-clipping-campaign-guide-india",
+      "sha256": "10b050f1304b67a09fdbc8850b576ad9fc213005540f1778ea05364ec4d5c0bf"
+    },
+    {
+      "slug": "creator-content-library-guide-india",
+      "sha256": "4a27e616d834639ece7c9afa4a8c3453b72a73d76864cc7880f77c894156e3b8"
+    },
+    {
+      "slug": "tiktok-clipper-guide-india",
+      "sha256": "8016b9e4aa7ee39608d6822d0f1501366f785991c364235cb32bb3b89f1fb2ee"
+    },
+    {
+      "slug": "youtube-shorts-clipper-guide-india",
+      "sha256": "91afcaee0438326686b48e966e473ca3cbf2e2b6b6a2035a18e71c53c7658773"
+    },
+    {
+      "slug": "instagram-reels-clipper-guide-india",
+      "sha256": "83954af3f84e072735c41c59916ae7a2921b0d9296f94f58f2a8a614809f202f"
+    },
+    {
+      "slug": "x-twitter-clipper-guide-india",
+      "sha256": "0d548e5b4d1a154a8505be31f64f738853d4a3565c5998011aed28e2027ef47f"
+    },
+    {
+      "slug": "podcast-clipping-guide-india",
+      "sha256": "b066c1131ff47cd311c7153e80c2f1aeb0b4ab4a3e5c6acb4a64a0f63c9c639b"
+    },
+    {
+      "slug": "stream-clipper-guide-india",
+      "sha256": "9f8cb29f51312b642f65e7b549fe2b0f12c691f642f5e8b93c00276a903e1fef"
+    },
+    {
+      "slug": "creator-clipping-india-operating-manual-2026",
+      "sha256": "c020bd524d40e094419b84823b8f7a9edb285039420e421df7094b0cae424766"
+    },
+    {
+      "slug": "creator-clipping-campaign-roi-calculator-india",
+      "sha256": "b1f0d6c5349b3574e42a5a4ba1b5eccedbd8d180d4f39fe590aeca4a863d5a78"
+    },
+    {
+      "slug": "creator-clipping-brief-template-india",
+      "sha256": "a5ac1fa9d8e25e411b4fb03ac6368cb6bacba4ca6ff4907ac78b4231c6cf4196"
+    },
+    {
+      "slug": "how-riseklix-verifies-clip-views-public-links",
+      "sha256": "1d90d0bd80fa7876f3c9c25fa8cc2eccbde4ab89310c325ea23fa96cac59a284"
+    },
+    {
+      "slug": "discord-clipping-server-setup-advanced-operator-guide",
+      "sha256": "1ee7c895f013efdcab63f2dc4fdc7f174f0a59ef0daff2aae1a51ce20d4ebb7f"
+    },
+    {
+      "slug": "clipper-verification-checklist-india",
+      "sha256": "5a1d030c4d44cc24243ec865a1e6161cdda1126ccac3018eda874d8d51502b45"
+    },
+    {
+      "slug": "creator-clipping-vs-influencer-marketing-india",
+      "sha256": "fe20ef877ee21853923631104c9e18af0da558e3618cc192c5f9ff81aa170a71"
+    },
+    {
+      "slug": "creator-clipping-vs-paid-ads-india",
+      "sha256": "8d7472ab5c10f13b500e6610ab2ce7ee8f7cee489aa2aa5b5716a4d7bd2d22a2"
+    },
+    {
+      "slug": "prevent-fake-views-clipping-campaigns",
+      "sha256": "375a5e1f3c4dc92e54990e2fe937f817c6d9bbc311196c6381a3d42d53b55ea2"
+    },
+    {
+      "slug": "asci-disclosure-guide-paid-creator-clips-india",
+      "sha256": "5f5c5c984809ec93f637ae907eeadca4b25cc796dda92fd3c0e47ba4797654da"
+    },
+    {
+      "slug": "instagram-insights-clipping-campaigns-india",
+      "sha256": "3466bfa7809d6cb3204ba1f9bad401aeb87d8816176774eb231fdb9879fa77a5"
+    },
+    {
+      "slug": "youtube-shorts-analytics-clipping-campaigns-india",
+      "sha256": "1d19aa7f6c78399317d1a0ea4d4dda36625c87cd0c2c13e97cad7be61776bd11"
+    },
+    {
+      "slug": "clipping-campaigns-for-indian-podcasters",
+      "sha256": "df51e098cdbc42f7840a39f4098207129eb54f70c00231f4e2fabcc76502721c"
+    },
+    {
+      "slug": "clipping-campaigns-finance-creators-india",
+      "sha256": "e7264a29db275d0e14dddb8821a030142400eef8386404f90ad51710d88d1787"
+    },
+    {
+      "slug": "clipping-campaigns-course-creators-coaches",
+      "sha256": "22ec8eee22603baec64a6ee0cee56bb8db6066bca70fcb98bb25e0b1ee91136c"
+    },
+    {
+      "slug": "clipping-campaigns-saas-founders-india",
+      "sha256": "fd0aac10cdbbdc7092f10b1d2c3600f027002b38e77e1f2ffa3f331addad7c20"
+    },
+    {
+      "slug": "clipping-campaigns-music-artists-drops",
+      "sha256": "562375aa1a7bb3e9315c4da9cfc2a7ec21661166333ab2ebfe09b7195bf00f7a"
+    },
+    {
+      "slug": "clipping-campaigns-d2c-brands-creator-content",
+      "sha256": "be123887547beb768643529155d182f0ad2ef2c3a3d9a78113add9a28cd842ac"
+    },
+    {
+      "slug": "clipping-campaigns-events-summits-webinars",
+      "sha256": "42b846293f9ed7e5fe891f777787b4ee7f960e370276850967f9819b3c730136"
+    },
+    {
+      "slug": "clipping-campaigns-gaming-streamers-india",
+      "sha256": "cd088f3cbe42b18350f31cf54235a81986a7cd96ae93f6e56c3a4605eda74320"
+    },
+    {
+      "slug": "what-is-a-clipping-campaign",
+      "sha256": "6a23ed7989cbede9e2555f9968895ad4273772ac664c21a095df1155dc42f455"
+    },
+    {
+      "slug": "what-is-a-clipper",
+      "sha256": "f966bd656e07c190f3035823e1f2cd2e81c21e8c3dd53757bed03dce496b5afd"
+    },
+    {
+      "slug": "what-is-a-creator-performance-network",
+      "sha256": "10972f2235d906b7fb0b085f00534c2771770583189a9a8d78589e7a276cf4e5"
+    },
+    {
+      "slug": "how-do-clipping-campaigns-pay-talent",
+      "sha256": "159a2012837e8214c47a4dc9115df1506f4b79f110e82c5a2f99c55958accc28"
+    },
+    {
+      "slug": "how-many-clips-should-a-creator-campaign-start-with",
+      "sha256": "54ff997d9025f488762d6ca527db0a8ebe4ddb4bf429288a7131283a2ec1f47b"
+    },
+    {
+      "slug": "what-counts-as-an-approved-clip",
+      "sha256": "1396c9b11314cdcbd8ee4e64d29436da273adcbee5ecac4ce8d9e640b7454d83"
+    },
+    {
+      "slug": "good-clip-submission-format",
+      "sha256": "a5a9912f16b250958136ca9bd1d665b0c6b7450b3f9c9499389936d4b2b7a26c"
+    },
+    {
+      "slug": "how-long-should-short-form-clip-be-india",
+      "sha256": "21404b09deb2cf15ea592962723678ed006a538611570700e8384cb0ed9acca7"
+    },
+    {
+      "slug": "what-is-a-clipping-network-india",
+      "sha256": "c432785610a48047bfda6e67d28f9720ccab54e332c849efb05bc6ee482e3adb"
+    },
+    {
+      "slug": "how-riseklix-is-building-indias-clipper-layer",
+      "sha256": "dc5293bb885f263f0f294bb2a0adae72867ccb214fcec647b1e85959a3b161df"
+    },
+    {
+      "slug": "best-clipping-platforms-for-indian-creators",
+      "sha256": "3c1d43dac56cc396f345243031edd792f7e82de537257f02bbb724e08f9708f1"
+    },
+    {
+      "slug": "clipping-net-alternative-india",
+      "sha256": "6a0d7266118a6405754f3fb1fda021bdc7fb28bd90f37e38aa930f7445ae3ec9"
+    },
+    {
+      "slug": "whop-clips-alternative-india",
+      "sha256": "cbdb262da3596779a935d72b0282ee190d4b293b975df7aabfb45f34ef07f1a1"
+    },
+    {
+      "slug": "vyro-alternative-indian-campaigns",
+      "sha256": "26a07160fb9dbc7fe138905d3ca154f2616bed782e08854881baae86aaeb5eaa"
+    },
+    {
+      "slug": "makeclout-alternative-india",
+      "sha256": "b64173734bfd6f1f4ae53f334c6e9031ca42b20edee8adcb04ba664268d882c7"
+    },
+    {
+      "slug": "how-to-plan-a-creator-clipping-campaign-india",
+      "sha256": "fae7af5ea609cadfaedad02bcea4835c77644fcf6ccd9aff118e021a0f32c4c3"
+    },
+    {
+      "slug": "how-much-do-indian-clippers-earn",
+      "sha256": "b00319d2637c0c7b85adbf71db0ab6a9b682580ce8f7d9196be7f96a5eedc9bf"
+    },
+    {
+      "slug": "upi-payouts-for-clipper-campaigns",
+      "sha256": "dd8eee22b686a536781f4830cc3ba9a068d5e98d9920b7b41e5634c7e0030d87"
+    },
+    {
+      "slug": "discord-server-setup-for-clipping",
+      "sha256": "725b14eff869bf7cd49fa34f33e7defa13f1cf87383d02c6369eca27ae87cf1b"
+    },
+    {
+      "slug": "clipper-rules-template-india",
+      "sha256": "17d72545928e84fb3d0e95b7c689e98809b7f58a0498ec99bd35df54ceaf28d5"
+    },
+    {
+      "slug": "youtube-shorts-clipping-for-podcasts",
+      "sha256": "9508a78e1fb824bea75914ed93641a2122e4cde01eefb45514232df3c9b2ece8"
+    },
+    {
+      "slug": "instagram-reels-clipping-for-coaches",
+      "sha256": "a663eefa54c0961207d6c13e7d9a557191e516abb7645dd4e9c66615bc4afaf8"
+    },
+    {
+      "slug": "founder-led-brand-clipping-guide",
+      "sha256": "ab44563989a9533ff4a464ddc2078ec6e943dda747db8bbe3be4fa3d5570b21c"
+    },
+    {
+      "slug": "music-artist-clipping-campaigns-india",
+      "sha256": "66bcdf7885e80bf8b06b455e0517513b77f1c0e02e6faf0764669853991eb4a9"
+    },
+    {
+      "slug": "course-creator-clipping-campaigns",
+      "sha256": "eb52c93ef497b45bd7e721db7c56c0d65b1dc60530751b5a5d6900b43020282a"
+    },
+    {
+      "slug": "event-clipping-guide-india",
+      "sha256": "2eb602277dd49b54816a86abee8e64212263dc7d6e0713782e000f6dfe550c6f"
+    },
+    {
+      "slug": "podcast-clip-hooks-that-work-in-india",
+      "sha256": "7a11604ece82b519a35752a5282f74828709293dd41c55013b83210507610cb7"
+    },
+    {
+      "slug": "hinglish-clipping-guide",
+      "sha256": "d903f02a8d8964d3faf7cf57ff821292da39bc818a324893cb67c0fbb7c22d6b"
+    },
+    {
+      "slug": "regional-language-clipping-india",
+      "sha256": "ff187d8897940077db3d57990662b4a46fb03386f3839bf9cfb112ee63e767f0"
+    },
+    {
+      "slug": "clipper-portfolio-guide-india",
+      "sha256": "c02dd9d07f7f5733be6e9ce3922c1d7a5748a23de46ae6e1fc7507107765c832"
+    },
+    {
+      "slug": "best-free-tools-for-clippers-india",
+      "sha256": "d827781bd2069a92f4e00c86a8e0eb1bc56ecc97e7acad2e7cb693ab76bdfacd"
+    },
+    {
+      "slug": "capcut-vs-vn-vs-premiere-for-clippers",
+      "sha256": "ceda1407bb2f52a26e3e60c5abebeb5c6bb8afd246da47e6dd468b979333722e"
+    },
+    {
+      "slug": "ai-tools-for-clipping-workflows",
+      "sha256": "729fa627d93e6c1327f1a90dd7722d854461a821debc52845a4d9dedde516ffd"
+    },
+    {
+      "slug": "clipping-campaign-fraud-prevention",
+      "sha256": "2b563c8c06bc48e387c0045ec51f731730ee7b932af9cd51d99001dfe6f3a0a2"
+    },
+    {
+      "slug": "disclosure-rules-for-paid-clips-india",
+      "sha256": "106b7e82162995cfb0b25eb5c8404768fb781919c5302aa5d5eb0f5bedd05191"
+    },
+    {
+      "slug": "brand-safety-checklist-for-clippers",
+      "sha256": "1c5791e5efacd25d26408a006cd6bdb633adb1e813548606efc73124b7ea3e49"
+    },
+    {
+      "slug": "how-to-brief-50-clippers",
+      "sha256": "059c78cd48704b5fc747b046041b3a02e25a833d47b2fba1bd847aab5b503474"
+    },
+    {
+      "slug": "clipper-recognition-ideas",
+      "sha256": "850e1eb45a7d7edc4dd1e47e81af776981c88188541d24e688a1963c39cb4945"
+    },
+    {
+      "slug": "first-campaign-scope-checklist-india",
+      "sha256": "2e930d2d5f253676a82437a82a3c9bcfe824b14128f723785ca420aedd2cbcfb"
+    },
+    {
+      "slug": "clipping-for-saas-founders-india",
+      "sha256": "1005b2e37e8d682f23c73701e4e67829c95a1ec2ceb28bb40525b8b01cb4eeab"
+    },
+    {
+      "slug": "clipping-for-d2c-brands-india",
+      "sha256": "af57683b5e504edaf8bb9e4139f832b19209e1143d08293908a4134d3e66212f"
+    },
+    {
+      "slug": "clipping-for-webinars-india",
+      "sha256": "af86f105dbbf4533b36aaddcdc0a7f2d87f0d6b918570e65d070b88b6361cb12"
+    },
+    {
+      "slug": "clipping-for-youtube-channels-india",
+      "sha256": "2cd6ccc9f68d7fe8d32476f8f1c2df1ea9799fdab3a6d1d04bf5119d08bfb8ff"
+    },
+    {
+      "slug": "clipping-for-linkedin-creators-india",
+      "sha256": "059f1147cb82efefe58cbf1a8460a71cda3f870cac4377d9778e52c6d738fb64"
+    },
+    {
+      "slug": "how-to-track-clipping-roi",
+      "sha256": "bd177b160287d141e2c7cd455a4eacf359a2ff2b9dffb83cc3561d37b7b7c2d6"
+    },
+    {
+      "slug": "what-makes-a-clip-go-viral-india",
+      "sha256": "4a51c5c4a4cc849bfdf020afb0a80c3603d396edc971026cecc3c82bc9ce824c"
+    },
+    {
+      "slug": "why-india-needs-clipping-networks",
+      "sha256": "ca258abb16f391001717ef6725dc893cff44ae11e3da1dfb0909b393fcd85812"
+    },
+    {
+      "slug": "future-of-creator-distribution-india",
+      "sha256": "8ce6bafedfba9fc6e4ec473f4ca3fbee796d18038e6a8f18bdeaaf0100344da4"
+    },
+    {
+      "slug": "does-clipping-work-in-india",
+      "sha256": "1e92b7e26fcee5b92de39b9b222e5104919617a1ae88895e1d680b3501a554f6"
+    },
+    {
+      "slug": "clipping-campaign-pricing-budget-india",
+      "sha256": "f78374f97b29a303fef91937fef085bee292e376dfd56919c3d6009cd2219a6b"
+    },
+    {
+      "slug": "is-video-clipping-legal-in-india",
+      "sha256": "5d752f76f7a76886347ccb55059ef3fcc6b2b2486c8298e42ae6f3dcb2e01cf2"
+    },
+    {
+      "slug": "how-to-check-clipping-campaign-legit-india",
+      "sha256": "a17bfb49ff061db5a98b1dac627d782933a7d631f309c3d8cc7f7aef0304f95d"
+    },
+    {
+      "slug": "how-to-choose-clipping-agency-india",
+      "sha256": "36893a1d6ad873996f638b8f4dae64c5820fe6c63ef6b5946bbbd064049a6f2a"
+    },
+    {
+      "slug": "ai-clipping-tools-vs-clipping-marketplaces",
+      "sha256": "b92eaafb79b059d2de9de7ab04d8ca3baadebc563064fc717a0c9dca77c0853c"
+    },
+    {
+      "slug": "youtube-reused-content-rules-indian-clippers",
+      "sha256": "c510455eb370a3ace312c8a27b71098f99f0d1766b3475974e92c527d3cc0b3e"
+    },
+    {
+      "slug": "utm-tracking-clipping-campaigns-india",
+      "sha256": "9aa3eeb248544202e06455ea2be2777b8a29c90a195a3c8ffc961aac19eaedef"
+    },
+    {
+      "slug": "accessible-captions-short-form-clips-india",
+      "sha256": "75c03cfa7e5d5b2e6f45a1965ef733c109939bff92f84ec4bbc0c81da2fcb71f"
+    },
+    {
+      "slug": "clipping-campaign-case-study-evidence-template",
+      "sha256": "59bca81ee11d205577211fb68e220d0dfee948e50133c726998960b79affa072"
+    },
+    {
+      "slug": "video-clipping-vs-video-editing-vs-ugc-india",
+      "sha256": "25eee8fef4b95b62dc5c28d4f106e0e46d659258e25d1f118702ff95400c2dc5"
+    },
+    {
+      "slug": "instagram-reels-vs-youtube-shorts-clipping-india",
+      "sha256": "f2d996801320a2a19423b9ba9fed08bc8f7dd8d5b07e069fdd84c7a48fb1ed83"
+    },
+    {
+      "slug": "creator-owned-vs-participant-accounts-clipping",
+      "sha256": "70a5024a422b82b419273d2d90c2b41a6266707cd3181f98e865ac4fd7d35ae9"
+    },
+    {
+      "slug": "utm-links-vs-coupon-codes-clipping-attribution",
+      "sha256": "c8d8ef08c5d7aed3460dc4e009dbd559c95f8857350f647c2fa981e055c1fcb2"
+    },
+    {
+      "slug": "clipping-submission-rejected-fix-appeal",
+      "sha256": "bf9644ad072a52752b29254cbaac64da2c0930536d4a98f20eff850c6daf2dfd"
+    },
+    {
+      "slug": "paid-clipper-test-assignment-scorecard",
+      "sha256": "7b04d9f740860aa8b24de164a382c3b2ed7fd5b0d2cd658d57d2348b54ae32e9"
+    },
+    {
+      "slug": "clipping-campaign-landing-page-checklist",
+      "sha256": "6bd76d3632f75c6a7aa1c244059324d1d1fbfae357ead27a1d6742f4344e515f"
+    },
+    {
+      "slug": "facebook-reels-original-content-clipping-india",
+      "sha256": "9c85b2290e5c1174d0f889a9b4478b4de5a4e6fc3358aef18dfb8f950103eb95"
+    },
+    {
+      "slug": "twitch-clips-permissions-campaign-guide",
+      "sha256": "ac5d5652158cf25637edc4b9202530c3ed2a31935c65c549b8529eedc67ff865"
+    },
+    {
+      "slug": "why-viral-clips-dont-build-creator-audience",
+      "sha256": "813e1e9ac834f55e80362fe33742f1a32b63ac58ddc06c6cb56f94193db21c9c"
+    },
+    {
+      "slug": "youtube-tutorial-clipping-shorts-india",
+      "sha256": "d596a740892bd4e9579711a43a364573f57a21a5ea0810ddfee2f59fdef120ba"
+    },
+    {
+      "slug": "b2b-webinar-clipping-qualified-leads-india",
+      "sha256": "4398de84870c1bca6b8763d332e09038646dc2ff79ecca8035cf3f64eb31381a"
+    },
+    {
+      "slug": "influencer-sponsored-content-clipping-india",
+      "sha256": "8d81424bba0909faf224d4bc335e696182fa639223416cf7419b067940a489cc"
+    },
+    {
+      "slug": "restaurant-cafe-reels-clipping-campaign-india",
+      "sha256": "061e98092417a6e82c683d12ffb29e7107c7fca26f640c8ee2f2f195eaa33cfa"
+    },
+    {
+      "slug": "real-estate-walkthrough-clipping-india",
+      "sha256": "573e8f6bd98146950aa3933a54bee3f41774fa7ee7d6992d8240c80b53cd88c6"
+    },
+    {
+      "slug": "fashion-product-demo-clipping-size-fit-india",
+      "sha256": "cf980f622022b6a4ee1a5ac3d9722471c10104d1e43449f3edc78404e5e872f3"
+    }
+  ],
+  "routes": "index.html\nresources/index.html\ncompare/index.html\nguides/index.html\nplatforms/index.html\nblog/index.html\ncontact/index.html\nprivacy/index.html\nterms/index.html\ndata-deletion/index.html\ndocs/index.html\ncompare/riseklix-vs-clipping-net-india.html\ncompare/riseklix-vs-whop-clips-india.html\ncompare/riseklix-vs-vyro-india.html\ncompare/riseklix-vs-makeclout-india.html\ncompare/best-clipping-platforms-india.html\ncompare/clipconnect-india-alternative.html\ncompare/creator-clipping-agency-vs-clipping-marketplace.html\ncompare/discord-clipping-network-vs-saas-clipping-platform.html\ncompare/managed-clipping-campaign-vs-hiring-freelance-editors.html\ncompare/riseklix-vs-traditional-social-media-agency.html\ncompare/riseklix-vs-influencer-marketing-agency-india.html\nguides/how-to-become-a-clipper-india.html\nguides/how-much-do-clippers-make-india.html\nguides/clipping-side-hustle-india.html\nguides/freelance-clipper-guide-india.html\nguides/remote-clipping-jobs-india.html\nguides/best-editing-tools-for-clippers-india.html\nguides/creator-clipping-campaign-guide-india.html\nguides/creator-content-library-guide-india.html\nplatforms/tiktok-clipper-guide-india.html\nplatforms/youtube-shorts-clipper-guide-india.html\nplatforms/instagram-reels-clipper-guide-india.html\nplatforms/x-twitter-clipper-guide-india.html\nplatforms/podcast-clipping-guide-india.html\nplatforms/stream-clipper-guide-india.html\nblog/creator-clipping-india-operating-manual-2026.html\nblog/creator-clipping-campaign-roi-calculator-india.html\nblog/creator-clipping-brief-template-india.html\nblog/how-riseklix-verifies-clip-views-public-links.html\nblog/discord-clipping-server-setup-advanced-operator-guide.html\nblog/clipper-verification-checklist-india.html\nblog/creator-clipping-vs-influencer-marketing-india.html\nblog/creator-clipping-vs-paid-ads-india.html\nblog/prevent-fake-views-clipping-campaigns.html\nblog/asci-disclosure-guide-paid-creator-clips-india.html\nblog/instagram-insights-clipping-campaigns-india.html\nblog/youtube-shorts-analytics-clipping-campaigns-india.html\nblog/clipping-campaigns-for-indian-podcasters.html\nblog/clipping-campaigns-finance-creators-india.html\nblog/clipping-campaigns-course-creators-coaches.html\nblog/clipping-campaigns-saas-founders-india.html\nblog/clipping-campaigns-music-artists-drops.html\nblog/clipping-campaigns-d2c-brands-creator-content.html\nblog/clipping-campaigns-events-summits-webinars.html\nblog/clipping-campaigns-gaming-streamers-india.html\nblog/what-is-a-clipping-campaign.html\nblog/what-is-a-clipper.html\nblog/what-is-a-creator-performance-network.html\nblog/how-do-clipping-campaigns-pay-talent.html\nblog/how-many-clips-should-a-creator-campaign-start-with.html\nblog/what-counts-as-an-approved-clip.html\nblog/good-clip-submission-format.html\nblog/how-long-should-short-form-clip-be-india.html\nblog/what-is-a-clipping-network-india.html\nblog/how-riseklix-is-building-indias-clipper-layer.html\nblog/best-clipping-platforms-for-indian-creators.html\nblog/clipping-net-alternative-india.html\nblog/whop-clips-alternative-india.html\nblog/vyro-alternative-indian-campaigns.html\nblog/makeclout-alternative-india.html\nblog/how-to-plan-a-creator-clipping-campaign-india.html\nblog/how-much-do-indian-clippers-earn.html\nblog/upi-payouts-for-clipper-campaigns.html\nblog/discord-server-setup-for-clipping.html\nblog/clipper-rules-template-india.html\nblog/youtube-shorts-clipping-for-podcasts.html\nblog/instagram-reels-clipping-for-coaches.html\nblog/founder-led-brand-clipping-guide.html\nblog/music-artist-clipping-campaigns-india.html\nblog/course-creator-clipping-campaigns.html\nblog/event-clipping-guide-india.html\nblog/podcast-clip-hooks-that-work-in-india.html\nblog/hinglish-clipping-guide.html\nblog/regional-language-clipping-india.html\nblog/clipper-portfolio-guide-india.html\nblog/best-free-tools-for-clippers-india.html\nblog/capcut-vs-vn-vs-premiere-for-clippers.html\nblog/ai-tools-for-clipping-workflows.html\nblog/clipping-campaign-fraud-prevention.html\nblog/disclosure-rules-for-paid-clips-india.html\nblog/brand-safety-checklist-for-clippers.html\nblog/how-to-brief-50-clippers.html\nblog/clipper-recognition-ideas.html\nblog/first-campaign-scope-checklist-india.html\nblog/clipping-for-saas-founders-india.html\nblog/clipping-for-d2c-brands-india.html\nblog/clipping-for-webinars-india.html\nblog/clipping-for-youtube-channels-india.html\nblog/clipping-for-linkedin-creators-india.html\nblog/how-to-track-clipping-roi.html\nblog/what-makes-a-clip-go-viral-india.html\nblog/why-india-needs-clipping-networks.html\nblog/future-of-creator-distribution-india.html\nblog/does-clipping-work-in-india.html\nguides/clipping-campaign-pricing-budget-india.html\nguides/is-video-clipping-legal-in-india.html\nguides/how-to-check-clipping-campaign-legit-india.html\nguides/how-to-choose-clipping-agency-india.html\ncompare/ai-clipping-tools-vs-clipping-marketplaces.html\nplatforms/youtube-reused-content-rules-indian-clippers.html\nguides/utm-tracking-clipping-campaigns-india.html\nguides/accessible-captions-short-form-clips-india.html\nblog/clipping-campaign-case-study-evidence-template.html\ncompare/video-clipping-vs-video-editing-vs-ugc-india.html\ncompare/instagram-reels-vs-youtube-shorts-clipping-india.html\ncompare/creator-owned-vs-participant-accounts-clipping.html\ncompare/utm-links-vs-coupon-codes-clipping-attribution.html\nguides/clipping-submission-rejected-fix-appeal.html\nguides/paid-clipper-test-assignment-scorecard.html\nguides/clipping-campaign-landing-page-checklist.html\nplatforms/facebook-reels-original-content-clipping-india.html\nplatforms/twitch-clips-permissions-campaign-guide.html\nblog/why-viral-clips-dont-build-creator-audience.html\nguides/youtube-tutorial-clipping-shorts-india.html\nguides/b2b-webinar-clipping-qualified-leads-india.html\nblog/influencer-sponsored-content-clipping-india.html\nblog/restaurant-cafe-reels-clipping-campaign-india.html\nguides/real-estate-walkthrough-clipping-india.html\nblog/fashion-product-demo-clipping-size-fit-india.html\n",
+  "assets": {
+    "styles.css": "5133251798b36052101426011aea4bd378a96b0fe87bb8ef5603e97242eab381",
+    "button-ui.css": "484e38672fc0cc7d4f16aa9ff49d16fb1557a23c477163b1fe87a4acddfec3f4",
+    "script.js": "64c2aa08529768b3f88a95790f7bfdf68153c2da34601f7df36a5a06d9e734e5",
+    "campaign-enquiry.js": "f5feab76f1d3c0ed56b25713f2e65b7dfe5ff3406b61505f42cce66f956031fc",
+    "assets/story-collage-v3-1536.avif": "a90a86ed307ac59e9dd56988b7a0da6fe291dbe0e8b325b3891b2a0ed71195b1",
+    "assets/riseklix-logo.png": "f02f3ff8a716347811a97fc56109cc953bdd589ffa32ebefca9d2a52be5f23cc"
+  }
+}

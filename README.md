@@ -4,6 +4,8 @@ A local redesign and expansion of the clipping website supplied in `deploy-6a428
 
 Preview: **http://127.0.0.1:8770/**
 
+The latest client-journey refinement makes the managed campaign scope visible on the homepage, with native creator/company examples and optional enquiry-writing help. “How it works” is now in the primary navigation; Discord entry remains prominent. All 119 complete article objects and 130 routes are preserved. This pass adds no JavaScript or media; its homepage-only stylesheet is 3,480 bytes (1,040 bytes with gzip). See [research and verification notes](docs/client-journey-design-research-2026-10-08.md). Run `npm run verify:journey` for the new flow. Local performance measurements and their conditions are recorded in `docs/client-journey-performance-comparison.json`.
+
 ## Run
 
 ```sh

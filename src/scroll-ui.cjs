@@ -1,6 +1,6 @@
 const esc=value=>String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 function storyNavigation(){
- const chapters=[['clipper-start','Start clipping','Join'],['cutting-desk','Editing examples','Studio'],['how-it-works','How it works','Process'],['field-notes','Resource library','Read']];
+ const chapters=[['clipper-start','Start clipping','Join'],['campaign-desk','Plan a campaign','Plan'],['how-it-works','How it works','Process'],['field-notes','Resource library','Read']];
  return `<nav class="story-navigation" aria-label="Homepage chapters" data-story-navigation><div class="container story-navigation-inner"><span class="story-index" aria-hidden="true">On this page</span><ol>${chapters.map(([id,label,short],index)=>`<li><a href="#${id}" aria-label="${label}"><span class="story-number" aria-hidden="true">${String(index+1).padStart(2,'0')}</span><span class="story-wide-label">${label}</span><span class="story-short-label" aria-hidden="true">${short}</span></a></li>`).join('')}</ol><a href="#top" class="scroll-top" data-scroll-top aria-label="Back to top">Top <span aria-hidden="true">↑</span></a></div><span class="story-progress" aria-hidden="true"></span></nav>`;
 }
 function readingDock(article,sections){

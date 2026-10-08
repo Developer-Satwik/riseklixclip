@@ -10,6 +10,7 @@
     "verify:scroll": "node scripts/verify-scroll-ui.mjs",
     "verify:buttons": "node scripts/verify-button-ui.mjs",
     "verify:theme": "node scripts/verify-theme-refinement.mjs",
+    "verify:journey": "node scripts/verify-client-journey.mjs",
     "verify:campaign": "node scripts/verify-campaign-api.mjs && node scripts/verify-campaign-browser.mjs"
   },
   "engines": {
